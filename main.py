@@ -1,6 +1,10 @@
 import requests, json, random
 from dotenv import load_dotenv
 import os
+import datetime
+
+x = datetime.datetime.now()
+update = x.strftime("%x")
 
 load_dotenv()
 
@@ -22,6 +26,8 @@ f.write(f'''
 Date : {data['date']}
 
 ![]({data['url']})
+
+<small>Latest update : {update}</small>
 
 
 ''')
