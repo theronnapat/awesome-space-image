@@ -10,7 +10,7 @@ f = open("./README.md", "w")
 
 link = 'https://api.nasa.gov/planetary/apod?api_key={}'.format(apikey)
 
-res = requests.get(link)
+res = requests.get(f'''{link}''')
 data = json.loads(res.text)
 
 
