@@ -4,7 +4,7 @@ import os
 import datetime
 
 x = datetime.datetime.now()
-update = x.strftime("%x")
+update = x.strftime("%c")
 
 load_dotenv()
 
