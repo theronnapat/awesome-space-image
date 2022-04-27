@@ -34,7 +34,7 @@ jobs:
         env:
           API: ${{ secrets.API }}
         run: |
-          pip install load_dotenv
+          pip install python-dotenv
           python3 main.py 
 
       - name: Commit README
