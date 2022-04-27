@@ -30,9 +30,12 @@ jobs:
           pip install requests
           
       - name: Generate README
+
         env:
           API: ${{ secrets.API }}
-        run: python main.py 
+        run: |
+          pip install dotenv
+          python3 main.py 
 
       - name: Commit README
         run: |
