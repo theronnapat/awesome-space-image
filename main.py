@@ -25,6 +25,8 @@ f.write(f'''
 
 Date : {data['date']}
 
+Credit : {data['copyright']}
+
 ![]({data['url']})
 
 <small>Latest update : {update}</small>
