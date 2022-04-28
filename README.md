@@ -9,6 +9,6 @@ Credit : Jeff Dai
 
 ![](https://apod.nasa.gov/apod/image/2204/LyridoverChinaJeffDai1024.jpg)
 
-<small>Latest update : Thu Apr 28 21:13:59 2022</small>
+<small>Latest update : Thu Apr 28 22:16:00 2022</small>
 
 
