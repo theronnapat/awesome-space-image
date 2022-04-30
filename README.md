@@ -9,6 +9,6 @@ Credit : Drew Evans
 
 ![](https://apod.nasa.gov/apod/image/2204/M44-resized1024.jpg)
 
-<small>Latest update : Sat Apr 30 04:22:44 2022</small>
+<small>Latest update : Sat Apr 30 05:14:51 2022</small>
 
 
