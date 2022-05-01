@@ -1,14 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : M44: The Beehive Cluster
+### Today image : Astronomy Picture of the Day
 
-Date : 2022-04-30
+Date : 2022-05-01
 
-Credit : Drew Evans
 
-![](https://apod.nasa.gov/apod/image/2204/M44-resized1024.jpg)
+![](https://apod.nasa.gov/apod/image/2205/M87bh_EHT_960.jpg)
 
-<small>Latest update : Sun May  1 03:41:24 2022</small>
+<small>Latest update : Sun May  1 11:44:40 2022</small>
 
 
