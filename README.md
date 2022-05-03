@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Partial Solar Eclipse over Argentina
+### Today image : Mercury's Sodium Tail
 
-Date : 2022-05-02
+Date : 2022-05-03
 
 
-![](https://apod.nasa.gov/apod/image/2205/PartialEclipse_Andrada_960.jpg)
+![](https://apod.nasa.gov/apod/image/2205/MercuryTailPleiades_Voltmer_960_annotated.jpg)
 
-<small>Latest update : Tue May  3 03:22:57 2022</small>
+<small>Latest update : Tue May  3 04:30:34 2022</small>
 
 
