@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : A Martian Eclipse: Phobos Crosses the Sun
+### Today image : NGC 6334: The Cat's Paw Nebula
 
-Date : 2022-05-09
+Date : 2022-05-10
 
 
-![](https://www.youtube.com/embed/aKK7vS2CHC8?rel=0)
+![](https://apod.nasa.gov/apod/image/2205/CatsPaw_Bemmerl_960.jpg)
 
-<small>Latest update : Tue May 10 03:25:35 2022</small>
+<small>Latest update : Tue May 10 04:20:48 2022</small>
 
 
