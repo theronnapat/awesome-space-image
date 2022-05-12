@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Gravity's Grin
+### Today image : Young Stars of NGC 346
 
-Date : 2022-05-11
+Date : 2022-05-12
 
 
-![](https://apod.nasa.gov/apod/image/2205/cheshirecat_chandra_complg_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2205/ngc346_hst_b1024.jpg)
 
-<small>Latest update : Thu May 12 03:12:58 2022</small>
+<small>Latest update : Thu May 12 04:28:52 2022</small>
 
 
