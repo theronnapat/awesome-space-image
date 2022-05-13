@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Young Stars of NGC 346
+### Today image : The Milky Way's Black Hole
 
-Date : 2022-05-12
+Date : 2022-05-13
 
 
-![](https://apod.nasa.gov/apod/image/2205/ngc346_hst_b1024.jpg)
+![](https://apod.nasa.gov/apod/image/2205/sgra_1024.jpg)
 
-<small>Latest update : Fri May 13 03:48:17 2022</small>
+<small>Latest update : Fri May 13 04:53:26 2022</small>
 
 
