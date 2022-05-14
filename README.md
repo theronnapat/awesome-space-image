@@ -8,6 +8,6 @@ Date : 2022-05-14
 
 ![](https://apod.nasa.gov/apod/image/2205/LunarHaloComplexLabels1024.jpg)
 
-<small>Latest update : Sat May 14 15:16:57 2022</small>
+<small>Latest update : Sat May 14 16:22:01 2022</small>
 
 
