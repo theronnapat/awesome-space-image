@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Colors of the Moon
+### Today image : Milky Way over French Alp Hoodoos
 
-Date : 2022-05-15
+Date : 2022-05-16
 
 
-![](https://apod.nasa.gov/apod/image/2205/MoonColors_Pace_960.jpg)
+![](https://apod.nasa.gov/apod/image/2205/CoiffeesMW_Barakat_960.jpg)
 
-<small>Latest update : Mon May 16 03:40:56 2022</small>
+<small>Latest update : Mon May 16 04:25:24 2022</small>
 
 
