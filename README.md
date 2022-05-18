@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : NGC 1316: After Galaxies Collide
+### Today image : A Jewel on the Flower Moon
 
-Date : 2022-05-17
+Date : 2022-05-18
 
 
-![](https://apod.nasa.gov/apod/image/2205/Ngc1316_Turgeon_960.jpg)
+![](https://apod.nasa.gov/apod/image/2205/DiamondMoonWSMALL1024.jpg)
 
-<small>Latest update : Wed May 18 03:16:20 2022</small>
+<small>Latest update : Wed May 18 04:29:34 2022</small>
 
 
