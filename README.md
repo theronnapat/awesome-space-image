@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Planetary Nebula Abell 7
+### Today image : A Large Tsunami Shock Wave on the Sun
 
-Date : 2022-05-21
+Date : 2022-05-22
 
 
-![](https://apod.nasa.gov/apod/image/2205/Abell_7-2022-02-20-HOO-1024.jpg)
+![](https://apod.nasa.gov/apod/image/2205/SunTsunami_nso_900.gif)
 
-<small>Latest update : Sun May 22 03:07:31 2022</small>
+<small>Latest update : Sun May 22 04:21:03 2022</small>
 
 
