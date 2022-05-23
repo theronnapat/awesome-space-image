@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : A Large Tsunami Shock Wave on the Sun
+### Today image : The Once and Future Stars of Andromeda
 
-Date : 2022-05-22
+Date : 2022-05-23
 
 
-![](https://apod.nasa.gov/apod/image/2205/SunTsunami_nso_900.gif)
+![](https://apod.nasa.gov/apod/image/2205/M31_HubbleSpitzerGendler_960.jpg)
 
-<small>Latest update : Mon May 23 03:19:51 2022</small>
+<small>Latest update : Mon May 23 04:32:31 2022</small>
 
 
