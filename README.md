@@ -8,6 +8,6 @@ Date : 2022-05-24
 
 ![](https://apod.nasa.gov/apod/image/2205/RhoLunarEclipse_Dascalu_960.jpg)
 
-<small>Latest update : Tue May 24 11:14:18 2022</small>
+<small>Latest update : Tue May 24 12:33:08 2022</small>
 
 
