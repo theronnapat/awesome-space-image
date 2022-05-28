@@ -8,6 +8,6 @@ Date : 2022-05-28
 
 ![](https://apod.nasa.gov/apod/image/2205/RCW86_MP1024.jpg)
 
-<small>Latest update : Sat May 28 08:21:33 2022</small>
+<small>Latest update : Sat May 28 09:15:43 2022</small>
 
 
