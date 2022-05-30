@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Simulation TNG50: A Galaxy Cluster Forms
+### Today image : Red Crepuscular Rays from an Eclipse
 
-Date : 2022-05-29
+Date : 2022-05-30
 
 
-![](https://www.youtube.com/embed/cNT5yAqpBmI?rel=0)
+![](https://apod.nasa.gov/apod/image/2205/EclipseRays_Bouvier_960.jpg)
 
-<small>Latest update : Mon May 30 03:34:57 2022</small>
+<small>Latest update : Mon May 30 04:36:42 2022</small>
 
 
