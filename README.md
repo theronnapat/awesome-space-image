@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Red Crepuscular Rays from an Eclipse
+### Today image : Rocket Transits Rippling Sun
 
-Date : 2022-05-30
+Date : 2022-05-31
 
 
-![](https://apod.nasa.gov/apod/image/2205/EclipseRays_Bouvier_960.jpg)
+![](https://apod.nasa.gov/apod/image/2205/FalconSun_Cain_960.jpg)
 
-<small>Latest update : Tue May 31 03:22:32 2022</small>
+<small>Latest update : Tue May 31 04:32:04 2022</small>
 
 
