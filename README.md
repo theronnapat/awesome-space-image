@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Rocket Transits Rippling Sun
+### Today image : Tau Herculids Meteors over Kitt Peak Telescopes
 
-Date : 2022-05-31
+Date : 2022-06-01
 
 
-![](https://apod.nasa.gov/apod/image/2205/FalconSun_Cain_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/TauHerMeteors_Lyu_1080.jpg)
 
-<small>Latest update : Wed Jun  1 04:02:13 2022</small>
+<small>Latest update : Wed Jun  1 05:44:29 2022</small>
 
 
