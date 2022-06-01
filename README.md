@@ -8,6 +8,6 @@ Date : 2022-06-01
 
 ![](https://apod.nasa.gov/apod/image/2206/TauHerMeteors_Lyu_1080.jpg)
 
-<small>Latest update : Wed Jun  1 10:21:55 2022</small>
+<small>Latest update : Wed Jun  1 11:15:01 2022</small>
 
 
