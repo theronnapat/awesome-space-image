@@ -8,6 +8,6 @@ Date : 2022-06-02
 
 ![](https://apod.nasa.gov/apod/image/2206/OccultationVenusQuentinGineys1024.gif)
 
-<small>Latest update : Thu Jun  2 21:14:26 2022</small>
+<small>Latest update : Thu Jun  2 22:14:57 2022</small>
 
 
