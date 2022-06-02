@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Tau Herculids Meteors over Kitt Peak Telescopes
+### Today image : Lunar Occultation of Venus
 
-Date : 2022-06-01
+Date : 2022-06-02
 
 
-![](https://apod.nasa.gov/apod/image/2206/TauHerMeteors_Lyu_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2206/OccultationVenusQuentinGineys1024.gif)
 
-<small>Latest update : Thu Jun  2 03:45:55 2022</small>
+<small>Latest update : Thu Jun  2 04:45:08 2022</small>
 
 
