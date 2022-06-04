@@ -8,6 +8,6 @@ Date : 2022-06-04
 
 ![](https://apod.nasa.gov/apod/image/2206/20220531_0343HerTau_submit1024.jpg)
 
-<small>Latest update : Sat Jun  4 09:14:56 2022</small>
+<small>Latest update : Sat Jun  4 10:15:45 2022</small>
 
 
