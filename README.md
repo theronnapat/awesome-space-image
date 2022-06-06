@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Two Black Holes Dancing in 3C 75
+### Today image : Milky Way Galaxy Doomed: Collision with Andromeda Pending
 
-Date : 2022-06-05
+Date : 2022-06-06
 
 
-![](https://apod.nasa.gov/apod/image/2206/3c75_chandraNRAO_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/M31MwBang_NASA_1080.jpg)
 
-<small>Latest update : Mon Jun  6 03:18:37 2022</small>
+<small>Latest update : Mon Jun  6 04:30:03 2022</small>
 
 
