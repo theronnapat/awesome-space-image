@@ -8,6 +8,6 @@ Date : 2022-06-06
 
 ![](https://apod.nasa.gov/apod/image/2206/M31MwBang_NASA_1080.jpg)
 
-<small>Latest update : Mon Jun  6 16:22:41 2022</small>
+<small>Latest update : Mon Jun  6 17:18:18 2022</small>
 
 
