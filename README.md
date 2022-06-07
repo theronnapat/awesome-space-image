@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Milky Way Galaxy Doomed: Collision with Andromeda Pending
+### Today image : NGC 6188: Dragons of Ara
 
-Date : 2022-06-06
+Date : 2022-06-07
 
 
-![](https://apod.nasa.gov/apod/image/2206/M31MwBang_NASA_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2206/Ngc6188_Robertson_960.jpg)
 
-<small>Latest update : Tue Jun  7 03:18:33 2022</small>
+<small>Latest update : Tue Jun  7 04:30:21 2022</small>
 
 
