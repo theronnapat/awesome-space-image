@@ -8,6 +8,6 @@ Date : 2022-06-07
 
 ![](https://apod.nasa.gov/apod/image/2206/Ngc6188_Robertson_960.jpg)
 
-<small>Latest update : Tue Jun  7 05:13:43 2022</small>
+<small>Latest update : Tue Jun  7 06:19:10 2022</small>
 
 
