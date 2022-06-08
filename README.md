@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : NGC 6188: Dragons of Ara
+### Today image : Ship Tracks over the Pacific Ocean
 
-Date : 2022-06-07
+Date : 2022-06-08
 
 
-![](https://apod.nasa.gov/apod/image/2206/Ngc6188_Robertson_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/ShipTracks_Terra_960.jpg)
 
-<small>Latest update : Wed Jun  8 03:22:15 2022</small>
+<small>Latest update : Wed Jun  8 04:29:14 2022</small>
 
 
