@@ -8,6 +8,6 @@ Date : 2022-06-09
 
 ![](https://apod.nasa.gov/apod/image/2206/CygWideHa-OIIIBiColorImage2_crop2_1024.jpg)
 
-<small>Latest update : Thu Jun  9 16:21:39 2022</small>
+<small>Latest update : Thu Jun  9 17:19:19 2022</small>
 
 
