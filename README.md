@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Ship Tracks over the Pacific Ocean
+### Today image : Cosmic Clouds in Cygnus
 
-Date : 2022-06-08
+Date : 2022-06-09
 
 
-![](https://apod.nasa.gov/apod/image/2206/ShipTracks_Terra_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/CygWideHa-OIIIBiColorImage2_crop2_1024.jpg)
 
-<small>Latest update : Thu Jun  9 03:23:17 2022</small>
+<small>Latest update : Thu Jun  9 04:27:37 2022</small>
 
 
