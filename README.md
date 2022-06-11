@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Arp 286: Trio in Virgo
+### Today image : The Road and the Milky Way
 
-Date : 2022-06-10
+Date : 2022-06-11
 
 
-![](https://apod.nasa.gov/apod/image/2206/Arp286-202203-CDK24-FLIPL9000-LRGB_NicolasROLLAND_signature_LD1024.jpg)
+![](https://apod.nasa.gov/apod/image/2206/MilkyWayArchCumeada-fb1200.jpg)
 
-<small>Latest update : Sat Jun 11 03:16:32 2022</small>
+<small>Latest update : Sat Jun 11 04:20:21 2022</small>
 
 
