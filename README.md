@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : The Road and the Milky Way
+### Today image : Find the Man in the Moon
 
-Date : 2022-06-11
+Date : 2022-06-12
 
 
-![](https://apod.nasa.gov/apod/image/2206/MilkyWayArchCumeada-fb1200.jpg)
+![](https://apod.nasa.gov/apod/image/1602/ManInMoon_Caxete_1080.jpg)
 
-<small>Latest update : Sun Jun 12 03:21:33 2022</small>
+<small>Latest update : Sun Jun 12 04:22:49 2022</small>
 
 
