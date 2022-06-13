@@ -8,6 +8,6 @@ Date : 2022-06-13
 
 ![](https://apod.nasa.gov/apod/image/2206/M51_HubbleMiller_1080.jpg)
 
-<small>Latest update : Mon Jun 13 22:15:47 2022</small>
+<small>Latest update : Mon Jun 13 23:15:44 2022</small>
 
 
