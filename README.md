@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Find the Man in the Moon
+### Today image : M51: The Whirlpool Galaxy from Hubble
 
-Date : 2022-06-12
+Date : 2022-06-13
 
 
-![](https://apod.nasa.gov/apod/image/1602/ManInMoon_Caxete_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2206/M51_HubbleMiller_1080.jpg)
 
-<small>Latest update : Mon Jun 13 03:34:52 2022</small>
+<small>Latest update : Mon Jun 13 04:37:39 2022</small>
 
 
