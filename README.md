@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Satellites Behind Pinnacles
+### Today image : In the Heart of the Virgo Cluster
 
-Date : 2022-06-14
+Date : 2022-06-15
 
 
-![](https://apod.nasa.gov/apod/image/2206/StarTrailsPinnacles_Rozells_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/VirgoCentral_Adomaitis_960.jpg)
 
-<small>Latest update : Wed Jun 15 03:38:22 2022</small>
+<small>Latest update : Wed Jun 15 04:32:43 2022</small>
 
 
