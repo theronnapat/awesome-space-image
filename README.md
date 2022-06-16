@@ -8,6 +8,6 @@ Date : 2022-06-16
 
 ![](https://apod.nasa.gov/apod/image/2206/StrawberrySupermoonfromChina1024.jpg)
 
-<small>Latest update : Thu Jun 16 13:34:04 2022</small>
+<small>Latest update : Thu Jun 16 14:14:05 2022</small>
 
 
