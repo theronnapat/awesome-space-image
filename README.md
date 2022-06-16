@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : In the Heart of the Virgo Cluster
+### Today image : Strawberry Supermoon from China
 
-Date : 2022-06-15
+Date : 2022-06-16
 
 
-![](https://apod.nasa.gov/apod/image/2206/VirgoCentral_Adomaitis_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/StrawberrySupermoonfromChina1024.jpg)
 
-<small>Latest update : Thu Jun 16 03:22:04 2022</small>
+<small>Latest update : Thu Jun 16 04:31:15 2022</small>
 
 
