@@ -39,8 +39,8 @@ jobs:
 
       - name: Commit README
         run: |
-          git config --global user.email "potbye@users.noreply.github.com"
-          git config --global user.name "potbye"
+          git config --global user.email "ronnapatp@users.noreply.github.com"
+          git config --global user.name "ronnapatp"
           git add .
           git commit -am "Update README"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
