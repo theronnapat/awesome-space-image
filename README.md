@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Good Morning Planets from Chile
+### Today image : The Gamma Cygni Nebula
 
-Date : 2022-06-17
+Date : 2022-06-18
 
 
-![](https://apod.nasa.gov/apod/image/2206/PlanetsfromChile__labelled_E-Schulz.jpg)
+![](https://apod.nasa.gov/apod/image/2206/gamma-cygni-nebula-and-sadr1024.jpg)
 
-<small>Latest update : Sat Jun 18 03:28:44 2022</small>
+<small>Latest update : Sat Jun 18 04:22:31 2022</small>
 
 
