@@ -8,6 +8,6 @@ Date : 2022-06-19
 
 ![](https://stefanom.org/spc/game.php)
 
-<small>Latest update : Sun Jun 19 20:16:36 2022</small>
+<small>Latest update : Sun Jun 19 21:13:49 2022</small>
 
 
