@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : The Gamma Cygni Nebula
+### Today image : Game: Super Planet Crash
 
-Date : 2022-06-18
+Date : 2022-06-19
 
 
-![](https://apod.nasa.gov/apod/image/2206/gamma-cygni-nebula-and-sadr1024.jpg)
+![](https://stefanom.org/spc/game.php)
 
-<small>Latest update : Sun Jun 19 03:38:14 2022</small>
+<small>Latest update : Sun Jun 19 04:29:02 2022</small>
 
 
