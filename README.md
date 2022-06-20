@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Game: Super Planet Crash
+### Today image : Rock Fingers on Mars
 
-Date : 2022-06-19
+Date : 2022-06-20
 
 
-![](https://stefanom.org/spc/game.php)
+![](https://apod.nasa.gov/apod/image/2206/MarsFingers_Curiosity_960.jpg)
 
-<small>Latest update : Mon Jun 20 03:14:31 2022</small>
+<small>Latest update : Mon Jun 20 04:25:18 2022</small>
 
 
