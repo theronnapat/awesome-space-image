@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Analemma over Taipei
+### Today image : Supernova Remnant: The Veil Nebula
 
-Date : 2022-06-21
+Date : 2022-06-22
 
 
-![](https://apod.nasa.gov/apod/image/2206/AnalemmaTaipei_Lee_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2206/Veil_Stocks_1080.jpg)
 
-<small>Latest update : Wed Jun 22 03:33:51 2022</small>
+<small>Latest update : Wed Jun 22 04:33:12 2022</small>
 
 
