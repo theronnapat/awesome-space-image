@@ -8,6 +8,6 @@ Date : 2022-06-23
 
 ![](https://apod.nasa.gov/apod/image/2206/NGC6744_chakrabarti1024R.jpg)
 
-<small>Latest update : Thu Jun 23 19:12:08 2022</small>
+<small>Latest update : Thu Jun 23 20:17:09 2022</small>
 
 
