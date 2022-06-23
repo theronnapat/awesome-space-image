@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Supernova Remnant: The Veil Nebula
+### Today image : Spiral Galaxy NGC 6744
 
-Date : 2022-06-22
+Date : 2022-06-23
 
 
-![](https://apod.nasa.gov/apod/image/2206/Veil_Stocks_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2206/NGC6744_chakrabarti1024R.jpg)
 
-<small>Latest update : Thu Jun 23 03:35:03 2022</small>
+<small>Latest update : Thu Jun 23 04:34:13 2022</small>
 
 
