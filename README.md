@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Filaprom on the Western Limb
+### Today image : Planets of the Solar System
 
-Date : 2022-06-24
+Date : 2022-06-25
 
 
-![](https://apod.nasa.gov/apod/image/2206/AR3038_Filaprom_HA_DS_150mmF20_IMX174_Color_06222022_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2206/20220624_ALLINEAMENTO_SPECIALEweb600h.jpg)
 
-<small>Latest update : Sat Jun 25 03:34:04 2022</small>
+<small>Latest update : Sat Jun 25 04:26:23 2022</small>
 
 
