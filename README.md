@@ -8,6 +8,6 @@ Date : 2022-06-26
 
 ![](https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg)
 
-<small>Latest update : Sun Jun 26 12:27:04 2022</small>
+<small>Latest update : Sun Jun 26 13:23:13 2022</small>
 
 
