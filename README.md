@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Planets of the Solar System
+### Today image : Light Echoes from V838 Mon
 
-Date : 2022-06-25
+Date : 2022-06-26
 
 
-![](https://apod.nasa.gov/apod/image/2206/20220624_ALLINEAMENTO_SPECIALEweb600h.jpg)
+![](https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg)
 
-<small>Latest update : Sun Jun 26 03:36:54 2022</small>
+<small>Latest update : Sun Jun 26 04:28:18 2022</small>
 
 
