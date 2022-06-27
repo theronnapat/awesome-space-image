@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Light Echoes from V838 Mon
+### Today image : The Gum Nebula over Snowy Mountains
 
-Date : 2022-06-26
+Date : 2022-06-27
 
 
-![](https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/GumMountain_WangJin_1080.jpg)
 
-<small>Latest update : Mon Jun 27 03:48:30 2022</small>
+<small>Latest update : Mon Jun 27 04:50:12 2022</small>
 
 
