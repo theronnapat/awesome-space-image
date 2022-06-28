@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : The Gum Nebula over Snowy Mountains
+### Today image : Mercury from Passing BepiColombo
 
-Date : 2022-06-27
+Date : 2022-06-28
 
 
-![](https://apod.nasa.gov/apod/image/2206/GumMountain_WangJin_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2206/Mercury_BepiColombo_960.jpg)
 
-<small>Latest update : Tue Jun 28 03:42:07 2022</small>
+<small>Latest update : Tue Jun 28 04:40:12 2022</small>
 
 
