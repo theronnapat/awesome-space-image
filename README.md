@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Mercury from Passing BepiColombo
+### Today image : Solar System Family Portrait
 
-Date : 2022-06-28
+Date : 2022-06-29
 
 
-![](https://apod.nasa.gov/apod/image/2206/Mercury_BepiColombo_960.jpg)
+![](https://apod.nasa.gov/apod/image/2206/SolSysPortrait_Trigo_1080_annotated.jpg)
 
-<small>Latest update : Wed Jun 29 03:46:49 2022</small>
+<small>Latest update : Wed Jun 29 04:45:13 2022</small>
 
 
