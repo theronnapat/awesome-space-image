@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Solar System Family Portrait
+### Today image : Comet C/2017 K2 (PanSTARRS)
 
-Date : 2022-06-29
+Date : 2022-06-30
 
 
-![](https://apod.nasa.gov/apod/image/2206/SolSysPortrait_Trigo_1080_annotated.jpg)
+![](https://apod.nasa.gov/apod/image/2206/2017K2_2022-06-20_media1024.jpg)
 
-<small>Latest update : Thu Jun 30 03:41:04 2022</small>
+<small>Latest update : Thu Jun 30 04:37:25 2022</small>
 
 
