@@ -8,6 +8,6 @@ Date : 2022-06-30
 
 ![](https://apod.nasa.gov/apod/image/2206/2017K2_2022-06-20_media1024.jpg)
 
-<small>Latest update : Thu Jun 30 18:22:42 2022</small>
+<small>Latest update : Thu Jun 30 19:12:25 2022</small>
 
 
