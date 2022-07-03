@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Solargraphic Analemmas
+### Today image : Phobos: Doomed Moon of Mars
 
-Date : 2022-07-02
+Date : 2022-07-03
 
 
-![](https://apod.nasa.gov/apod/image/2207/Analemma1_1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2207/Phobos_MRO_960.jpg)
 
-<small>Latest update : Sun Jul  3 03:33:49 2022</small>
+<small>Latest update : Sun Jul  3 04:26:21 2022</small>
 
 
