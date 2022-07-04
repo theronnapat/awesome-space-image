@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Phobos: Doomed Moon of Mars
+### Today image : Strawberry Supermoon Over Devil's Saddle
 
-Date : 2022-07-03
+Date : 2022-07-04
 
 
-![](https://apod.nasa.gov/apod/image/2207/Phobos_MRO_960.jpg)
+![](https://apod.nasa.gov/apod/image/2207/StrawberryMoonRise_Busilacchi_1080.jpg)
 
-<small>Latest update : Mon Jul  4 03:48:30 2022</small>
+<small>Latest update : Mon Jul  4 04:45:36 2022</small>
 
 
