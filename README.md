@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : A Molten Galaxy Einstein Ring
+### Today image : Milky Way Motion in 3D from Gaia
 
-Date : 2022-07-05
+Date : 2022-07-06
 
 
-![](https://apod.nasa.gov/apod/image/2207/MoltenEinsteinRing_HubbleLodge_960.jpg)
+![](https://apod.nasa.gov/apod/image/2207/MilkyWayMotion_Gaia_1080.jpg)
 
-<small>Latest update : Wed Jul  6 03:48:14 2022</small>
+<small>Latest update : Wed Jul  6 04:46:47 2022</small>
 
 
