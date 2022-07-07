@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Milky Way Motion in 3D from Gaia
+### Today image : The NGC 6914 Complex
 
-Date : 2022-07-06
+Date : 2022-07-07
 
 
-![](https://apod.nasa.gov/apod/image/2207/MilkyWayMotion_Gaia_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2207/NGC_6914_1024.jpg)
 
-<small>Latest update : Thu Jul  7 03:47:42 2022</small>
+<small>Latest update : Thu Jul  7 04:45:19 2022</small>
 
 
