@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Andromeda over the Sahara Desert
+### Today image : Noctilucent Clouds over Paris
 
-Date : 2022-07-11
+Date : 2022-07-12
 
 
-![](https://apod.nasa.gov/apod/image/2207/SaharaAndromeda_Coy_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2207/NoctilucentParis_Kulik_1080.jpg)
 
-<small>Latest update : Tue Jul 12 03:58:35 2022</small>
+<small>Latest update : Tue Jul 12 05:04:54 2022</small>
 
 
