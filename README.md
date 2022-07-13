@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Noctilucent Clouds over Paris
+### Today image : Webb's First Deep Field
 
-Date : 2022-07-12
+Date : 2022-07-13
 
 
-![](https://apod.nasa.gov/apod/image/2207/NoctilucentParis_Kulik_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2207/STScI-SMACS0723_webb.jpg)
 
-<small>Latest update : Wed Jul 13 03:38:58 2022</small>
+<small>Latest update : Wed Jul 13 04:34:35 2022</small>
 
 
