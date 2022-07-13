@@ -8,6 +8,6 @@ Date : 2022-07-13
 
 ![](https://apod.nasa.gov/apod/image/2207/STScI-SMACS0723_webb.jpg)
 
-<small>Latest update : Wed Jul 13 11:13:53 2022</small>
+<small>Latest update : Wed Jul 13 12:35:34 2022</small>
 
 
