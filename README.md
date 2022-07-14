@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Webb's First Deep Field
+### Today image : Webb's Southern Ring Nebula
 
-Date : 2022-07-13
+Date : 2022-07-14
 
 
-![](https://apod.nasa.gov/apod/image/2207/STScI-SMACS0723_webb.jpg)
+![](https://apod.nasa.gov/apod/image/2207/STScI-WebbSouthernRing.jpg)
 
-<small>Latest update : Thu Jul 14 03:50:15 2022</small>
+<small>Latest update : Thu Jul 14 04:48:29 2022</small>
 
 
