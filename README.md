@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Webb's Southern Ring Nebula
+### Today image : Lubovna Full Moon
 
-Date : 2022-07-14
+Date : 2022-07-15
 
 
-![](https://apod.nasa.gov/apod/image/2207/STScI-WebbSouthernRing.jpg)
+![](https://apod.nasa.gov/apod/image/2207/2022_07_13_Uplnek_Lubovna_1000mm_c1024px.jpg)
 
-<small>Latest update : Fri Jul 15 03:55:25 2022</small>
+<small>Latest update : Fri Jul 15 05:03:28 2022</small>
 
 
