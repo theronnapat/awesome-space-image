@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Lubovna Full Moon
+### Today image : Tycho and Clavius at Dawn
 
-Date : 2022-07-15
+Date : 2022-07-16
 
 
-![](https://apod.nasa.gov/apod/image/2207/2022_07_13_Uplnek_Lubovna_1000mm_c1024px.jpg)
+![](https://apod.nasa.gov/apod/image/2207/Dawn-in-Clavius-Tycho-07-07-22_1024.jpg)
 
-<small>Latest update : Sat Jul 16 03:24:41 2022</small>
+<small>Latest update : Sat Jul 16 04:27:57 2022</small>
 
 
