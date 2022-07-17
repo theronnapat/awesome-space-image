@@ -8,6 +8,6 @@ Date : 2022-07-17
 
 ![](https://apod.nasa.gov/apod/image/2207/EuropaJupiter_Voyager_960.jpg)
 
-<small>Latest update : Sun Jul 17 14:14:00 2022</small>
+<small>Latest update : Sun Jul 17 15:15:17 2022</small>
 
 
