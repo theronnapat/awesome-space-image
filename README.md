@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Tycho and Clavius at Dawn
+### Today image : Europa and Jupiter from Voyager 1
 
-Date : 2022-07-16
+Date : 2022-07-17
 
 
-![](https://apod.nasa.gov/apod/image/2207/Dawn-in-Clavius-Tycho-07-07-22_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2207/EuropaJupiter_Voyager_960.jpg)
 
-<small>Latest update : Sun Jul 17 03:41:15 2022</small>
+<small>Latest update : Sun Jul 17 04:32:08 2022</small>
 
 
