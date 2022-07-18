@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Europa and Jupiter from Voyager 1
+### Today image : Stephan's Quintet from Webb, Hubble, and Subaru
 
-Date : 2022-07-17
+Date : 2022-07-18
 
 
-![](https://apod.nasa.gov/apod/image/2207/EuropaJupiter_Voyager_960.jpg)
+![](https://apod.nasa.gov/apod/image/2207/Quintet_JwstHstEtcGendler_960.jpg)
 
-<small>Latest update : Mon Jul 18 03:44:09 2022</small>
+<small>Latest update : Mon Jul 18 04:47:59 2022</small>
 
 
