@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Stephan's Quintet from Webb, Hubble, and Subaru
+### Today image : Pleiades over Half Dome
 
-Date : 2022-07-18
+Date : 2022-07-19
 
 
-![](https://apod.nasa.gov/apod/image/2207/Quintet_JwstHstEtcGendler_960.jpg)
+![](https://apod.nasa.gov/apod/image/2207/HalfPleiades_Venkatraman_960.jpg)
 
-<small>Latest update : Tue Jul 19 03:58:03 2022</small>
+<small>Latest update : Tue Jul 19 05:11:33 2022</small>
 
 
