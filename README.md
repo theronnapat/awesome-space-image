@@ -8,6 +8,6 @@ Date : 2022-07-22
 
 ![](https://apod.nasa.gov/apod/image/2207/JWST_NGC628_Robert_Eder_V2600h.jpg)
 
-<small>Latest update : Fri Jul 22 16:27:05 2022</small>
+<small>Latest update : Fri Jul 22 17:25:33 2022</small>
 
 
