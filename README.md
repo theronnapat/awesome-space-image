@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Messier 10 and Comet
+### Today image : Spiral Galaxy M74: A Sharper View
 
-Date : 2022-07-21
+Date : 2022-07-22
 
 
-![](https://apod.nasa.gov/apod/image/2207/C2017k2cumuloM10v4_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2207/JWST_NGC628_Robert_Eder_V2600h.jpg)
 
-<small>Latest update : Fri Jul 22 03:48:05 2022</small>
+<small>Latest update : Fri Jul 22 04:43:13 2022</small>
 
 
