@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Comet NEOWISE Rising over the Adriatic Sea
+### Today image : Crepuscular Moon Rays over Denmark
 
-Date : 2022-07-26
+Date : 2022-07-27
 
 
-![](https://www.youtube.com/embed/ts0Ek3nLHew?rel=0)
+![](https://apod.nasa.gov/apod/image/2207/CrepuscularMoonrise_Merzyakov_960.jpg)
 
-<small>Latest update : Wed Jul 27 03:48:53 2022</small>
+<small>Latest update : Wed Jul 27 04:52:05 2022</small>
 
 
