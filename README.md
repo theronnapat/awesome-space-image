@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : North Celestial Tree
+### Today image : SOFIA's Southern Lights
 
-Date : 2022-07-28
+Date : 2022-07-29
 
 
-![](https://apod.nasa.gov/apod/image/2207/AncientTreeNCP_Dai1024.jpg)
+![](https://apod.nasa.gov/apod/image/2207/ASC05954-Edit1024.jpg)
 
-<small>Latest update : Fri Jul 29 03:51:20 2022</small>
+<small>Latest update : Fri Jul 29 04:48:51 2022</small>
 
 
