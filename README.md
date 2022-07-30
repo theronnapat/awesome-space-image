@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : SOFIA's Southern Lights
+### Today image : The Eagle Rises
 
-Date : 2022-07-29
+Date : 2022-07-30
 
 
-![](https://apod.nasa.gov/apod/image/2207/ASC05954-Edit1024.jpg)
+![](https://apod.nasa.gov/apod/image/2207/AS11JK44-6633-34_1100px.jpg)
 
-<small>Latest update : Sat Jul 30 03:46:34 2022</small>
+<small>Latest update : Sat Jul 30 04:36:51 2022</small>
 
 
