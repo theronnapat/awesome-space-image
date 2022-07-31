@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : The Eagle Rises
+### Today image : Starburst Galaxy M94 from Hubble
 
-Date : 2022-07-30
+Date : 2022-07-31
 
 
-![](https://apod.nasa.gov/apod/image/2207/AS11JK44-6633-34_1100px.jpg)
+![](https://apod.nasa.gov/apod/image/2207/M94_Hubble_960.jpg)
 
-<small>Latest update : Sun Jul 31 03:42:24 2022</small>
+<small>Latest update : Sun Jul 31 04:32:35 2022</small>
 
 
