@@ -8,6 +8,6 @@ Date : 2022-08-01
 
 ![](https://apod.nasa.gov/apod/image/2208/MysticCarina_HubbleSerrano_960.jpg)
 
-<small>Latest update : Mon Aug  1 16:23:40 2022</small>
+<small>Latest update : Mon Aug  1 17:24:21 2022</small>
 
 
