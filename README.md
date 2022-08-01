@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Starburst Galaxy M94 from Hubble
+### Today image : Mountains of Dust in the Carina Nebula
 
-Date : 2022-07-31
+Date : 2022-08-01
 
 
-![](https://apod.nasa.gov/apod/image/2207/M94_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/MysticCarina_HubbleSerrano_960.jpg)
 
-<small>Latest update : Mon Aug  1 01:50:18 2022</small>
+<small>Latest update : Mon Aug  1 04:08:41 2022</small>
 
 
