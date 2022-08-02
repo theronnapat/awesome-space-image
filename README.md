@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Mountains of Dust in the Carina Nebula
+### Today image : A Moon Dressed Like Saturn
 
-Date : 2022-08-01
+Date : 2022-08-02
 
 
-![](https://apod.nasa.gov/apod/image/2208/MysticCarina_HubbleSerrano_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/SaturnMoon_Sojuel_960.jpg)
 
-<small>Latest update : Tue Aug  2 01:55:34 2022</small>
+<small>Latest update : Tue Aug  2 04:06:53 2022</small>
 
 
