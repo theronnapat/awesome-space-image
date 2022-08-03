@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : A Moon Dressed Like Saturn
+### Today image : Halo of the Cat's Eye
 
-Date : 2022-08-02
+Date : 2022-08-03
 
 
-![](https://apod.nasa.gov/apod/image/2208/SaturnMoon_Sojuel_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/CatsHalo_Falls_960.jpg)
 
-<small>Latest update : Wed Aug  3 03:53:12 2022</small>
+<small>Latest update : Wed Aug  3 05:02:39 2022</small>
 
 
