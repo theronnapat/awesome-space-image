@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Halo of the Cat's Eye
+### Today image : M13: The Great Globular Cluster in Hercules
 
-Date : 2022-08-03
+Date : 2022-08-04
 
 
-![](https://apod.nasa.gov/apod/image/2208/CatsHalo_Falls_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/M13_final2_sinfirma1024.jpg)
 
-<small>Latest update : Thu Aug  4 03:25:43 2022</small>
+<small>Latest update : Thu Aug  4 04:42:25 2022</small>
 
 
