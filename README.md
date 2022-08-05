@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : M13: The Great Globular Cluster in Hercules
+### Today image : A Beautiful Trifid
 
-Date : 2022-08-04
+Date : 2022-08-05
 
 
-![](https://apod.nasa.gov/apod/image/2208/M13_final2_sinfirma1024.jpg)
+![](https://apod.nasa.gov/apod/image/2208/M20-Trifid-Nebula-1024.jpg)
 
-<small>Latest update : Fri Aug  5 03:42:41 2022</small>
+<small>Latest update : Fri Aug  5 04:44:06 2022</small>
 
 
