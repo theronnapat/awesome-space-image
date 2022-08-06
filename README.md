@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : A Beautiful Trifid
+### Today image : Stereo Phobos
 
-Date : 2022-08-05
+Date : 2022-08-06
 
 
-![](https://apod.nasa.gov/apod/image/2208/M20-Trifid-Nebula-1024.jpg)
+![](https://apod.nasa.gov/apod/image/2208/Phobos_stereoME_1024c.jpg)
 
-<small>Latest update : Sat Aug  6 03:18:20 2022</small>
+<small>Latest update : Sat Aug  6 04:22:26 2022</small>
 
 
