@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Stereo Phobos
+### Today image : Meteor before Galaxy
 
-Date : 2022-08-06
+Date : 2022-08-07
 
 
-![](https://apod.nasa.gov/apod/image/2208/Phobos_stereoME_1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2208/MeteorM31_hemmerich_960.jpg)
 
-<small>Latest update : Sun Aug  7 03:21:53 2022</small>
+<small>Latest update : Sun Aug  7 04:23:29 2022</small>
 
 
