@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Meteor before Galaxy
+### Today image : The Lagoon Nebula without Stars
 
-Date : 2022-08-07
+Date : 2022-08-08
 
 
-![](https://apod.nasa.gov/apod/image/2208/MeteorM31_hemmerich_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/LagoonStarFree_Dhar_960.jpg)
 
-<small>Latest update : Mon Aug  8 03:38:44 2022</small>
+<small>Latest update : Mon Aug  8 04:33:49 2022</small>
 
 
