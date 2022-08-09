@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : The Lagoon Nebula without Stars
+### Today image : Leaving Earth
 
-Date : 2022-08-08
+Date : 2022-08-09
 
 
-![](https://apod.nasa.gov/apod/image/2208/LagoonStarFree_Dhar_960.jpg)
+![](https://www.youtube.com/embed/rFDjAfwmWKM?rel=0)
 
-<small>Latest update : Tue Aug  9 03:43:03 2022</small>
+<small>Latest update : Tue Aug  9 04:39:33 2022</small>
 
 
