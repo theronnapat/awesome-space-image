@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Dust Clouds of the Pacman Nebula
+### Today image : Perseids and MAGIC
 
-Date : 2022-08-10
+Date : 2022-08-11
 
 
-![](https://apod.nasa.gov/apod/image/2208/Pacman_Struble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/MagicPerseid001_1024.jpg)
 
-<small>Latest update : Thu Aug 11 03:17:21 2022</small>
+<small>Latest update : Thu Aug 11 04:24:52 2022</small>
 
 
