@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Perseids and MAGIC
+### Today image : Portrait of the Eagle Nebula
 
-Date : 2022-08-11
+Date : 2022-08-12
 
 
-![](https://apod.nasa.gov/apod/image/2208/MagicPerseid001_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2208/M16_final_1024.jpg)
 
-<small>Latest update : Fri Aug 12 03:27:20 2022</small>
+<small>Latest update : Fri Aug 12 04:29:58 2022</small>
 
 
