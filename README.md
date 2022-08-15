@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : 4000 Exoplanets
+### Today image : The Cygnus Wall of Star Formation
 
-Date : 2022-08-14
+Date : 2022-08-15
 
 
-![](https://www.youtube.com/embed/aiFD_LBx2nM?rel=0)
+![](https://apod.nasa.gov/apod/image/2208/CygnusWall_Bogaerts_960.jpg)
 
-<small>Latest update : Mon Aug 15 03:55:43 2022</small>
+<small>Latest update : Mon Aug 15 06:22:00 2022</small>
 
 
