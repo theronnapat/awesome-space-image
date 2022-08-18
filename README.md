@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Stargate Milky Way
+### Today image : Full Moon Perseids
 
-Date : 2022-08-17
+Date : 2022-08-18
 
 
-![](https://apod.nasa.gov/apod/image/2208/StargateMilkyWay_Oudoux_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/perseids2022jcc2k800.jpg)
 
-<small>Latest update : Thu Aug 18 04:01:17 2022</small>
+<small>Latest update : Thu Aug 18 05:33:35 2022</small>
 
 
