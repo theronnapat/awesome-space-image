@@ -8,6 +8,6 @@ Date : 2022-08-21
 
 ![](https://apod.nasa.gov/apod/image/2208/Crab_HubbleChandraSpitzer_1080.jpg)
 
-<small>Latest update : Sun Aug 21 18:19:01 2022</small>
+<small>Latest update : Sun Aug 21 19:12:55 2022</small>
 
 
