@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : Earth's Recent Climate Spiral
+### Today image : Meteor & Milky Way over the Mediterranean
 
-Date : 2022-08-22
+Date : 2022-08-23
 
 
-![](https://www.youtube.com/embed/ACaPI2M4GyU?rel=0)
+![](https://apod.nasa.gov/apod/image/2208/MeteorGalaxy_Looten_1000.jpg)
 
-<small>Latest update : Tue Aug 23 01:50:22 2022</small>
+<small>Latest update : Tue Aug 23 04:13:19 2022</small>
 
 
