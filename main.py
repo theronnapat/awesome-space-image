@@ -2,7 +2,6 @@ import requests, json, random
 from dotenv import load_dotenv
 import os
 import datetime
-from datetime import datetime
 
 x = datetime.datetime.now()
 update = x.strftime("%c")
