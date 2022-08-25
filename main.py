@@ -18,13 +18,15 @@ link = 'https://api.nasa.gov/planetary/apod?api_key={}'.format(apikey)
 res = requests.get(f'''{link}''')
 data = json.loads(res.text)
 
+date = data['date'].strftime("%b %d, %Y")
+
 
 f.write(f'''
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
 ### Today image : {data['title']}
 
-Date : {data['date'].strftime("%b %d, %Y")}
+Date : {date}
 
 
 ![]({data['url']})
