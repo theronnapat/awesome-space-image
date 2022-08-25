@@ -18,7 +18,6 @@ res = requests.get(f'''{link}''')
 data = json.loads(res.text)
 
 date = data['date']
-dateShow = date.strftime("%b %d, %Y")
 
 
 f.write(f'''
@@ -26,7 +25,7 @@ f.write(f'''
 
 ### Today image : {data['title']}
 
-Date : {dateShow}
+Date : {date}
 
 
 ![]({data['url']})
