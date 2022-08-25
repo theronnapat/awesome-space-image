@@ -24,7 +24,7 @@ f.write(f'''
 
 ### Today image : {data['title']}
 
-Date : {data['date']}.strftime("%b %d, %Y")
+Date : {data['date'].strftime("%b %d, %Y")}
 
 
 ![]({data['url']})
