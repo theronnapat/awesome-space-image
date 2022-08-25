@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [nasa](https://api.nasa.gov/)
 
-### Today image : The Cartwheel Galaxy from Webb
+### Today image : Tiangong Space Station Transits the Moon
 
-Date : 2022-08-24
+Date : 2022-08-25
 
 
-![](https://apod.nasa.gov/apod/image/2208/Cartwheel_Webb_960.jpg)
+![](https://apod.nasa.gov/apod/image/2208/Tiangong_transiting_moon_Lucy_Hu_c1024.jpg)
 
-<small>Latest update : Thu Aug 25 01:48:21 2022</small>
+<small>Latest update : Thu Aug 25 04:09:52 2022</small>
 
 
