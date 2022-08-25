@@ -1,7 +1,7 @@
 import requests, json, random
 from dotenv import load_dotenv
 import os
-from datetime import datetime
+import datetime
 
 x = datetime.datetime.now()
 update = x.strftime("%c")
@@ -17,7 +17,8 @@ link = 'https://api.nasa.gov/planetary/apod?api_key={}'.format(apikey)
 res = requests.get(f'''{link}''')
 data = json.loads(res.text)
 
-date = data['date'].strftime("%b %d, %Y")
+date = data['date']
+dateShow = date.strftime("%b %d, %Y")
 
 
 f.write(f'''
@@ -25,7 +26,7 @@ f.write(f'''
 
 ### Today image : {data['title']}
 
-Date : {date}
+Date : {dateShow}
 
 
 ![]({data['url']})
