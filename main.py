@@ -2,6 +2,7 @@ import requests, json, random
 from dotenv import load_dotenv
 import os
 import datetime
+from datetime import datetime
 
 x = datetime.datetime.now()
 update = x.strftime("%c")
@@ -19,11 +20,11 @@ data = json.loads(res.text)
 
 
 f.write(f'''
-# Awesome space image of the day from [nasa](https://api.nasa.gov/)
+# Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
 ### Today image : {data['title']}
 
-Date : {data['date']}
+Date : {data['date']}.strftime("%b %d, %Y")
 
 
 ![]({data['url']})
