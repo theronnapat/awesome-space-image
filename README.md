@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Tiangong Space Station Transits the Moon
+### Today image : Little Planet South Pole
 
-Date : 2022-08-25
+Date : 2022-08-26
 
 
-![](https://apod.nasa.gov/apod/image/2208/Tiangong_transiting_moon_Lucy_Hu_c1024.jpg)
+![](https://apod.nasa.gov/apod/image/2208/Chokshi_DSC7584_Panorama_c1024.jpg)
 
-<small>Latest update : Fri Aug 26 01:51:15 2022</small>
+<small>Latest update : Fri Aug 26 04:17:34 2022</small>
 
 
