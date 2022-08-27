@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Little Planet South Pole
+### Today image : IC 5146: The Cocoon Nebula
 
-Date : 2022-08-26
+Date : 2022-08-27
 
 
-![](https://apod.nasa.gov/apod/image/2208/Chokshi_DSC7584_Panorama_c1024.jpg)
+![](https://apod.nasa.gov/apod/image/2208/IC5146JenkinsAB3_1100.jpg)
 
-<small>Latest update : Sat Aug 27 04:01:21 2022</small>
+<small>Latest update : Sat Aug 27 05:28:18 2022</small>
 
 
