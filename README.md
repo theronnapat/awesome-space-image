@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Horsehead Nebula Region without Stars
+### Today image : Jupiter from the Webb Space Telescope
 
-Date : 2022-08-29
+Date : 2022-08-30
 
 
-![](https://apod.nasa.gov/apod/image/2208/Horsehead_Chatzifrantzis_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2208/Jupiter2_WebbSchmidt_1080_annotated.jpg)
 
-<small>Latest update : Tue Aug 30 02:00:05 2022</small>
+<small>Latest update : Tue Aug 30 04:24:05 2022</small>
 
 
