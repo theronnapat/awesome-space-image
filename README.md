@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter from the Webb Space Telescope
+### Today image : Siccar Point on Mars
 
-Date : 2022-08-30
+Date : 2022-08-31
 
 
-![](https://apod.nasa.gov/apod/image/2208/Jupiter2_WebbSchmidt_1080_annotated.jpg)
+![](https://apod.nasa.gov/apod/image/2208/SiccarPoint_CuriosityGill_1080.jpg)
 
-<small>Latest update : Wed Aug 31 02:06:40 2022</small>
+<small>Latest update : Wed Aug 31 04:54:17 2022</small>
 
 
