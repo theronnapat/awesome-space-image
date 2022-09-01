@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Siccar Point on Mars
+### Today image : The Tulip and Cygnus X-1
 
-Date : 2022-08-31
+Date : 2022-09-01
 
 
-![](https://apod.nasa.gov/apod/image/2208/SiccarPoint_CuriosityGill_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2209/TulipCygX-1_1024.jpg)
 
-<small>Latest update : Thu Sep  1 01:44:33 2022</small>
+<small>Latest update : Thu Sep  1 04:05:51 2022</small>
 
 
