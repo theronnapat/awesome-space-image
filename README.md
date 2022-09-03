@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M51: The Whirlpool Galaxy
+### Today image : Sun and Moon and ISS
 
-Date : 2022-09-02
+Date : 2022-09-03
 
 
-![](https://apod.nasa.gov/apod/image/2209/m51_l2_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2209/Interval29seconds_Transit1200.jpg)
 
-<small>Latest update : Sat Sep  3 04:03:09 2022</small>
+<small>Latest update : Sat Sep  3 05:31:06 2022</small>
 
 
