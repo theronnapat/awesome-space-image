@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sun and Moon and ISS
+### Today image : Sea and Sky Glows over the Oregon Coast
 
-Date : 2022-09-03
+Date : 2022-09-04
 
 
-![](https://apod.nasa.gov/apod/image/2209/Interval29seconds_Transit1200.jpg)
+![](https://apod.nasa.gov/apod/image/2209/MilkyWayOregon_Montoya_960.jpg)
 
-<small>Latest update : Sun Sep  4 01:46:27 2022</small>
+<small>Latest update : Sun Sep  4 04:08:06 2022</small>
 
 
