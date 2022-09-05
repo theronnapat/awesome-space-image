@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sea and Sky Glows over the Oregon Coast
+### Today image : Carina Cliffs from the Webb Space Telescope
 
-Date : 2022-09-04
+Date : 2022-09-05
 
 
-![](https://apod.nasa.gov/apod/image/2209/MilkyWayOregon_Montoya_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/CarinaCliffs_Webb_1080.jpg)
 
-<small>Latest update : Mon Sep  5 01:57:23 2022</small>
+<small>Latest update : Mon Sep  5 04:21:22 2022</small>
 
 
