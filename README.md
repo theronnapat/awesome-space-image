@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Carina Cliffs from the Webb Space Telescope
+### Today image : An Iridescent Pileus Cloud over China
 
-Date : 2022-09-05
+Date : 2022-09-06
 
 
-![](https://apod.nasa.gov/apod/image/2209/CarinaCliffs_Webb_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2209/Pileus_Jiaqi_960.jpg)
 
-<small>Latest update : Tue Sep  6 01:59:41 2022</small>
+<small>Latest update : Tue Sep  6 04:26:35 2022</small>
 
 
