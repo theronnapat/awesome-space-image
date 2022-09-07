@@ -8,6 +8,6 @@ Date : 2022-09-07
 
 ![](https://apod.nasa.gov/apod/image/2209/TarantulaNearIr_Webb_960.jpg)
 
-<small>Latest update : Wed Sep  7 04:31:16 2022</small>
+<small>Latest update : Wed Sep  7 06:14:00 2022</small>
 
 
