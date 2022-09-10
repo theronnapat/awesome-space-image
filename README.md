@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Interstellar Voyager
+### Today image : Galaxy by the Lake
 
-Date : 2022-09-09
+Date : 2022-09-10
 
 
-![](https://apod.nasa.gov/apod/image/2209/voyager_modern_poster_crop.jpg)
+![](https://apod.nasa.gov/apod/image/2209/Traful-Lake1024.jpg)
 
-<small>Latest update : Sat Sep 10 01:52:52 2022</small>
+<small>Latest update : Sat Sep 10 04:14:10 2022</small>
 
 
