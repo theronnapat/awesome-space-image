@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Planets of the Solar System: Tilts and Spins
+### Today image : Red Sprite Lightning over the Czech Republic
 
-Date : 2022-09-11
+Date : 2022-09-12
 
 
-![](https://www.youtube.com/embed/my1euFQHH-o?rel=0)
+![](https://apod.nasa.gov/apod/image/2209/sprites_scerba_960.jpg)
 
-<small>Latest update : Mon Sep 12 02:01:38 2022</small>
+<small>Latest update : Mon Sep 12 04:50:50 2022</small>
 
 
