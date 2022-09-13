@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Red Sprite Lightning over the Czech Republic
+### Today image : A Long Snaking Filament on the Sun
 
-Date : 2022-09-12
+Date : 2022-09-13
 
 
-![](https://apod.nasa.gov/apod/image/2209/sprites_scerba_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/SnakingFilament_Friedman_960.jpg)
 
-<small>Latest update : Tue Sep 13 01:57:19 2022</small>
+<small>Latest update : Tue Sep 13 04:22:02 2022</small>
 
 
