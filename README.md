@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Long Snaking Filament on the Sun
+### Today image : Waves of the Great Lacerta Nebula
 
-Date : 2022-09-13
+Date : 2022-09-14
 
 
-![](https://apod.nasa.gov/apod/image/2209/SnakingFilament_Friedman_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/GreatLacerta_Ruuth_960.jpg)
 
-<small>Latest update : Wed Sep 14 01:50:37 2022</small>
+<small>Latest update : Wed Sep 14 04:15:17 2022</small>
 
 
