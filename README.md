@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Waves of the Great Lacerta Nebula
+### Today image : Harvest Moon over Sicily
 
-Date : 2022-09-14
+Date : 2022-09-15
 
 
-![](https://apod.nasa.gov/apod/image/2209/GreatLacerta_Ruuth_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/HarvestMoonCastiglioneSicily1024.jpg)
 
-<small>Latest update : Thu Sep 15 02:00:04 2022</small>
+<small>Latest update : Thu Sep 15 04:26:13 2022</small>
 
 
