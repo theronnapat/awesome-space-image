@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Harvest Moon over Sicily
+### Today image : The Tarantula Zone
 
-Date : 2022-09-15
+Date : 2022-09-16
 
 
-![](https://apod.nasa.gov/apod/image/2209/HarvestMoonCastiglioneSicily1024.jpg)
+![](https://apod.nasa.gov/apod/image/2209/Tarantula-HST-ESO-Webb-SS1024.jpg)
 
-<small>Latest update : Fri Sep 16 02:02:13 2022</small>
+<small>Latest update : Fri Sep 16 04:49:19 2022</small>
 
 
