@@ -8,6 +8,6 @@ Date : 2022-09-16
 
 ![](https://apod.nasa.gov/apod/image/2209/Tarantula-HST-ESO-Webb-SS1024.jpg)
 
-<small>Latest update : Fri Sep 16 19:16:31 2022</small>
+<small>Latest update : Fri Sep 16 20:19:08 2022</small>
 
 
