@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Tarantula Zone
+### Today image : Perseverance in Jezero Crater's Delta
 
-Date : 2022-09-16
+Date : 2022-09-17
 
 
-![](https://apod.nasa.gov/apod/image/2209/Tarantula-HST-ESO-Webb-SS1024.jpg)
+![](https://apod.nasa.gov/apod/image/2209/PIA24924_1045.jpg)
 
-<small>Latest update : Sat Sep 17 03:59:29 2022</small>
+<small>Latest update : Sat Sep 17 05:08:02 2022</small>
 
 
