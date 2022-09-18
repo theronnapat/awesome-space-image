@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Perseverance in Jezero Crater's Delta
+### Today image : Analemma over the Callanish Stones
 
-Date : 2022-09-17
+Date : 2022-09-18
 
 
-![](https://apod.nasa.gov/apod/image/2209/PIA24924_1045.jpg)
+![](https://apod.nasa.gov/apod/image/2209/CallanishAnalemma_Petricca_960.jpg)
 
-<small>Latest update : Sun Sep 18 02:05:30 2022</small>
+<small>Latest update : Sun Sep 18 04:27:51 2022</small>
 
 
