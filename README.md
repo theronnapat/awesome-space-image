@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Analemma over the Callanish Stones
+### Today image : Star Trails and Lightning over the Pyrenees
 
-Date : 2022-09-18
+Date : 2022-09-19
 
 
-![](https://apod.nasa.gov/apod/image/2209/CallanishAnalemma_Petricca_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/LightningStarTrails_Llimos_960.jpg)
 
-<small>Latest update : Mon Sep 19 02:02:29 2022</small>
+<small>Latest update : Mon Sep 19 04:51:00 2022</small>
 
 
