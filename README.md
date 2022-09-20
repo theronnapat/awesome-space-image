@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Star Trails and Lightning over the Pyrenees
+### Today image : Star Forming Region NGC 3582 without Stars
 
-Date : 2022-09-19
+Date : 2022-09-20
 
 
-![](https://apod.nasa.gov/apod/image/2209/LightningStarTrails_Llimos_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/NGC3576_Willocks_960_Starless.jpg)
 
-<small>Latest update : Tue Sep 20 01:53:54 2022</small>
+<small>Latest update : Tue Sep 20 04:17:22 2022</small>
 
 
