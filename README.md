@@ -8,6 +8,6 @@ Date : 2022-09-20
 
 ![](https://apod.nasa.gov/apod/image/2209/NGC3576_Willocks_960_Starless.jpg)
 
-<small>Latest update : Tue Sep 20 17:26:10 2022</small>
+<small>Latest update : Tue Sep 20 18:22:47 2022</small>
 
 
