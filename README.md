@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Star Forming Region NGC 3582 without Stars
+### Today image : The Horsehead Nebula in Infrared from Hubble
 
-Date : 2022-09-20
+Date : 2022-09-21
 
 
-![](https://apod.nasa.gov/apod/image/2209/NGC3576_Willocks_960_Starless.jpg)
+![](https://apod.nasa.gov/apod/image/2209/HorseheadIr_HubbleNachman_960.jpg)
 
-<small>Latest update : Wed Sep 21 02:03:58 2022</small>
+<small>Latest update : Wed Sep 21 04:48:35 2022</small>
 
 
