@@ -8,6 +8,6 @@ Date : 2022-09-21
 
 ![](https://apod.nasa.gov/apod/image/2209/HorseheadIr_HubbleNachman_960.jpg)
 
-<small>Latest update : Wed Sep 21 21:16:34 2022</small>
+<small>Latest update : Wed Sep 21 22:18:59 2022</small>
 
 
