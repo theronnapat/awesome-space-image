@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Horsehead Nebula in Infrared from Hubble
+### Today image : NGC 7331 Close Up
 
-Date : 2022-09-21
+Date : 2022-09-22
 
 
-![](https://apod.nasa.gov/apod/image/2209/HorseheadIr_HubbleNachman_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/potw1805bc_ngc7331.jpg)
 
-<small>Latest update : Thu Sep 22 01:52:32 2022</small>
+<small>Latest update : Thu Sep 22 04:14:21 2022</small>
 
 
