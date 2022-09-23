@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7331 Close Up
+### Today image : Ringed Ice Giant Neptune
 
-Date : 2022-09-22
+Date : 2022-09-23
 
 
-![](https://apod.nasa.gov/apod/image/2209/potw1805bc_ngc7331.jpg)
+![](https://apod.nasa.gov/apod/image/2209/NeptuneTriton_webb1059.png)
 
-<small>Latest update : Fri Sep 23 02:01:30 2022</small>
+<small>Latest update : Fri Sep 23 04:45:54 2022</small>
 
 
