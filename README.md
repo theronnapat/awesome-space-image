@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : September Sunrise Shadows
+### Today image : The Fairy of Eagle Nebula
 
-Date : 2022-09-24
+Date : 2022-09-25
 
 
-![](https://apod.nasa.gov/apod/image/2209/DSCF4968_PS_Lioce-1024.jpg)
+![](https://apod.nasa.gov/apod/image/2209/FairyPillar_Hubble_960.jpg)
 
-<small>Latest update : Sun Sep 25 01:56:26 2022</small>
+<small>Latest update : Sun Sep 25 04:08:37 2022</small>
 
 
