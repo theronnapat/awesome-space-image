@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Fairy of Eagle Nebula
+### Today image : All the Water on Planet Earth
 
-Date : 2022-09-25
+Date : 2022-09-26
 
 
-![](https://apod.nasa.gov/apod/image/2209/FairyPillar_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/WaterlessEarth2_woodshole_960.jpg)
 
-<small>Latest update : Mon Sep 26 01:56:58 2022</small>
+<small>Latest update : Mon Sep 26 04:27:36 2022</small>
 
 
