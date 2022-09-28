@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : DART: Impact on Asteroid Dimorphos
+### Today image : A Furious Sky over Mount Shasta
 
-Date : 2022-09-27
+Date : 2022-09-28
 
 
-![](https://www.youtube.com/embed/do4Cb__WhlY?rel=0)
+![](https://apod.nasa.gov/apod/image/2209/ShastaSky_Rohner_960.jpg)
 
-<small>Latest update : Wed Sep 28 01:53:44 2022</small>
+<small>Latest update : Wed Sep 28 04:17:43 2022</small>
 
 
