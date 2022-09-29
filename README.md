@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Furious Sky over Mount Shasta
+### Today image : DART Asteroid Impact from Space
 
-Date : 2022-09-28
+Date : 2022-09-29
 
 
-![](https://apod.nasa.gov/apod/image/2209/ShastaSky_Rohner_960.jpg)
+![](https://apod.nasa.gov/apod/image/2209/liciacube_leia_l0_1664234215_00000_01_c.jpg)
 
-<small>Latest update : Thu Sep 29 01:59:12 2022</small>
+<small>Latest update : Thu Sep 29 04:22:48 2022</small>
 
 
