@@ -1,13 +1,13 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : DART Asteroid Impact from Space
+### Today image : Equinox Sunrise Around the World
 
-Date : 2022-09-29
+Date : 2022-09-30
 
 
-![](https://apod.nasa.gov/apod/image/2209/liciacube_leia_l0_1664234215_00000_01_c.jpg)
+![](https://apod.nasa.gov/apod/image/2209/SunriseATWImageCollageFinal1067.jpg)
 
-<small>Latest update : Fri Sep 30 02:17:23 2022</small>
+<small>Latest update : Fri Sep 30 04:54:53 2022</small>
 
 
