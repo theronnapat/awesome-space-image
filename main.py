@@ -21,18 +21,14 @@ date = data['date']
 
 
 f.write(f'''
-# Awesome space image of the day from [NASA](https://api.nasa.gov/)
+  # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : {data['title']}
+  ### Today image : {data['title']}
+  Date : {date}
 
-Date : {date}
+  ![]({data['url']})
 
-
-![]({data['url']})
-
-<small>Latest update : {update}</small>
-
-
+  <small>Latest update : {update}</small>
 ''')
 
 f.close()
