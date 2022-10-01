@@ -1,13 +1,9 @@
 
-# Awesome space image of the day from [NASA](https://api.nasa.gov/)
+  # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Lunation Matrix
+  ### Today image : Lunation Matrix
+  Date : 2022-10-01
 
-Date : 2022-10-01
+  ![](https://apod.nasa.gov/apod/image/2210/Lu20220729-0826_1050.jpg)
 
-
-![](https://apod.nasa.gov/apod/image/2210/Lu20220729-0826_1050.jpg)
-
-<small>Latest update : Sat Oct  1 15:19:19 2022</small>
-
-
+  <small>Latest update : Sat Oct  1 16:24:44 2022</small>
