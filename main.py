@@ -12,23 +12,22 @@ apikey = os.getenv("API")
 
 f = open("./README.md", "w")
 
-link = 'https://api.nasa.gov/planetary/apod?api_key={}'.format(apikey)
+link = "https://api.nasa.gov/planetary/apod?api_key={}".format(apikey)
 
-res = requests.get(f'''{link}''')
+res = requests.get(f"""{link}""")
 data = json.loads(res.text)
 
-date = data['date']
+date = data["date"]
 
 
-f.write(f'''
+f.write(
+    f"""
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
-
   ### Today image : {data['title']}
   Date : {date}
-
   ![]({data['url']})
-
   <small>Latest update : {update}</small>
-''')
-
+"""
+)
+print(Gotten image successfully)
 f.close()
