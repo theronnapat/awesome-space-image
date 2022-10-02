@@ -1,9 +1,9 @@
 
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : Lunation Matrix
-  Date : 2022-10-01
+  ### Today image : Supernova Cannon Expels Pulsar J0002
+  Date : 2022-10-02
 
-  ![](https://apod.nasa.gov/apod/image/2210/Lu20220729-0826_1050.jpg)
+  ![](https://apod.nasa.gov/apod/image/2210/CannonSupernova_English_960.jpg)
 
-  <small>Latest update : Sun Oct  2 01:58:43 2022</small>
+  <small>Latest update : Sun Oct  2 04:18:38 2022</small>
