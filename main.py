@@ -13,6 +13,9 @@ load_dotenv()
 
 API_KEY = os.getenv("API")
 
+if API_KEY is None:
+    sys.exit("API key is required.\n")
+
 
 if __name__ == '__main__':
     x = datetime.datetime.now()
