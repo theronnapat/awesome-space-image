@@ -1,9 +1,9 @@
 
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : Supernova Cannon Expels Pulsar J0002
-  Date : 2022-10-02
+  ### Today image : Jupiter's Europa from Spacecraft Juno
+  Date : 2022-10-03
 
-  ![](https://apod.nasa.gov/apod/image/2210/CannonSupernova_English_960.jpg)
+  ![](https://apod.nasa.gov/apod/image/2210/Europa_JunoLuck_1080.jpg)
 
-  <small>Latest update : Mon Oct  3 03:27:09 2022</small>
+  <small>Latest update : Mon Oct  3 04:52:25 2022</small>
