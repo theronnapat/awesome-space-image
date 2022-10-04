@@ -1,9 +1,9 @@
 
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : Jupiter's Europa from Spacecraft Juno
-  Date : 2022-10-03
+  ### Today image : Star-Forming Eagle Nebula without Stars
+  Date : 2022-10-04
 
-  ![](https://apod.nasa.gov/apod/image/2210/Europa_JunoLuck_1080.jpg)
+  ![](https://apod.nasa.gov/apod/image/2210/M16Eagle_Akar_960_starless.jpg)
 
-  <small>Latest update : Tue Oct  4 03:44:47 2022</small>
+  <small>Latest update : Tue Oct  4 04:59:26 2022</small>
