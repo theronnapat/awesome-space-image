@@ -1,9 +1,9 @@
 
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : Expanding Plume from DART's Impact
-  Date : 2022-10-05
+  ### Today image : NGC 4631: The Whale Galaxy
+  Date : 2022-10-06
 
-  ![](https://www.youtube.com/embed/MC8f6gxqn3s?ref=0)
+  ![](https://apod.nasa.gov/apod/image/2210/ngc4631_sherick1024.jpg)
 
-  <small>Latest update : Thu Oct  6 03:37:16 2022</small>
+  <small>Latest update : Thu Oct  6 04:42:24 2022</small>
