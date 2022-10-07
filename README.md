@@ -1,9 +1,9 @@
 
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : NGC 4631: The Whale Galaxy
-  Date : 2022-10-06
+  ### Today image : In Ganymede's Shadow
+  Date : 2022-10-07
 
-  ![](https://apod.nasa.gov/apod/image/2210/ngc4631_sherick1024.jpg)
+  ![](https://apod.nasa.gov/apod/image/2210/JovianEclipse1024c.jpg)
 
-  <small>Latest update : Fri Oct  7 03:49:09 2022</small>
+  <small>Latest update : Fri Oct  7 04:52:45 2022</small>
