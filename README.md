@@ -1,9 +1,9 @@
 
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : In Ganymede's Shadow
-  Date : 2022-10-07
+  ### Today image : Two Comets in Southern Skies
+  Date : 2022-10-08
 
-  ![](https://apod.nasa.gov/apod/image/2210/JovianEclipse1024c.jpg)
+  ![](https://apod.nasa.gov/apod/image/2210/2017K2_2022-09-21_web.jpg)
 
-  <small>Latest update : Sat Oct  8 03:34:36 2022</small>
+  <small>Latest update : Sat Oct  8 04:40:35 2022</small>
