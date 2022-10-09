@@ -27,14 +27,14 @@ class NasaAPI:
             sys.exit("Error: url not found in data.\n")
 
         f.write(f'''
-          # Awesome space image of the day from [NASA](https://api.nasa.gov/)
+# Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-          ### Today image : {data['title']}
-          Date : {data['date']}
+### Today image : {data['title']}
+Date : {data['date']}
 
-          ![]({data['url']})
+![]({data['url']})
 
-          <small>Latest update : {update}</small>
+<small>Latest update : {update}</small>
         ''')
 
         f.close()
