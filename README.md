@@ -1,9 +1,10 @@
 
-  # Awesome space image of the day from [NASA](https://api.nasa.gov/)
+# Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : Lunation Matrix
-  Date : 2022-10-01
+### Today image : Auroras over Northern Canada
+Date : 2022-10-09
 
-  ![](https://apod.nasa.gov/apod/image/2210/Lu20220729-0826_1050.jpg)
+![](https://apod.nasa.gov/apod/image/2210/aurora_kwon_960.jpg)
 
-  <small>Latest update : Sat Oct  1 19:16:16 2022</small>
+<small>Latest update : Sun Oct  9 12:34:29 2022</small>
+        

@@ -1,33 +1,25 @@
-import requests, json, random
-from dotenv import load_dotenv
 import os
+import sys
 import datetime
+from dotenv import load_dotenv
+from APIManager import NasaAPI
 
-x = datetime.datetime.now()
-update = x.strftime("%c")
+
+MIN_PYTHON = (3, 0)
+if sys.version_info < MIN_PYTHON:
+    sys.exit("Python %s.%s or later is required.\n" % MIN_PYTHON)
 
 load_dotenv()
 
-apikey = os.getenv("API")
+API_KEY = os.getenv("API")
 
-f = open("./README.md", "w")
-
-link = "https://api.nasa.gov/planetary/apod?api_key={}".format(apikey)
-
-res = requests.get(f"""{link}""")
-data = json.loads(res.text)
-
-date = data["date"]
+if API_KEY is None:
+    sys.exit("API key is required.\n")
 
 
-f.write(
-    f"""
-  # Awesome space image of the day from [NASA](https://api.nasa.gov/)
-  ### Today image : {data['title']}
-  Date : {date}
-  ![]({data['url']})
-  <small>Latest update : {update}</small>
-"""
-)
-print("Gotten image successfully")
-f.close()
+if __name__ == '__main__':
+    x = datetime.datetime.now()
+    update = x.strftime("%c")
+
+    nasaAPI = NasaAPI(api_key=API_KEY)
+    nasaAPI.get_today_image(update=update)
