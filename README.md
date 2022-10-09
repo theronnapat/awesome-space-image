@@ -1,9 +1,9 @@
 
   # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-  ### Today image : Two Comets in Southern Skies
-  Date : 2022-10-08
+  ### Today image : Auroras over Northern Canada
+  Date : 2022-10-09
 
-  ![](https://apod.nasa.gov/apod/image/2210/2017K2_2022-09-21_web.jpg)
+  ![](https://apod.nasa.gov/apod/image/2210/aurora_kwon_960.jpg)
 
-  <small>Latest update : Sun Oct  9 04:04:14 2022</small>
+  <small>Latest update : Sun Oct  9 05:37:46 2022</small>
