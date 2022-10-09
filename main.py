@@ -29,5 +29,5 @@ f.write(
   <small>Latest update : {update}</small>
 """
 )
-print(Gotten image successfully)
+print("Gotten image successfully")
 f.close()
