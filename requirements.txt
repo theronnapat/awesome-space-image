@@ -1,0 +1,3 @@
+requests
+load_dotenv==0.1.0
+datetime==4.7
