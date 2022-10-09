@@ -23,4 +23,3 @@ if __name__ == '__main__':
 
     nasaAPI = NasaAPI(api_key=API_KEY)
     nasaAPI.get_today_image(update=update)
-
