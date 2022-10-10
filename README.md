@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Auroras over Northern Canada
-Date : 2022-10-09
+### Today image : A Double Lunar Analemma over Turkey
+Date : 2022-10-10
 
-![](https://apod.nasa.gov/apod/image/2210/aurora_kwon_960.jpg)
+![](https://apod.nasa.gov/apod/image/2210/LunarAnalemma_Turksoy_1080.jpg)
 
-<small>Latest update : Mon Oct 10 01:56:43 2022</small>
+<small>Latest update : Mon Oct 10 04:17:04 2022</small>
         
