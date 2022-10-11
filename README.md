@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Double Lunar Analemma over Turkey
-Date : 2022-10-10
+### Today image : Stars, Dust, Pillars, and Jets in the Pelican Nebula
+Date : 2022-10-11
 
-![](https://apod.nasa.gov/apod/image/2210/LunarAnalemma_Turksoy_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2210/Pelican_Almeida_960.jpg)
 
-<small>Latest update : Tue Oct 11 01:50:32 2022</small>
+<small>Latest update : Tue Oct 11 04:11:27 2022</small>
         
