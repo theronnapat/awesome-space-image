@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ou4: The Giant Squid Nebula
-Date : 2022-10-12
+### Today image : Dust Shells around WR 140 from Webb
+Date : 2022-10-13
 
-![](https://apod.nasa.gov/apod/image/2210/SquidFinal3smaller1024.jpg)
+![](https://apod.nasa.gov/apod/image/2209/WR140_WebbSchmidt_960.jpg)
 
-<small>Latest update : Thu Oct 13 01:53:16 2022</small>
+<small>Latest update : Thu Oct 13 04:15:51 2022</small>
         
