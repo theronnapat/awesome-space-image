@@ -6,5 +6,5 @@ Date : 2022-10-16
 
 ![](https://apod.nasa.gov/apod/image/2210/NGC1300_HST_1080.jpg)
 
-<small>Latest update : Sun Oct 16 16:26:37 2022</small>
+<small>Latest update : Sun Oct 16 17:26:24 2022</small>
         
