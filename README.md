@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Galaxy Beyond Stars, Gas, Dust
-Date : 2022-10-19
+### Today image : Pillars of Creation
+Date : 2022-10-20
 
-![](https://apod.nasa.gov/apod/image/2210/Ngc7497Cirrus_Trottier_960.jpg)
+![](https://apod.nasa.gov/apod/image/2210/stsci-pillarsofcreation1280c.jpg)
 
-<small>Latest update : Thu Oct 20 04:03:42 2022</small>
+<small>Latest update : Thu Oct 20 05:39:39 2022</small>
         
