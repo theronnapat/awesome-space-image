@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Pillars of Creation
-Date : 2022-10-20
+### Today image : Andromeda in Southern Skies
+Date : 2022-10-21
 
-![](https://apod.nasa.gov/apod/image/2210/stsci-pillarsofcreation1280c.jpg)
+![](https://apod.nasa.gov/apod/image/2210/andromeda-over-alps1100.jpg)
 
-<small>Latest update : Fri Oct 21 03:48:50 2022</small>
+<small>Latest update : Fri Oct 21 05:06:36 2022</small>
         
