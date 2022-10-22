@@ -1,4 +1,4 @@
-name: Generate REAME.md File
+name: Generate README.md File
 
 on:
   push:
