@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Clouds Around Galaxy Andromeda
-Date : 2022-10-24
+### Today image : Jupiter Rotates as Moons Orbit
+Date : 2022-10-25
 
-![](https://apod.nasa.gov/apod/image/2210/M31Clouds_Fryhover_960.jpg)
+![](https://www.youtube.com/embed/juloL5WeLrc?rel=0)
 
-<small>Latest update : Tue Oct 25 02:01:39 2022</small>
+<small>Latest update : Tue Oct 25 04:53:51 2022</small>
         
