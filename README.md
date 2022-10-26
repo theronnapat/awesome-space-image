@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter Rotates as Moons Orbit
-Date : 2022-10-25
+### Today image : Cocoon Nebula Wide Field
+Date : 2022-10-26
 
-![](https://www.youtube.com/embed/juloL5WeLrc?rel=0)
+![](https://apod.nasa.gov/apod/image/2210/CocoonWide_Ermolli_960.jpg)
 
-<small>Latest update : Wed Oct 26 03:50:04 2022</small>
+<small>Latest update : Wed Oct 26 04:52:34 2022</small>
         
