@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Cocoon Nebula Wide Field
-Date : 2022-10-26
+### Today image : Sunset, Moonset, Taj Mahal
+Date : 2022-10-27
 
-![](https://apod.nasa.gov/apod/image/2210/CocoonWide_Ermolli_960.jpg)
+![](https://apod.nasa.gov/apod/image/2210/2022-10-25pseTaj600h.jpg)
 
-<small>Latest update : Thu Oct 27 03:44:01 2022</small>
+<small>Latest update : Thu Oct 27 04:46:09 2022</small>
         
