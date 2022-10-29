@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Seven Years of Halley Dust
-Date : 2022-10-28
+### Today image : LDN 673: Dark Clouds in Aquila
+Date : 2022-10-29
 
-![](https://apod.nasa.gov/apod/image/2210/2016-2022_Orionids_Pano_1100px_0.jpg)
+![](https://apod.nasa.gov/apod/image/2210/LDN673_1024.jpg)
 
-<small>Latest update : Sat Oct 29 03:35:01 2022</small>
+<small>Latest update : Sat Oct 29 04:34:26 2022</small>
         
