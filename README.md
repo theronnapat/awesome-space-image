@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : LDN 673: Dark Clouds in Aquila
-Date : 2022-10-29
+### Today image : Night on a Spooky Planet
+Date : 2022-10-30
 
-![](https://apod.nasa.gov/apod/image/2210/LDN673_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2210/Hverir_Vetter_960.jpg)
 
-<small>Latest update : Sun Oct 30 03:51:29 2022</small>
+<small>Latest update : Sun Oct 30 04:46:02 2022</small>
         
