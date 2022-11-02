@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 6357: The Lobster Nebula
-Date : 2022-11-01
+### Today image : A Partial Eclipse of an Active Sun
+Date : 2022-11-02
 
-![](https://apod.nasa.gov/apod/image/2211/Lobster_Blanco_960.jpg)
+![](https://www.youtube.com/embed/7dh5VL5YGoA?rel=0)
 
-<small>Latest update : Wed Nov  2 03:57:15 2022</small>
+<small>Latest update : Wed Nov  2 05:05:42 2022</small>
         
