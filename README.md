@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Partial Eclipse of an Active Sun
-Date : 2022-11-02
+### Today image : M33: The Triangulum Galaxy
+Date : 2022-11-03
 
-![](https://www.youtube.com/embed/7dh5VL5YGoA?rel=0)
+![](https://apod.nasa.gov/apod/image/2211/M33-NOIR-HST-LL_1024.jpg)
 
-<small>Latest update : Thu Nov  3 03:28:00 2022</small>
+<small>Latest update : Thu Nov  3 04:37:25 2022</small>
         
