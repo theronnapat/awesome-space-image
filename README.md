@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M33: The Triangulum Galaxy
-Date : 2022-11-03
+### Today image : InSight's Final Selfie
+Date : 2022-11-04
 
-![](https://apod.nasa.gov/apod/image/2211/M33-NOIR-HST-LL_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2211/PIA25287_insight1024.jpg)
 
-<small>Latest update : Fri Nov  4 03:42:10 2022</small>
+<small>Latest update : Fri Nov  4 04:42:26 2022</small>
         
