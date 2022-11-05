@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : InSight's Final Selfie
-Date : 2022-11-04
+### Today image : Lunar Eclipse at the South Pole
+Date : 2022-11-05
 
-![](https://apod.nasa.gov/apod/image/2211/PIA25287_insight1024.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Lunar-Eclipse-South-Pole_1024.jpg)
 
-<small>Latest update : Sat Nov  5 03:19:45 2022</small>
+<small>Latest update : Sat Nov  5 04:25:30 2022</small>
         
