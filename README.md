@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Lunar Eclipse at the South Pole
-Date : 2022-11-05
+### Today image : Dark Ball in Inverted Starfield
+Date : 2022-11-06
 
-![](https://apod.nasa.gov/apod/image/2211/Lunar-Eclipse-South-Pole_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2211/darksun_lafferty_960.jpg)
 
-<small>Latest update : Sun Nov  6 03:23:10 2022</small>
+<small>Latest update : Sun Nov  6 04:26:11 2022</small>
         
