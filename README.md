@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Total Lunar Eclipse Over Tajikistan
-Date : 2022-11-07
+### Today image : Galaxies: Wild's Triplet from Hubble
+Date : 2022-11-08
 
-![](https://player.vimeo.com/video/25808333)
+![](https://apod.nasa.gov/apod/image/2211/WildTriplet_Hubble_960.jpg)
 
-<small>Latest update : Tue Nov  8 04:41:30 2022</small>
+<small>Latest update : Tue Nov  8 05:23:52 2022</small>
         
