@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Asymmetric Nebula Surrounding Wolf-Rayet Star 18
-Date : 2022-11-09
+### Today image : Total Lunar Eclipse
+Date : 2022-11-10
 
-![](https://apod.nasa.gov/apod/image/2211/wr18_woronow_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/2022_11_08_TLE_Trio_1024px.png)
 
-<small>Latest update : Thu Nov 10 04:38:39 2022</small>
+<small>Latest update : Thu Nov 10 05:23:45 2022</small>
         
