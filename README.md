@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Total Lunar Eclipse
-Date : 2022-11-10
+### Today image : Blood Moon, Ice Giant
+Date : 2022-11-11
 
-![](https://apod.nasa.gov/apod/image/2211/2022_11_08_TLE_Trio_1024px.png)
+![](https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan1024.jpg)
 
-<small>Latest update : Fri Nov 11 04:34:35 2022</small>
+<small>Latest update : Fri Nov 11 05:20:44 2022</small>
         
