@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Blood Moon, Ice Giant
-Date : 2022-11-11
+### Today image : Eclipse in the City
+Date : 2022-11-12
 
-![](https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan1024.jpg)
+![](https://apod.nasa.gov/apod/image/2211/StanHondaTLE-ISS1108annotated1024.jpg)
 
-<small>Latest update : Sat Nov 12 04:28:22 2022</small>
+<small>Latest update : Sat Nov 12 05:16:07 2022</small>
         
