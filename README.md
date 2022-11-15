@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7380: The Wizard Nebula
-Date : 2022-11-14
+### Today image : Wolf's Cave Nebula
+Date : 2022-11-15
 
-![](https://apod.nasa.gov/apod/image/2211/Wizard_Popa_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/WolfsCave_Lacroce_960.jpg)
 
-<small>Latest update : Tue Nov 15 04:23:01 2022</small>
+<small>Latest update : Tue Nov 15 05:14:41 2022</small>
         
