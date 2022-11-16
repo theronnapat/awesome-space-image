@@ -6,5 +6,5 @@ Date : 2022-11-16
 
 ![](https://apod.nasa.gov/apod/image/2211/NGC-1097-LRGB_Ha-rev-12-2022_1024.jpg)
 
-<small>Latest update : Wed Nov 16 10:17:09 2022</small>
+<small>Latest update : Wed Nov 16 11:13:36 2022</small>
         
