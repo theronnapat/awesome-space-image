@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Wolf's Cave Nebula
-Date : 2022-11-15
+### Today image : In the Arms of NGC 1097
+Date : 2022-11-16
 
-![](https://apod.nasa.gov/apod/image/2211/WolfsCave_Lacroce_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/NGC-1097-LRGB_Ha-rev-12-2022_1024.jpg)
 
-<small>Latest update : Wed Nov 16 04:22:53 2022</small>
+<small>Latest update : Wed Nov 16 05:14:13 2022</small>
         
