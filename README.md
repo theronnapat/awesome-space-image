@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : In the Arms of NGC 1097
-Date : 2022-11-16
+### Today image : Planet Earth from Orion
+Date : 2022-11-17
 
-![](https://apod.nasa.gov/apod/image/2211/NGC-1097-LRGB_Ha-rev-12-2022_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2211/EarthArtemis1_1067.jpg)
 
-<small>Latest update : Thu Nov 17 04:20:16 2022</small>
+<small>Latest update : Thu Nov 17 05:15:16 2022</small>
         
