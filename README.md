@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Planet Earth from Orion
-Date : 2022-11-17
+### Today image : The Protostar within L1527
+Date : 2022-11-18
 
-![](https://apod.nasa.gov/apod/image/2211/EarthArtemis1_1067.jpg)
+![](https://apod.nasa.gov/apod/image/2211/weic2219a1024.jpg)
 
-<small>Latest update : Fri Nov 18 04:20:12 2022</small>
+<small>Latest update : Fri Nov 18 05:15:09 2022</small>
         
