@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Artemis 1 Moonshot
-Date : 2022-11-19
+### Today image : Airglow Ripples over Tibet
+Date : 2022-11-20
 
-![](https://apod.nasa.gov/apod/image/2211/DSC_3971-11-16-2022-1024o.jpg)
+![](https://apod.nasa.gov/apod/image/2211/rippledsky_dai_960.jpg)
 
-<small>Latest update : Sun Nov 20 04:21:02 2022</small>
+<small>Latest update : Sun Nov 20 05:14:12 2022</small>
         
