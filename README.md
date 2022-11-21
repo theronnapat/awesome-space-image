@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Airglow Ripples over Tibet
-Date : 2022-11-20
+### Today image : The Butterfly Nebula from Hubble
+Date : 2022-11-21
 
-![](https://apod.nasa.gov/apod/image/2211/rippledsky_dai_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Butterfly_HubbleOstling_960.jpg)
 
-<small>Latest update : Mon Nov 21 04:24:14 2022</small>
+<small>Latest update : Mon Nov 21 05:14:58 2022</small>
         
