@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Butterfly Nebula from Hubble
-Date : 2022-11-21
+### Today image : A Double Star Cluster in Perseus
+Date : 2022-11-22
 
-![](https://apod.nasa.gov/apod/image/2211/Butterfly_HubbleOstling_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/DoubleCluster_Lease_960.jpg)
 
-<small>Latest update : Tue Nov 22 04:19:22 2022</small>
+<small>Latest update : Tue Nov 22 05:14:55 2022</small>
         
