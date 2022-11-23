@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Double Star Cluster in Perseus
-Date : 2022-11-22
+### Today image : Earthset from Orion
+Date : 2022-11-23
 
-![](https://apod.nasa.gov/apod/image/2211/DoubleCluster_Lease_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/earthset-snap01.png)
 
-<small>Latest update : Wed Nov 23 04:18:41 2022</small>
+<small>Latest update : Wed Nov 23 05:13:39 2022</small>
         
