@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Earthset from Orion
-Date : 2022-11-23
+### Today image : Lynds Dark Nebula 1251
+Date : 2022-11-24
 
-![](https://apod.nasa.gov/apod/image/2211/earthset-snap01.png)
+![](https://apod.nasa.gov/apod/image/2211/LDN1251v7social1024.png)
 
-<small>Latest update : Thu Nov 24 04:18:47 2022</small>
+<small>Latest update : Thu Nov 24 05:13:33 2022</small>
         
