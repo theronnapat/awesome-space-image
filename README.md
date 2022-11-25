@@ -6,5 +6,5 @@ Date : 2022-11-25
 
 ![](https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg)
 
-<small>Latest update : Fri Nov 25 22:13:50 2022</small>
+<small>Latest update : Fri Nov 25 23:14:42 2022</small>
         
