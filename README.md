@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Lynds Dark Nebula 1251
-Date : 2022-11-24
+### Today image : NGC 6744: Extragalactic Close-Up
+Date : 2022-11-25
 
-![](https://apod.nasa.gov/apod/image/2211/LDN1251v7social1024.png)
+![](https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg)
 
-<small>Latest update : Fri Nov 25 04:18:16 2022</small>
+<small>Latest update : Fri Nov 25 05:13:45 2022</small>
         
