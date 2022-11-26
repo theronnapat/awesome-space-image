@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 6744: Extragalactic Close-Up
-Date : 2022-11-25
+### Today image : Saturn at Night
+Date : 2022-11-26
 
-![](https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg)
+![](https://apod.nasa.gov/apod/image/2211/LastRingPortrait_Cassini_1080.jpg)
 
-<small>Latest update : Sat Nov 26 04:18:02 2022</small>
+<small>Latest update : Sat Nov 26 05:12:47 2022</small>
         
