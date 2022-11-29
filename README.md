@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Leonid Meteors Through Orion
-Date : 2022-11-28
+### Today image : The Gum Nebula Supernova Remnant
+Date : 2022-11-29
 
-![](https://apod.nasa.gov/apod/image/2211/Leonids2022_Hongyang_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Gum_Lima_960.jpg)
 
-<small>Latest update : Tue Nov 29 04:18:43 2022</small>
+<small>Latest update : Tue Nov 29 05:13:51 2022</small>
         
