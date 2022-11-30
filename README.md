@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Gum Nebula Supernova Remnant
-Date : 2022-11-29
+### Today image : The Light, the Dark, and the Dusty
+Date : 2022-11-30
 
-![](https://apod.nasa.gov/apod/image/2211/Gum_Lima_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Cave_Copyright_APOD1024.png)
 
-<small>Latest update : Wed Nov 30 04:18:58 2022</small>
+<small>Latest update : Wed Nov 30 05:14:13 2022</small>
         
