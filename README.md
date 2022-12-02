@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Artemis 1: Flight Day 13
-Date : 2022-12-01
+### Today image : Merging Galaxy Pair IIZw096
+Date : 2022-12-02
 
-![](https://apod.nasa.gov/apod/image/2212/art001e000672-orig1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2212/potm2211a_1024.jpg)
 
-<small>Latest update : Fri Dec  2 04:17:14 2022</small>
+<small>Latest update : Fri Dec  2 05:12:55 2022</small>
         
