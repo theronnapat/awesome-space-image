@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Merging Galaxy Pair IIZw096
-Date : 2022-12-02
+### Today image : Stereo Mars near Opposition
+Date : 2022-12-03
 
-![](https://apod.nasa.gov/apod/image/2212/potm2211a_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png)
 
-<small>Latest update : Sat Dec  3 04:16:57 2022</small>
+<small>Latest update : Sat Dec  3 05:12:31 2022</small>
         
