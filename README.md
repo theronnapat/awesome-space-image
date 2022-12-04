@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Stereo Mars near Opposition
-Date : 2022-12-03
+### Today image : Video: Powers of Ten
+Date : 2022-12-04
 
-![](https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png)
+![](https://www.youtube.com/embed/0fKBhvDjuy0?rel=0)
 
-<small>Latest update : Sun Dec  4 04:16:54 2022</small>
+<small>Latest update : Sun Dec  4 05:12:26 2022</small>
         
