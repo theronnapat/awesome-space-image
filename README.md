@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Video: Powers of Ten
-Date : 2022-12-04
+### Today image : Pleiades: The Seven Sisters Star Cluster
+Date : 2022-12-05
 
-![](https://www.youtube.com/embed/0fKBhvDjuy0?rel=0)
+![](https://apod.nasa.gov/apod/image/2212/Pleiades_Estes_1080.jpg)
 
-<small>Latest update : Mon Dec  5 04:17:57 2022</small>
+<small>Latest update : Mon Dec  5 05:13:37 2022</small>
         
