@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Pleiades: The Seven Sisters Star Cluster
-Date : 2022-12-05
+### Today image : M16: A Star Forming Pillar from Webb
+Date : 2022-12-06
 
-![](https://apod.nasa.gov/apod/image/2212/Pleiades_Estes_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2212/M16Pillar_WebbOzsarac_960.jpg)
 
-<small>Latest update : Tue Dec  6 04:16:47 2022</small>
+<small>Latest update : Tue Dec  6 05:13:11 2022</small>
         
