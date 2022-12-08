@@ -6,5 +6,5 @@ Date : 2022-12-07
 
 ![](https://apod.nasa.gov/apod/image/2212/NGC7293-TommasoStella2022WEB1024.jpg)
 
-<small>Latest update : Wed Dec  7 23:13:56 2022</small>
+<small>Latest update : Thu Dec  8 01:11:10 2022</small>
         
