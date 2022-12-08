@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7293: The Helix Nebula
-Date : 2022-12-07
+### Today image : Orion and the Ocean of Storms
+Date : 2022-12-08
 
-![](https://apod.nasa.gov/apod/image/2212/NGC7293-TommasoStella2022WEB1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/art001e002132_apod1024.jpg)
 
-<small>Latest update : Thu Dec  8 04:17:47 2022</small>
+<small>Latest update : Thu Dec  8 05:13:37 2022</small>
         
