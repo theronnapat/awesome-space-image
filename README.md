@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Orion and the Ocean of Storms
-Date : 2022-12-08
+### Today image : Mars Rises above the Lunar Limb
+Date : 2022-12-09
 
-![](https://apod.nasa.gov/apod/image/2212/art001e002132_apod1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg)
 
-<small>Latest update : Fri Dec  9 04:17:25 2022</small>
+<small>Latest update : Fri Dec  9 05:13:08 2022</small>
         
