@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : America and the Sea of Serenity
-Date : 2022-12-10
+### Today image : Io in True Color
+Date : 2022-12-11
 
-![](https://apod.nasa.gov/apod/image/2212/22466-22467anaVantuyne900.jpg)
+![](https://apod.nasa.gov/apod/image/2212/iotruecolor_galileo_960.jpg)
 
-<small>Latest update : Sun Dec 11 04:17:45 2022</small>
+<small>Latest update : Sun Dec 11 05:12:28 2022</small>
         
