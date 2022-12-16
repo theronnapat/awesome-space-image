@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Full Moon, Full Mars
-Date : 2022-12-15
+### Today image : The Geminid
+Date : 2022-12-16
 
-![](https://apod.nasa.gov/apod/image/2212/MarsTrailsSMALL1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-1024.jpg)
 
-<small>Latest update : Fri Dec 16 04:16:33 2022</small>
+<small>Latest update : Fri Dec 16 05:12:30 2022</small>
         
