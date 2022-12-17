@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Geminid
-Date : 2022-12-16
+### Today image : Apollo 17 VIP Site Anaglyph
+Date : 2022-12-17
 
-![](https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_1024v.jpg)
 
-<small>Latest update : Sat Dec 17 04:16:20 2022</small>
+<small>Latest update : Sat Dec 17 05:11:33 2022</small>
         
