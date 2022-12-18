@@ -6,5 +6,5 @@ Date : 2022-12-18
 
 ![](https://apod.nasa.gov/apod/image/2212/25BrightestStars_Jittasaiyapan_960.jpg)
 
-<small>Latest update : Sun Dec 18 22:12:00 2022</small>
+<small>Latest update : Sun Dec 18 23:13:15 2022</small>
         
