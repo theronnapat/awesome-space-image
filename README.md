@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : 25 Brightest Stars in the Night Sky
-Date : 2022-12-18
+### Today image : The Tadpole Nebula in Gas and Dust
+Date : 2022-12-19
 
-![](https://apod.nasa.gov/apod/image/2212/25BrightestStars_Jittasaiyapan_960.jpg)
+![](https://apod.nasa.gov/apod/image/2212/Tadpoles_Stocks_960.jpg)
 
-<small>Latest update : Mon Dec 19 04:16:26 2022</small>
+<small>Latest update : Mon Dec 19 05:12:32 2022</small>
         
