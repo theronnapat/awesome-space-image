@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Thor's Helmet
-Date : 2022-12-20
+### Today image : Sun Halo at Sixty-three Degrees North
+Date : 2022-12-21
 
-![](https://apod.nasa.gov/apod/image/2212/Thor_Rochford_960.jpg)
+![](https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3_1100.jpg)
 
-<small>Latest update : Wed Dec 21 04:16:49 2022</small>
+<small>Latest update : Wed Dec 21 05:12:29 2022</small>
         
