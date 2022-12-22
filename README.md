@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sun Halo at Sixty-three Degrees North
-Date : 2022-12-21
+### Today image : NGC 1365: Majestic Island Universe
+Date : 2022-12-22
 
-![](https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3_1100.jpg)
+![](https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg)
 
-<small>Latest update : Thu Dec 22 04:16:37 2022</small>
+<small>Latest update : Thu Dec 22 05:12:32 2022</small>
         
