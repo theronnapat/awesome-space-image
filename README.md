@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1365: Majestic Island Universe
-Date : 2022-12-22
+### Today image : Cassini Looks Out from Saturn
+Date : 2022-12-23
 
-![](https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/SaturnInsideOut2_cassini_960.jpg)
 
-<small>Latest update : Fri Dec 23 04:16:19 2022</small>
+<small>Latest update : Fri Dec 23 05:12:43 2022</small>
         
