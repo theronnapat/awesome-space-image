@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet 2022 E3 (ZTF)
-Date : 2022-12-24
+### Today image : Geminids and the Mittens
+Date : 2022-12-25
 
-![](https://apod.nasa.gov/apod/image/2212/c2022E3_ZTF_Bartlett800.png)
+![](https://apod.nasa.gov/apod/image/2212/J7A6402-Edit-copy-sharpened1024.jpg)
 
-<small>Latest update : Sun Dec 25 04:16:03 2022</small>
+<small>Latest update : Sun Dec 25 05:12:08 2022</small>
         
