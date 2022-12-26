@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Geminids and the Mittens
-Date : 2022-12-25
+### Today image : NGC 6164: Dragon's Egg Nebula and Halo
+Date : 2022-12-26
 
-![](https://apod.nasa.gov/apod/image/2212/J7A6402-Edit-copy-sharpened1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/DragonsEgg_Croman_960.jpg)
 
-<small>Latest update : Mon Dec 26 04:16:39 2022</small>
+<small>Latest update : Mon Dec 26 05:12:45 2022</small>
         
