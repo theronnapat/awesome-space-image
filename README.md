@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Horsehead and Flame
-Date : 2022-12-29
+### Today image : Mars and the Star Clusters
+Date : 2022-12-30
 
-![](https://apod.nasa.gov/apod/image/2212/B33LRGB_fb1024.png)
+![](https://apod.nasa.gov/apod/image/2212/mars_clusters1024.jpg)
 
-<small>Latest update : Fri Dec 30 04:16:06 2022</small>
+<small>Latest update : Fri Dec 30 05:12:22 2022</small>
         
