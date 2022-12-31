@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Mars and the Star Clusters
-Date : 2022-12-30
+### Today image : Moon over Makemake
+Date : 2022-12-31
 
-![](https://apod.nasa.gov/apod/image/2212/mars_clusters1024.jpg)
+![](https://apod.nasa.gov/apod/image/2212/Makemakemoon100mile.jpg)
 
-<small>Latest update : Sat Dec 31 04:16:02 2022</small>
+<small>Latest update : Sat Dec 31 05:11:52 2022</small>
         
