@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Largest Rock in our Solar System
-Date : 2023-01-01
+### Today image : After Sunset Planet Parade
+Date : 2023-01-02
 
-![](https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1080_annotated.jpg)
 
-<small>Latest update : Mon Jan  2 04:16:35 2023</small>
+<small>Latest update : Mon Jan  2 05:12:41 2023</small>
         
