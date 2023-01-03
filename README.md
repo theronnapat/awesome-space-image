@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : After Sunset Planet Parade
-Date : 2023-01-02
+### Today image : Kemble’s Cascade of Stars
+Date : 2023-01-03
 
-![](https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1080_annotated.jpg)
+![](https://apod.nasa.gov/apod/image/2301/KembleCascade_Lease_960.jpg)
 
-<small>Latest update : Tue Jan  3 04:16:20 2023</small>
+<small>Latest update : Tue Jan  3 05:12:13 2023</small>
         
