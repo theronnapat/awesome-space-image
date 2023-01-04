@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Kemble’s Cascade of Stars
-Date : 2023-01-03
+### Today image : CG4: The Globule and the Galaxy
+Date : 2023-01-04
 
-![](https://apod.nasa.gov/apod/image/2301/KembleCascade_Lease_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/cg4_selby_960.jpg)
 
-<small>Latest update : Wed Jan  4 04:16:54 2023</small>
+<small>Latest update : Wed Jan  4 05:12:34 2023</small>
         
