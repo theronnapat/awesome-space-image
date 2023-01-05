@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : CG4: The Globule and the Galaxy
-Date : 2023-01-04
+### Today image : Messier 45: The Daughters of Atlas and Pleione
+Date : 2023-01-05
 
-![](https://apod.nasa.gov/apod/image/2301/cg4_selby_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/M_45_Plejarden_Stefan_Thrun_klein1024.jpg)
 
-<small>Latest update : Thu Jan  5 04:17:24 2023</small>
+<small>Latest update : Thu Jan  5 05:12:46 2023</small>
         
