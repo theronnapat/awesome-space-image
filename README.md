@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Messier 45: The Daughters of Atlas and Pleione
-Date : 2023-01-05
+### Today image : Moon O'Clock 2022
+Date : 2023-01-06
 
-![](https://apod.nasa.gov/apod/image/2301/M_45_Plejarden_Stefan_Thrun_klein1024.jpg)
+![](https://apod.nasa.gov/apod/image/2301/MoonOClock1024.jpg)
 
-<small>Latest update : Fri Jan  6 04:16:48 2023</small>
+<small>Latest update : Fri Jan  6 05:12:40 2023</small>
         
