@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Moon O'Clock 2022
-Date : 2023-01-06
+### Today image : Space Stations in Low Earth Orbit
+Date : 2023-01-07
 
-![](https://apod.nasa.gov/apod/image/2301/MoonOClock1024.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ISS_TIANHE_FINAL_4_APOD1024.jpg)
 
-<small>Latest update : Sat Jan  7 04:16:09 2023</small>
+<small>Latest update : Sat Jan  7 05:12:11 2023</small>
         
