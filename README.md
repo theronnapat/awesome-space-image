@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Space Stations in Low Earth Orbit
-Date : 2023-01-07
+### Today image : Where Your Elements Came From
+Date : 2023-01-08
 
-![](https://apod.nasa.gov/apod/image/2301/ISS_TIANHE_FINAL_4_APOD1024.jpg)
+![](https://apod.nasa.gov/apod/image/2301/Nucleosynthesis2_WikipediaCmglee_1080.jpg)
 
-<small>Latest update : Sun Jan  8 04:16:45 2023</small>
+<small>Latest update : Sun Jan  8 05:12:06 2023</small>
         
