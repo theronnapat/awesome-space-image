@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Where Your Elements Came From
-Date : 2023-01-08
+### Today image : Tails of Comet ZTF
+Date : 2023-01-09
 
-![](https://apod.nasa.gov/apod/image/2301/Nucleosynthesis2_WikipediaCmglee_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2301/CometZtf_Hernandez_960.jpg)
 
-<small>Latest update : Mon Jan  9 04:17:05 2023</small>
+<small>Latest update : Mon Jan  9 05:12:49 2023</small>
         
