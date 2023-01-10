@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Tails of Comet ZTF
-Date : 2023-01-09
+### Today image : NGC 2264: The Cone Nebula
+Date : 2023-01-10
 
-![](https://apod.nasa.gov/apod/image/2301/CometZtf_Hernandez_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ConeNebula_Dieterich_960.jpg)
 
-<small>Latest update : Tue Jan 10 04:17:05 2023</small>
+<small>Latest update : Tue Jan 10 05:12:37 2023</small>
         
