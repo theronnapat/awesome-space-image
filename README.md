@@ -6,5 +6,5 @@ Date : 2023-01-10
 
 ![](https://apod.nasa.gov/apod/image/2301/ConeNebula_Dieterich_960.jpg)
 
-<small>Latest update : Tue Jan 10 13:22:10 2023</small>
+<small>Latest update : Tue Jan 10 14:16:27 2023</small>
         
