@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 2264: The Cone Nebula
-Date : 2023-01-10
+### Today image : Spiral Aurora over Iceland
+Date : 2023-01-11
 
-![](https://apod.nasa.gov/apod/image/2301/ConeNebula_Dieterich_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/RockyArchAurora_Pellegrini_960.jpg)
 
-<small>Latest update : Wed Jan 11 04:17:23 2023</small>
+<small>Latest update : Wed Jan 11 05:12:56 2023</small>
         
