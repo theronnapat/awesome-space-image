@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Spiral Aurora over Iceland
-Date : 2023-01-11
+### Today image : Stardust in Perseus
+Date : 2023-01-12
 
-![](https://apod.nasa.gov/apod/image/2301/RockyArchAurora_Pellegrini_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ic348-ngc1333_1024.jpg)
 
-<small>Latest update : Thu Jan 12 04:16:55 2023</small>
+<small>Latest update : Thu Jan 12 05:12:56 2023</small>
         
