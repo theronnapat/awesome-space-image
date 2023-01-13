@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Stardust in Perseus
-Date : 2023-01-12
+### Today image : Young Star Cluster NGC 346
+Date : 2023-01-13
 
-![](https://apod.nasa.gov/apod/image/2301/ic348-ngc1333_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2301/jwst-ngc346-800.png)
 
-<small>Latest update : Fri Jan 13 04:17:24 2023</small>
+<small>Latest update : Fri Jan 13 05:13:17 2023</small>
         
