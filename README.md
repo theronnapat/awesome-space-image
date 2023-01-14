@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Young Star Cluster NGC 346
-Date : 2023-01-13
+### Today image : Perihelion Sun 2023
+Date : 2023-01-14
 
-![](https://apod.nasa.gov/apod/image/2301/jwst-ngc346-800.png)
+![](https://apod.nasa.gov/apod/image/2301/Sol3Jan2023web1024.jpg)
 
-<small>Latest update : Sat Jan 14 04:16:14 2023</small>
+<small>Latest update : Sat Jan 14 05:12:03 2023</small>
         
