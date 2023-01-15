@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Perihelion Sun 2023
-Date : 2023-01-14
+### Today image : M1: The Crab Nebula from Hubble
+Date : 2023-01-15
 
-![](https://apod.nasa.gov/apod/image/2301/Sol3Jan2023web1024.jpg)
+![](https://apod.nasa.gov/apod/image/2301/CrabNebula_Hubble_960.jpg)
 
-<small>Latest update : Sun Jan 15 04:16:23 2023</small>
+<small>Latest update : Sun Jan 15 05:12:13 2023</small>
         
