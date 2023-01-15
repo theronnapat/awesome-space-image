@@ -6,5 +6,5 @@ Date : 2023-01-15
 
 ![](https://apod.nasa.gov/apod/image/2301/CrabNebula_Hubble_960.jpg)
 
-<small>Latest update : Sun Jan 15 13:16:46 2023</small>
+<small>Latest update : Sun Jan 15 14:11:28 2023</small>
         
