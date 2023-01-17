@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Moon Enhanced
-Date : 2023-01-16
+### Today image : Unexpected Clouds Toward the Andromeda Galaxy
+Date : 2023-01-17
 
-![](https://apod.nasa.gov/apod/image/2301/MoonEnhanced_Mirza_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/M31OiiiArc_Strottner_960.jpg)
 
-<small>Latest update : Tue Jan 17 04:16:50 2023</small>
+<small>Latest update : Tue Jan 17 05:12:44 2023</small>
         
