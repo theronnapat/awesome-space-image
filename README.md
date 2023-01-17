@@ -6,5 +6,5 @@ Date : 2023-01-17
 
 ![](https://apod.nasa.gov/apod/image/2301/M31OiiiArc_Strottner_960.jpg)
 
-<small>Latest update : Tue Jan 17 19:11:06 2023</small>
+<small>Latest update : Tue Jan 17 20:13:24 2023</small>
         
