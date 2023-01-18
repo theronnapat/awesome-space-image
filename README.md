@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Unexpected Clouds Toward the Andromeda Galaxy
-Date : 2023-01-17
+### Today image : MACS0647: Gravitational Lensing of the Early Universe by Webb
+Date : 2023-01-18
 
-![](https://apod.nasa.gov/apod/image/2301/M31OiiiArc_Strottner_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/MacsClusterLens_Webb_960.jpg)
 
-<small>Latest update : Wed Jan 18 04:17:11 2023</small>
+<small>Latest update : Wed Jan 18 05:13:05 2023</small>
         
