@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : MACS0647: Gravitational Lensing of the Early Universe by Webb
-Date : 2023-01-18
+### Today image : The Seagull Nebula
+Date : 2023-01-19
 
-![](https://apod.nasa.gov/apod/image/2301/MacsClusterLens_Webb_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/crtastro_0172_1097p.jpg)
 
-<small>Latest update : Thu Jan 19 04:18:00 2023</small>
+<small>Latest update : Thu Jan 19 05:13:13 2023</small>
         
