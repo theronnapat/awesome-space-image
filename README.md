@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Seagull Nebula
-Date : 2023-01-19
+### Today image : Galaxy Wars: M81 and M82
+Date : 2023-01-20
 
-![](https://apod.nasa.gov/apod/image/2301/crtastro_0172_1097p.jpg)
+![](https://apod.nasa.gov/apod/image/2301/AUFSCHNAITER_Andreas_APOD_Bode_Cigare1024.jpg)
 
-<small>Latest update : Fri Jan 20 04:17:18 2023</small>
+<small>Latest update : Fri Jan 20 05:13:08 2023</small>
         
