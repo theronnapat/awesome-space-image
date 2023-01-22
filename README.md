@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Naked-eye Comet ZTF
-Date : 2023-01-21
+### Today image : In Green Company: Aurora over Norway
+Date : 2023-01-22
 
-![](https://apod.nasa.gov/apod/image/2301/ZTF_salamanca1024.jpg)
+![](https://apod.nasa.gov/apod/image/2301/greencompany_rive_960.jpg)
 
-<small>Latest update : Sun Jan 22 04:16:36 2023</small>
+<small>Latest update : Sun Jan 22 05:12:10 2023</small>
         
