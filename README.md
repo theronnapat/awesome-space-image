@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : In Green Company: Aurora over Norway
-Date : 2023-01-22
+### Today image : The Colliding Spiral Galaxies of Arp 274
+Date : 2023-01-23
 
-![](https://apod.nasa.gov/apod/image/2301/greencompany_rive_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_1080.jpg)
 
-<small>Latest update : Mon Jan 23 04:17:01 2023</small>
+<small>Latest update : Mon Jan 23 05:12:55 2023</small>
         
