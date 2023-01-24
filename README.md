@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Colliding Spiral Galaxies of Arp 274
-Date : 2023-01-23
+### Today image : LHS 475 b: Earth-Sized Exoplanet
+Date : 2023-01-24
 
-![](https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2301/RockyRed7_DeepAI_960.jpg)
 
-<small>Latest update : Tue Jan 24 04:16:44 2023</small>
+<small>Latest update : Tue Jan 24 05:12:32 2023</small>
         
