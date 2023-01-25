@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : LHS 475 b: Earth-Sized Exoplanet
-Date : 2023-01-24
+### Today image : LDN 1622: The Boogeyman Nebula
+Date : 2023-01-25
 
-![](https://apod.nasa.gov/apod/image/2301/RockyRed7_DeepAI_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/LDN1622_Carter_960.jpg)
 
-<small>Latest update : Wed Jan 25 04:16:40 2023</small>
+<small>Latest update : Wed Jan 25 05:12:28 2023</small>
         
