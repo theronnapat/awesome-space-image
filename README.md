@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : LDN 1622: The Boogeyman Nebula
-Date : 2023-01-25
+### Today image : Active Galaxy NGC 1275
+Date : 2023-01-26
 
-![](https://apod.nasa.gov/apod/image/2301/LDN1622_Carter_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ngc1275_heic0817a_1024.jpg)
 
-<small>Latest update : Thu Jan 26 04:16:38 2023</small>
+<small>Latest update : Thu Jan 26 05:12:49 2023</small>
         
