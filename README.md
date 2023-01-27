@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Active Galaxy NGC 1275
-Date : 2023-01-26
+### Today image : Comet ZTF: Orbital Plane Crossing
+Date : 2023-01-27
 
-![](https://apod.nasa.gov/apod/image/2301/ngc1275_heic0817a_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett1024.jpg)
 
-<small>Latest update : Fri Jan 27 04:16:54 2023</small>
+<small>Latest update : Fri Jan 27 05:12:37 2023</small>
         
