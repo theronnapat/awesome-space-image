@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Globular Star Cluster NGC 6355 from Hubble
-Date : 2023-01-30
+### Today image : A Triple View of Comet ZTF
+Date : 2023-01-31
 
-![](https://apod.nasa.gov/apod/image/2301/ngc6355_hubble_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2301/TripleCometZTF_Caldera_960.jpg)
 
-<small>Latest update : Tue Jan 31 04:16:47 2023</small>
+<small>Latest update : Tue Jan 31 05:12:29 2023</small>
         
