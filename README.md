@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Triple View of Comet ZTF
-Date : 2023-01-31
+### Today image : The Seventh World of Trappist-1
+Date : 2023-02-01
 
-![](https://apod.nasa.gov/apod/image/2301/TripleCometZTF_Caldera_960.jpg)
+![](https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_960.jpg)
 
-<small>Latest update : Wed Feb  1 04:17:10 2023</small>
+<small>Latest update : Wed Feb  1 05:13:05 2023</small>
         
