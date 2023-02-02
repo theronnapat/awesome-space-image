@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Seventh World of Trappist-1
-Date : 2023-02-01
+### Today image : Reflections on the 1970s
+Date : 2023-02-02
 
-![](https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_960.jpg)
+![](https://apod.nasa.gov/apod/image/2302/NGC1975RunningMan_1024.jpg)
 
-<small>Latest update : Thu Feb  2 04:17:17 2023</small>
+<small>Latest update : Thu Feb  2 05:12:55 2023</small>
         
