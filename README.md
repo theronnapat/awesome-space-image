@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Reflections on the 1970s
-Date : 2023-02-02
+### Today image : Polaris and the Trail of Comet ZTF
+Date : 2023-02-03
 
-![](https://apod.nasa.gov/apod/image/2302/NGC1975RunningMan_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2302/C2022E3(ZTF)Circumpolarv2comentada1024.jpg)
 
-<small>Latest update : Fri Feb  3 04:17:02 2023</small>
+<small>Latest update : Fri Feb  3 05:13:00 2023</small>
         
