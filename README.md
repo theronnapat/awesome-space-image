@@ -6,5 +6,5 @@ Date : 2023-02-03
 
 ![](https://apod.nasa.gov/apod/image/2302/C2022E3(ZTF)Circumpolarv2comentada1024.jpg)
 
-<small>Latest update : Fri Feb  3 17:12:54 2023</small>
+<small>Latest update : Fri Feb  3 18:17:04 2023</small>
         
