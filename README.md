@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : In the Heart of the Rosette Nebula
-Date : 2023-02-06
+### Today image : A Comet and Two Dippers
+Date : 2023-02-07
 
-![](https://apod.nasa.gov/apod/image/2302/Rosette_Insley_960.jpg)
+![](https://apod.nasa.gov/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg)
 
-<small>Latest update : Tue Feb  7 04:16:52 2023</small>
+<small>Latest update : Tue Feb  7 05:12:38 2023</small>
         
