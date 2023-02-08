@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Comet and Two Dippers
-Date : 2023-02-07
+### Today image : Stellar Wind-Shaped Nebula RCW 58
+Date : 2023-02-08
 
-![](https://apod.nasa.gov/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg)
+![](https://apod.nasa.gov/apod/image/2302/Rcw58_Selby_960.jpg)
 
-<small>Latest update : Wed Feb  8 04:17:32 2023</small>
+<small>Latest update : Wed Feb  8 05:13:08 2023</small>
         
