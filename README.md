@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Magellanic Clouds over Chile
-Date : 2023-02-11
+### Today image : Mammatus Clouds over Nebraska
+Date : 2023-02-12
 
-![](https://apod.nasa.gov/apod/image/2302/magellanic1200.jpg)
+![](https://apod.nasa.gov/apod/image/2302/mammatus_olson_960.jpg)
 
-<small>Latest update : Sun Feb 12 04:16:40 2023</small>
+<small>Latest update : Sun Feb 12 05:12:49 2023</small>
         
