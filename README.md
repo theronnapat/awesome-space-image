@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet ZTF and Mars
-Date : 2023-02-13
+### Today image : The Heart and Soul Nebulas
+Date : 2023-02-14
 
-![](https://apod.nasa.gov/apod/image/2302/CometZtfMars_Lioce_960.jpg)
+![](https://apod.nasa.gov/apod/image/2302/HeartSoul_deHaro_1080.jpg)
 
-<small>Latest update : Tue Feb 14 04:17:57 2023</small>
+<small>Latest update : Tue Feb 14 05:13:37 2023</small>
         
