@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Heart and Soul Nebulas
-Date : 2023-02-14
+### Today image : Airglow Sky over France
+Date : 2023-02-15
 
-![](https://apod.nasa.gov/apod/image/2302/HeartSoul_deHaro_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2302/AirglowFrance_Looten_1080.jpg)
 
-<small>Latest update : Wed Feb 15 04:17:56 2023</small>
+<small>Latest update : Wed Feb 15 05:13:40 2023</small>
         
