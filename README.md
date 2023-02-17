@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Hydra Cluster of Galaxies
-Date : 2023-02-16
+### Today image : 2023 CX1 Meteor Flash
+Date : 2023-02-17
 
-![](https://apod.nasa.gov/apod/image/2302/ABELL1060_LRGB_NASA_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2302/gijsDSC_1917(2x3)800px.jpg)
 
-<small>Latest update : Fri Feb 17 04:17:44 2023</small>
+<small>Latest update : Fri Feb 17 05:13:21 2023</small>
         
