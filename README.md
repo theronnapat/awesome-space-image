@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : 2023 CX1 Meteor Flash
-Date : 2023-02-17
+### Today image : Barred Spiral Galaxy NGC 1365 from Webb
+Date : 2023-02-18
 
-![](https://apod.nasa.gov/apod/image/2302/gijsDSC_1917(2x3)800px.jpg)
+![](https://apod.nasa.gov/apod/image/2302/JWSTMIRI_ngc1365_1024.png)
 
-<small>Latest update : Sat Feb 18 03:14:30 2023</small>
+<small>Latest update : Sat Feb 18 05:12:27 2023</small>
         
