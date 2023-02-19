@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Barred Spiral Galaxy NGC 1365 from Webb
-Date : 2023-02-18
+### Today image : Seven Dusty Sisters in Infrared
+Date : 2023-02-19
 
-![](https://apod.nasa.gov/apod/image/2302/JWSTMIRI_ngc1365_1024.png)
+![](https://apod.nasa.gov/apod/image/2302/Pleiades_WiseAntonucci_960.jpg)
 
-<small>Latest update : Sun Feb 19 04:17:04 2023</small>
+<small>Latest update : Sun Feb 19 05:12:39 2023</small>
         
