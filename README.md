@@ -6,5 +6,5 @@ Date : 2023-02-20
 
 ![](https://apod.nasa.gov/apod/image/2302/Ngc1850_HubbleOzsarac_960.jpg)
 
-<small>Latest update : Mon Feb 20 10:17:10 2023</small>
+<small>Latest update : Mon Feb 20 11:12:09 2023</small>
         
