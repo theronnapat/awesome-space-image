@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1850: Not Found in the Milky Way
-Date : 2023-02-20
+### Today image : Comet ZTF  over Yosemite Falls
+Date : 2023-02-21
 
-![](https://apod.nasa.gov/apod/image/2302/Ngc1850_HubbleOzsarac_960.jpg)
+![](https://apod.nasa.gov/apod/image/2302/CometZtfYosemite_Mostofi_960.jpg)
 
-<small>Latest update : Tue Feb 21 04:17:45 2023</small>
+<small>Latest update : Tue Feb 21 05:13:15 2023</small>
         
