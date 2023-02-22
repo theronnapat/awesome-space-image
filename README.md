@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet ZTF  over Yosemite Falls
-Date : 2023-02-21
+### Today image : Our Increasingly Active Sun
+Date : 2023-02-22
 
-![](https://apod.nasa.gov/apod/image/2302/CometZtfYosemite_Mostofi_960.jpg)
+![](https://apod.nasa.gov/apod/image/2302/SunHalphaC_Ergun_960.jpg)
 
-<small>Latest update : Wed Feb 22 04:18:06 2023</small>
+<small>Latest update : Wed Feb 22 05:13:43 2023</small>
         
