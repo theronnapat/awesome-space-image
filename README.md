@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Zodiacal Ray with Venus and Jupiter
-Date : 2023-02-27
+### Today image : Crescent Moon Beyond Greek Temple
+Date : 2023-02-28
 
-![](https://apod.nasa.gov/apod/image/2302/ZodiacalPlanets_Merzlyakov_960.jpg)
+![](https://apod.nasa.gov/apod/image/2302/CrescentPoseiden_Chasiotis_1080.jpg)
 
-<small>Latest update : Tue Feb 28 04:17:42 2023</small>
+<small>Latest update : Tue Feb 28 05:13:57 2023</small>
         
