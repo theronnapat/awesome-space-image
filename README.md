@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Flaming Star Nebula
-Date : 2023-03-01
+### Today image : Unraveling NGC 3169
+Date : 2023-03-02
 
-![](https://apod.nasa.gov/apod/image/2303/FlamingStarComet_Roell_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_1024.jpg)
 
-<small>Latest update : Thu Mar  2 04:18:12 2023</small>
+<small>Latest update : Thu Mar  2 05:13:42 2023</small>
         
