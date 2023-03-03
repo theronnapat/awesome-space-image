@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Unraveling NGC 3169
-Date : 2023-03-02
+### Today image : RCW 86: Historical Supernova Remnant
+Date : 2023-03-03
 
-![](https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2303/noirlab2307a1024c.jpg)
 
-<small>Latest update : Fri Mar  3 04:42:17 2023</small>
+<small>Latest update : Fri Mar  3 05:17:54 2023</small>
         
