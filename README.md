@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter and Venus over Italy
-Date : 2023-03-05
+### Today image : Jupiter and Venus from Earth
+Date : 2023-03-06
 
-![](https://apod.nasa.gov/apod/image/2303/VenusJupiterSky_Tumino_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2303/jupiterpersonvenus_nikodem_960.jpg)
 
-<small>Latest update : Mon Mar  6 04:18:06 2023</small>
+<small>Latest update : Mon Mar  6 05:13:56 2023</small>
         
