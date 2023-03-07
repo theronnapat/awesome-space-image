@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter and Venus from Earth
-Date : 2023-03-06
+### Today image : Deep Field: The Large Magellanic Cloud
+Date : 2023-03-07
 
-![](https://apod.nasa.gov/apod/image/2303/jupiterpersonvenus_nikodem_960.jpg)
+![](https://apod.nasa.gov/apod/image/2303/LmcDeepWide_Beletsky_960.jpg)
 
-<small>Latest update : Tue Mar  7 04:17:57 2023</small>
+<small>Latest update : Tue Mar  7 05:13:53 2023</small>
         
