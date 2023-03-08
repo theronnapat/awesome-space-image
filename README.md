@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Deep Field: The Large Magellanic Cloud
-Date : 2023-03-07
+### Today image : Artificial Night Sky Brightness
+Date : 2023-03-08
 
-![](https://apod.nasa.gov/apod/image/2303/LmcDeepWide_Beletsky_960.jpg)
+![](https://apod.nasa.gov/apod/image/2303/WorldSkyBrightness_JpssLorenz_1080.jpg)
 
-<small>Latest update : Wed Mar  8 04:17:43 2023</small>
+<small>Latest update : Wed Mar  8 05:13:40 2023</small>
         
