@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Artificial Night Sky Brightness
-Date : 2023-03-08
+### Today image : DART vs Dimorphos
+Date : 2023-03-09
 
-![](https://apod.nasa.gov/apod/image/2303/WorldSkyBrightness_JpssLorenz_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2303/pressdracowithspacecraft1_1024.jpg)
 
-<small>Latest update : Thu Mar  9 04:18:04 2023</small>
+<small>Latest update : Thu Mar  9 05:13:41 2023</small>
         
