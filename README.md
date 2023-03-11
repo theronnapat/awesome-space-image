@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Orion and the Running Man
-Date : 2023-03-10
+### Today image : 3D Bennu
+Date : 2023-03-11
 
-![](https://apod.nasa.gov/apod/image/2303/my_hero1024_rot.jpg)
+![](https://apod.nasa.gov/apod/image/2303/ana03BennuVantuyne1024c.jpg)
 
-<small>Latest update : Sat Mar 11 04:16:31 2023</small>
+<small>Latest update : Sat Mar 11 05:12:17 2023</small>
         
