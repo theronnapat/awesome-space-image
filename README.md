@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : 3D Bennu
-Date : 2023-03-11
+### Today image : Saturn's Hyperion: A Moon with Odd Craters
+Date : 2023-03-12
 
-![](https://apod.nasa.gov/apod/image/2303/ana03BennuVantuyne1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2303/hyperion_cassini_1024.jpg)
 
-<small>Latest update : Sun Mar 12 04:16:37 2023</small>
+<small>Latest update : Sun Mar 12 05:12:13 2023</small>
         
