@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : W5: The Soul Nebula
-Date : 2023-03-14
+### Today image : Jupiter and Venus Converge over Germany
+Date : 2023-03-15
 
-![](https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg)
 
-<small>Latest update : Wed Mar 15 03:14:49 2023</small>
+<small>Latest update : Wed Mar 15 04:16:57 2023</small>
         
