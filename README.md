@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter and Venus Converge over Germany
-Date : 2023-03-15
+### Today image : Millions of Stars in Omega Centauri
+Date : 2023-03-16
 
-![](https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg)
+![](https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg)
 
-<small>Latest update : Thu Mar 16 03:14:50 2023</small>
+<small>Latest update : Thu Mar 16 04:16:49 2023</small>
         
