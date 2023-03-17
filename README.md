@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Millions of Stars in Omega Centauri
-Date : 2023-03-16
+### Today image : The Medusa Nebula
+Date : 2023-03-17
 
-![](https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg)
+![](https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg)
 
-<small>Latest update : Fri Mar 17 03:14:36 2023</small>
+<small>Latest update : Fri Mar 17 04:17:02 2023</small>
         
