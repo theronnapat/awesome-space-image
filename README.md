@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Wolf-Rayet 124
-Date : 2023-03-18
+### Today image : Equinox at the Pyramid of the Feathered Serpent
+Date : 2023-03-19
 
-![](https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png)
+![](https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg)
 
-<small>Latest update : Sun Mar 19 03:15:46 2023</small>
+<small>Latest update : Sun Mar 19 04:16:27 2023</small>
         
