@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M1: The Expanding Crab Nebula
-Date : 2023-03-20
+### Today image : Dark Nebulae and Star Formation in Taurus
+Date : 2023-03-21
 
-![](https://www.youtube.com/embed/wfzz8FUD4TM?rel=0)
+![](https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg)
 
-<small>Latest update : Tue Mar 21 03:13:52 2023</small>
+<small>Latest update : Tue Mar 21 04:15:18 2023</small>
         
