@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Dark Nebulae and Star Formation in Taurus
-Date : 2023-03-21
+### Today image : M31: The Andromeda Galaxy
+Date : 2023-03-22
 
-![](https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg)
 
-<small>Latest update : Wed Mar 22 03:13:39 2023</small>
+<small>Latest update : Wed Mar 22 04:15:58 2023</small>
         
