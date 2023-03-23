@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M31: The Andromeda Galaxy
-Date : 2023-03-22
+### Today image : Spiral Galaxy NGC 2841
+Date : 2023-03-23
 
-![](https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg)
+![](https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg)
 
-<small>Latest update : Thu Mar 23 03:13:31 2023</small>
+<small>Latest update : Thu Mar 23 04:16:12 2023</small>
         
