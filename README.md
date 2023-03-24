@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Spiral Galaxy NGC 2841
-Date : 2023-03-23
+### Today image : Outbound Comet ZTF
+Date : 2023-03-24
 
-![](https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg)
 
-<small>Latest update : Fri Mar 24 03:13:48 2023</small>
+<small>Latest update : Fri Mar 24 04:16:18 2023</small>
         
