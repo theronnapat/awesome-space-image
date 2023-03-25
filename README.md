@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Outbound Comet ZTF
-Date : 2023-03-24
+### Today image : Venus and the Da Vinci Glow
+Date : 2023-03-25
 
-![](https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg)
 
-<small>Latest update : Sat Mar 25 03:13:25 2023</small>
+<small>Latest update : Sat Mar 25 04:15:25 2023</small>
         
