@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Multiple Green Flash Sunset
-Date : 2023-03-28
+### Today image : Sh2-308: A Dolphin Shaped Star Bubble
+Date : 2023-03-29
 
-![](https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg)
+![](https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg)
 
-<small>Latest update : Wed Mar 29 03:13:51 2023</small>
+<small>Latest update : Wed Mar 29 04:16:54 2023</small>
         
