@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 4372 and the Dark Doodad
-Date : 2023-03-30
+### Today image : Seeing Titan
+Date : 2023-03-31
 
-![](https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg)
+![](https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg)
 
-<small>Latest update : Fri Mar 31 03:14:11 2023</small>
+<small>Latest update : Fri Mar 31 04:16:02 2023</small>
         
