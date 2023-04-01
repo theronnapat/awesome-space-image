@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Seeing Titan
-Date : 2023-03-31
+### Today image : NGC 2442: Galaxy in Volans
+Date : 2023-04-01
 
-![](https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg)
+![](https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg)
 
-<small>Latest update : Sat Apr  1 03:13:20 2023</small>
+<small>Latest update : Sat Apr  1 04:15:00 2023</small>
         
