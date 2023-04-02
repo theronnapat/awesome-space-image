@@ -6,5 +6,5 @@ Date : 2023-04-02
 
 ![](https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg)
 
-<small>Latest update : Sun Apr  2 17:10:10 2023</small>
+<small>Latest update : Sun Apr  2 18:14:18 2023</small>
         
