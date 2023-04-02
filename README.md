@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 2442: Galaxy in Volans
-Date : 2023-04-01
+### Today image : M57: The Ring Nebula from Hubble
+Date : 2023-04-02
 
-![](https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg)
+![](https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg)
 
-<small>Latest update : Sun Apr  2 03:12:33 2023</small>
+<small>Latest update : Sun Apr  2 04:14:45 2023</small>
         
