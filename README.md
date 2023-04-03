@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M57: The Ring Nebula from Hubble
-Date : 2023-04-02
+### Today image : The Galactic Center Radio Arc
+Date : 2023-04-03
 
-![](https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg)
+![](https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg)
 
-<small>Latest update : Mon Apr  3 03:13:05 2023</small>
+<small>Latest update : Mon Apr  3 04:15:39 2023</small>
         
