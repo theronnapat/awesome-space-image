@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Galactic Center Radio Arc
-Date : 2023-04-03
+### Today image : Olympus Mons: Largest Volcano in the Solar System
+Date : 2023-04-04
 
-![](https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg)
 
-<small>Latest update : Tue Apr  4 03:13:12 2023</small>
+<small>Latest update : Tue Apr  4 04:15:28 2023</small>
         
