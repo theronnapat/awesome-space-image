@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : IC 2944: The Running Chicken Nebula
-Date : 2023-04-10
+### Today image : North Star: Polaris and Surrounding Dust
+Date : 2023-04-11
 
-![](https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_960.jpg)
+![](https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg)
 
-<small>Latest update : Tue Apr 11 03:13:14 2023</small>
+<small>Latest update : Tue Apr 11 04:15:06 2023</small>
         
