@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : North Star: Polaris and Surrounding Dust
-Date : 2023-04-11
+### Today image : NGC 206 and the Star Clouds of Andromeda
+Date : 2023-04-12
 
-![](https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg)
+![](https://apod.nasa.gov/apod/image/2304/Trottier_M31SW_APOD_Re1024.jpg)
 
-<small>Latest update : Wed Apr 12 03:13:09 2023</small>
+<small>Latest update : Wed Apr 12 04:15:12 2023</small>
         
