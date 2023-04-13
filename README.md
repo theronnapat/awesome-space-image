@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 206 and the Star Clouds of Andromeda
-Date : 2023-04-12
+### Today image : NGC 2419: Intergalactic Wanderer
+Date : 2023-04-13
 
-![](https://apod.nasa.gov/apod/image/2304/Trottier_M31SW_APOD_Re1024.jpg)
+![](https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg)
 
-<small>Latest update : Thu Apr 13 03:13:09 2023</small>
+<small>Latest update : Thu Apr 13 04:15:22 2023</small>
         
