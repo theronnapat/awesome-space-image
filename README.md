@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 2419: Intergalactic Wanderer
-Date : 2023-04-13
+### Today image : Portrait of NGC 3628
+Date : 2023-04-14
 
-![](https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg)
 
-<small>Latest update : Fri Apr 14 03:13:15 2023</small>
+<small>Latest update : Fri Apr 14 04:15:20 2023</small>
         
