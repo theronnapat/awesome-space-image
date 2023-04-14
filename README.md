@@ -6,5 +6,5 @@ Date : 2023-04-13
 
 ![](https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg)
 
-<small>Latest update : Fri Apr 14 02:27:56 2023</small>
+<small>Latest update : Fri Apr 14 03:13:15 2023</small>
         
