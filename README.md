@@ -6,5 +6,5 @@ Date : 2023-04-14
 
 ![](https://apod.nasa.gov/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg)
 
-<small>Latest update : Fri Apr 14 15:13:03 2023</small>
+<small>Latest update : Fri Apr 14 16:17:05 2023</small>
         
