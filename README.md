@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Portrait of NGC 3628
-Date : 2023-04-14
+### Today image : When Z is for Mars
+Date : 2023-04-15
 
-![](https://apod.nasa.gov/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg)
+![](https://apod.nasa.gov/apod/image/2304/Ma2022-3_1024.jpg)
 
-<small>Latest update : Sat Apr 15 03:13:01 2023</small>
+<small>Latest update : Sat Apr 15 04:14:56 2023</small>
         
