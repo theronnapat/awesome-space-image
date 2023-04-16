@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : When Z is for Mars
-Date : 2023-04-15
+### Today image : M2-9: Wings of a Butterfly Nebula
+Date : 2023-04-16
 
-![](https://apod.nasa.gov/apod/image/2304/Ma2022-3_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2304/M2D9_HubbleSchmidt_985.jpg)
 
-<small>Latest update : Sun Apr 16 03:13:11 2023</small>
+<small>Latest update : Sun Apr 16 04:15:05 2023</small>
         
