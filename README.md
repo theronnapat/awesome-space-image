@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M2-9: Wings of a Butterfly Nebula
-Date : 2023-04-16
+### Today image : ELVES Lightning over Italy
+Date : 2023-04-17
 
-![](https://apod.nasa.gov/apod/image/2304/M2D9_HubbleSchmidt_985.jpg)
+![](https://apod.nasa.gov/apod/image/2304/Elves_Binotto_1080.jpg)
 
-<small>Latest update : Mon Apr 17 03:13:32 2023</small>
+<small>Latest update : Mon Apr 17 04:16:01 2023</small>
         
