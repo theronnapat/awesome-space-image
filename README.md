@@ -6,5 +6,5 @@ Date : 2023-04-20
 
 ![](https://apod.nasa.gov/apod/image/2304/Barnard-150_LRGB_HIGH-RES1024.jpg)
 
-<small>Latest update : Thu Apr 20 20:13:37 2023</small>
+<small>Latest update : Thu Apr 20 21:11:05 2023</small>
         
