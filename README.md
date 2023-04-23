@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1333: Stellar Nursery in Perseus
-Date : 2023-04-22
+### Today image : A Waterspout in Florida
+Date : 2023-04-23
 
-![](https://apod.nasa.gov/apod/image/2304/NGC1333HST33rd_800.png)
+![](https://apod.nasa.gov/apod/image/2304/waterspout_mole_960.jpg)
 
-<small>Latest update : Sun Apr 23 03:13:14 2023</small>
+<small>Latest update : Sun Apr 23 04:15:31 2023</small>
         
