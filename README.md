@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Medulla Nebula Supernova Remnant
-Date : 2023-04-24
+### Today image : Northern Lights over Southern Europe
+Date : 2023-04-25
 
-![](https://apod.nasa.gov/apod/image/2304/CTB1_Sibbald_960.jpg)
+![](https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_960.jpg)
 
-<small>Latest update : Tue Apr 25 03:13:28 2023</small>
+<small>Latest update : Tue Apr 25 04:15:36 2023</small>
         
