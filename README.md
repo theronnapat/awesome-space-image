@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Northern Lights over Southern Europe
-Date : 2023-04-25
+### Today image : The Moon through the Arc de Triomphe
+Date : 2023-04-26
 
-![](https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_960.jpg)
+![](https://apod.nasa.gov/apod/image/2304/MoonArc_zanarello_960.jpg)
 
-<small>Latest update : Wed Apr 26 03:13:27 2023</small>
+<small>Latest update : Wed Apr 26 04:15:44 2023</small>
         
