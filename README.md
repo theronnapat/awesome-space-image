@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Moon through the Arc de Triomphe
-Date : 2023-04-26
+### Today image : The Tarantula Nebula from SuperBIT
+Date : 2023-04-27
 
-![](https://apod.nasa.gov/apod/image/2304/MoonArc_zanarello_960.jpg)
+![](https://apod.nasa.gov/apod/image/2304/SuperBIT_tarantula_1024.png)
 
-<small>Latest update : Thu Apr 27 03:13:47 2023</small>
+<small>Latest update : Thu Apr 27 04:15:11 2023</small>
         
