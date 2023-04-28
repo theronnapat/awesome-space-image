@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Tarantula Nebula from SuperBIT
-Date : 2023-04-27
+### Today image : Runaway Star Alpha Camelopardalis
+Date : 2023-04-28
 
-![](https://apod.nasa.gov/apod/image/2304/SuperBIT_tarantula_1024.png)
+![](https://apod.nasa.gov/apod/image/2304/AlphaCamelopardis_s1024.png)
 
-<small>Latest update : Fri Apr 28 03:13:31 2023</small>
+<small>Latest update : Fri Apr 28 04:15:23 2023</small>
         
