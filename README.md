@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Flat Rock Hills on Mars
-Date : 2023-05-02
+### Today image : Centaurus A: A Peculiar Island of Stars
+Date : 2023-05-03
 
-![](https://apod.nasa.gov/apod/image/2305/FlatMars_CuriosityThompson_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2305/NGC5128_Lorenzi_960.jpg)
 
-<small>Latest update : Wed May  3 03:13:30 2023</small>
+<small>Latest update : Wed May  3 04:15:02 2023</small>
         
