@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Twilight in a Flower
-Date : 2023-05-06
+### Today image : The Helix Nebula from CFHT
+Date : 2023-05-07
 
-![](https://apod.nasa.gov/apod/image/2305/TwilightFlower1024.jpg)
+![](https://apod.nasa.gov/apod/image/2305/Helix2_CFHT_960.jpg)
 
-<small>Latest update : Sun May  7 03:13:30 2023</small>
+<small>Latest update : Sun May  7 04:15:00 2023</small>
         
