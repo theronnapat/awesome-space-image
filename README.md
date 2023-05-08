@@ -6,5 +6,5 @@ Date : 2023-05-08
 
 ![](https://apod.nasa.gov/apod/image/2305/NGC1566_HubbleOdenthal_960.jpg)
 
-<small>Latest update : Mon May  8 13:15:43 2023</small>
+<small>Latest update : Mon May  8 14:11:49 2023</small>
         
