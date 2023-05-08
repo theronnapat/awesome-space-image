@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Helix Nebula from CFHT
-Date : 2023-05-07
+### Today image : The Spanish Dancer Spiral Galaxy
+Date : 2023-05-08
 
-![](https://apod.nasa.gov/apod/image/2305/Helix2_CFHT_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/NGC1566_HubbleOdenthal_960.jpg)
 
-<small>Latest update : Mon May  8 03:13:49 2023</small>
+<small>Latest update : Mon May  8 04:15:32 2023</small>
         
