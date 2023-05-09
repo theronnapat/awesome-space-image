@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Spanish Dancer Spiral Galaxy
-Date : 2023-05-08
+### Today image : Shadows of Earth
+Date : 2023-05-09
 
-![](https://apod.nasa.gov/apod/image/2305/NGC1566_HubbleOdenthal_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/ColorsShadows_Pace_960.jpg)
 
-<small>Latest update : Tue May  9 03:13:52 2023</small>
+<small>Latest update : Tue May  9 04:15:02 2023</small>
         
