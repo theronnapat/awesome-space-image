@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Shadows of Earth
-Date : 2023-05-09
+### Today image : Milky Way over Egyptian Desert
+Date : 2023-05-10
 
-![](https://apod.nasa.gov/apod/image/2305/ColorsShadows_Pace_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/DesertSky_Abdelwahab_960.jpg)
 
-<small>Latest update : Wed May 10 03:13:17 2023</small>
+<small>Latest update : Wed May 10 04:15:12 2023</small>
         
