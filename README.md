@@ -6,5 +6,5 @@ Date : 2023-05-11
 
 ![](https://apod.nasa.gov/apod/image/2305/STSCI_FomalhautDisk1024.png)
 
-<small>Latest update : Fri May 12 01:06:06 2023</small>
+<small>Latest update : Fri May 12 02:27:52 2023</small>
         
