@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Fomalhaut's Dusty Debris Disk
-Date : 2023-05-11
+### Today image : Halley Dust, Mars Dust, and Milky Way
+Date : 2023-05-12
 
-![](https://apod.nasa.gov/apod/image/2305/STSCI_FomalhautDisk1024.png)
+![](https://apod.nasa.gov/apod/image/2305/2022_05_04_Eta_Aquaridy_SP_Meteory_Fin_Vyska_1200px.png)
 
-<small>Latest update : Fri May 12 03:13:20 2023</small>
+<small>Latest update : Fri May 12 04:14:46 2023</small>
         
