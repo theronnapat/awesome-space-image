@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Halley Dust, Mars Dust, and Milky Way
-Date : 2023-05-12
+### Today image : Apollo 17: The Crescent Earth
+Date : 2023-05-13
 
-![](https://apod.nasa.gov/apod/image/2305/2022_05_04_Eta_Aquaridy_SP_Meteory_Fin_Vyska_1200px.png)
+![](https://apod.nasa.gov/apod/image/2305/AS17-152-23420_Ord1024c.jpg)
 
-<small>Latest update : Sat May 13 03:12:36 2023</small>
+<small>Latest update : Sat May 13 04:14:33 2023</small>
         
