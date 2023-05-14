@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Apollo 17: The Crescent Earth
-Date : 2023-05-13
+### Today image : To Fly Free in Space
+Date : 2023-05-14
 
-![](https://apod.nasa.gov/apod/image/2305/AS17-152-23420_Ord1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2305/freeflyer_nasa_960.jpg)
 
-<small>Latest update : Sun May 14 03:12:41 2023</small>
+<small>Latest update : Sun May 14 04:15:00 2023</small>
         
