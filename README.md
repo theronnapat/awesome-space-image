@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : To Fly Free in Space
-Date : 2023-05-14
+### Today image : M16: Eagle Nebula Deep Field
+Date : 2023-05-15
 
-![](https://apod.nasa.gov/apod/image/2305/freeflyer_nasa_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/EagleDeep_Lacroce_1080.jpg)
 
-<small>Latest update : Mon May 15 03:13:07 2023</small>
+<small>Latest update : Mon May 15 04:15:10 2023</small>
         
