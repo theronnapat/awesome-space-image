@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M16: Eagle Nebula Deep Field
-Date : 2023-05-15
+### Today image : Total Eclipse: The Big Corona
+Date : 2023-05-16
 
-![](https://apod.nasa.gov/apod/image/2305/EagleDeep_Lacroce_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2305/BigCorona2023_Wittich_960.jpg)
 
-<small>Latest update : Tue May 16 03:13:17 2023</small>
+<small>Latest update : Tue May 16 04:15:45 2023</small>
         
