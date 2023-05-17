@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Total Eclipse: The Big Corona
-Date : 2023-05-16
+### Today image : Sunspot with Light Bridge
+Date : 2023-05-17
 
-![](https://apod.nasa.gov/apod/image/2305/BigCorona2023_Wittich_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/SunSpotBridge_Johnston_960.jpg)
 
-<small>Latest update : Wed May 17 03:13:20 2023</small>
+<small>Latest update : Wed May 17 04:14:51 2023</small>
         
