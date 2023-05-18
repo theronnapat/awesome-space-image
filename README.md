@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sunspot with Light Bridge
-Date : 2023-05-17
+### Today image : WR 134 Ring Nebula
+Date : 2023-05-18
 
-![](https://apod.nasa.gov/apod/image/2305/SunSpotBridge_Johnston_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/WR134SHO_1024.jpg)
 
-<small>Latest update : Thu May 18 03:12:57 2023</small>
+<small>Latest update : Thu May 18 04:15:02 2023</small>
         
