@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : WR 134 Ring Nebula
-Date : 2023-05-18
+### Today image : Curly Spiral Galaxy M63
+Date : 2023-05-19
 
-![](https://apod.nasa.gov/apod/image/2305/WR134SHO_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2305/m63_1024.jpg)
 
-<small>Latest update : Fri May 19 03:13:24 2023</small>
+<small>Latest update : Fri May 19 04:15:11 2023</small>
         
