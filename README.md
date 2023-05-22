@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Tardigrade in Moss
-Date : 2023-05-21
+### Today image : Supernova Discovered in Nearby Spiral Galaxy M101
+Date : 2023-05-22
 
-![](https://apod.nasa.gov/apod/image/2305/tardigrade_eyeofscience_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/M101Sn_Stocks_after_960.jpg)
 
-<small>Latest update : Mon May 22 03:13:57 2023</small>
+<small>Latest update : Mon May 22 04:15:01 2023</small>
         
