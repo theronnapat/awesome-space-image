@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter's Swirls from Juno
-Date : 2023-05-23
+### Today image : Observatory Aligned with Moon Occulting Jupiter
+Date : 2023-05-24
 
-![](https://apod.nasa.gov/apod/image/2305/JupiterSwirls_JunoGill_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/MoonJupiter_Whitacre_960.jpg)
 
-<small>Latest update : Wed May 24 03:13:20 2023</small>
+<small>Latest update : Wed May 24 04:15:08 2023</small>
         
