@@ -6,5 +6,5 @@ Date : 2023-05-25
 
 ![](https://apod.nasa.gov/apod/image/2305/NGC6543_wide1024.jpg)
 
-<small>Latest update : Thu May 25 17:11:12 2023</small>
+<small>Latest update : Thu May 25 18:15:37 2023</small>
         
