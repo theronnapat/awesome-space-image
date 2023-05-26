@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Cat's Eye Wide and Deep
-Date : 2023-05-25
+### Today image : Virgo Cluster Galaxies
+Date : 2023-05-26
 
-![](https://apod.nasa.gov/apod/image/2305/NGC6543_wide1024.jpg)
+![](https://apod.nasa.gov/apod/image/2305/virgoCL1024.jpg)
 
-<small>Latest update : Fri May 26 03:12:59 2023</small>
+<small>Latest update : Fri May 26 04:15:04 2023</small>
         
