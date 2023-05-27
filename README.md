@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Virgo Cluster Galaxies
-Date : 2023-05-26
+### Today image : Crescent Neptune and Triton
+Date : 2023-05-27
 
-![](https://apod.nasa.gov/apod/image/2305/virgoCL1024.jpg)
+![](https://apod.nasa.gov/apod/image/2305/neptunetriton_voyager_960.jpg)
 
-<small>Latest update : Sat May 27 03:12:54 2023</small>
+<small>Latest update : Sat May 27 04:14:15 2023</small>
         
