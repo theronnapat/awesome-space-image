@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ida and Dactyl: Asteroid and Moon
-Date : 2023-05-28
+### Today image : Milky Way over a Turquoise Wonderland
+Date : 2023-05-29
 
-![](https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg)
 
-<small>Latest update : Mon May 29 03:13:34 2023</small>
+<small>Latest update : Mon May 29 04:15:19 2023</small>
         
