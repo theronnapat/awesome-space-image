@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way over a Turquoise Wonderland
-Date : 2023-05-29
+### Today image : M27: The Dumbbell Nebula
+Date : 2023-05-30
 
-![](https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg)
+![](https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_960.jpg)
 
-<small>Latest update : Tue May 30 03:13:14 2023</small>
+<small>Latest update : Tue May 30 04:15:01 2023</small>
         
