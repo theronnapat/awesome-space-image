@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Simulation: A Disk Galaxy Forms
-Date : 2023-05-31
+### Today image : Recycling Cassiopeia A
+Date : 2023-06-01
 
-![](https://www.youtube.com/embed/X4UF9Akman0?rel=0)
+![](https://apod.nasa.gov/apod/image/2306/Chandrafirstlight_0_1024.jpg)
 
-<small>Latest update : Thu Jun  1 13:16:12 2023</small>
+<small>Latest update : Thu Jun  1 14:11:37 2023</small>
         
