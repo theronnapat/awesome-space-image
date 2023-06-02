@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Recycling Cassiopeia A
-Date : 2023-06-01
+### Today image : Messier 101
+Date : 2023-06-02
 
-![](https://apod.nasa.gov/apod/image/2306/Chandrafirstlight_0_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2306/M101_hst1280.jpg)
 
-<small>Latest update : Fri Jun  2 03:13:36 2023</small>
+<small>Latest update : Fri Jun  2 04:14:53 2023</small>
         
