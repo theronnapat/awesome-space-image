@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Messier 101
-Date : 2023-06-02
+### Today image : Charon: Moon of Pluto
+Date : 2023-06-03
 
-![](https://apod.nasa.gov/apod/image/2306/M101_hst1280.jpg)
+![](https://apod.nasa.gov/apod/image/2306/charon_then_now_1024.jpg)
 
-<small>Latest update : Sat Jun  3 03:12:16 2023</small>
+<small>Latest update : Sat Jun  3 04:14:54 2023</small>
         
