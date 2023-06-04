@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Charon: Moon of Pluto
-Date : 2023-06-03
+### Today image : Color the Universe
+Date : 2023-06-04
 
-![](https://apod.nasa.gov/apod/image/2306/charon_then_now_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg)
 
-<small>Latest update : Sun Jun  4 03:04:26 2023</small>
+<small>Latest update : Sun Jun  4 04:14:05 2023</small>
         
