@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Color the Universe
-Date : 2023-06-04
+### Today image : Elephant's Trunk and Caravan
+Date : 2023-06-08
 
-![](https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg)
+![](https://apod.nasa.gov/apod/image/2306/ic1396ASI294large_1030.jpg)
 
-<small>Latest update : Sun Jun  4 22:11:11 2023</small>
+<small>Latest update : Thu Jun  8 15:12:26 2023</small>
         
