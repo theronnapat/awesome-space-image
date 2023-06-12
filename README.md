@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Elephant's Trunk and Caravan
-Date : 2023-06-08
+### Today image : The Largest Satellites of Earth
+Date : 2023-06-12
 
-![](https://apod.nasa.gov/apod/image/2306/ic1396ASI294large_1030.jpg)
+![](https://apod.nasa.gov/apod/image/2306/IssMoon_Yang_960.jpg)
 
-<small>Latest update : Thu Jun  8 20:12:02 2023</small>
+<small>Latest update : Mon Jun 12 13:16:06 2023</small>
         
