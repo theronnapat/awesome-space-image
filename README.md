@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Moons Across Jupiter
-Date : 2023-06-13
+### Today image : The Shark Nebula
+Date : 2023-06-14
 
-![](https://www.youtube.com/embed/YEXuGgRCyS0?rel=0)
+![](https://apod.nasa.gov/apod/image/2306/Shark_Kennedy_960.jpg)
 
-<small>Latest update : Wed Jun 14 03:13:22 2023</small>
+<small>Latest update : Wed Jun 14 04:15:19 2023</small>
         
