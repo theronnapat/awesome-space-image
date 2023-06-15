@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Shark Nebula
-Date : 2023-06-14
+### Today image : M15: Dense Globular Star Cluster
+Date : 2023-06-15
 
-![](https://apod.nasa.gov/apod/image/2306/Shark_Kennedy_960.jpg)
+![](https://apod.nasa.gov/apod/image/2306/M15-3_1024.jpg)
 
-<small>Latest update : Thu Jun 15 03:13:23 2023</small>
+<small>Latest update : Thu Jun 15 04:14:52 2023</small>
         
