@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M15: Dense Globular Star Cluster
-Date : 2023-06-15
+### Today image : Sunset to Sunrise over the Baltic Sea
+Date : 2023-06-16
 
-![](https://apod.nasa.gov/apod/image/2306/M15-3_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2306/baltic-sea-timelapse-image600.jpg)
 
-<small>Latest update : Fri Jun 16 03:13:35 2023</small>
+<small>Latest update : Fri Jun 16 04:14:53 2023</small>
         
