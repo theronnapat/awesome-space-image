@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Planet Earth at Night II
-Date : 2023-06-17
+### Today image : Saturn's Northern Hexagon
+Date : 2023-06-18
 
-![](https://www.youtube.com/embed/zIqG42AD4Gw?rel=0)
+![](https://apod.nasa.gov/apod/image/2306/NorthSaturn_Cassini_960.jpg)
 
-<small>Latest update : Sun Jun 18 03:16:56 2023</small>
+<small>Latest update : Sun Jun 18 04:14:45 2023</small>
         
