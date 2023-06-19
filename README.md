@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Saturn's Northern Hexagon
-Date : 2023-06-18
+### Today image : The Busy Center of the Lagoon Nebula
+Date : 2023-06-19
 
-![](https://apod.nasa.gov/apod/image/2306/NorthSaturn_Cassini_960.jpg)
+![](https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg)
 
-<small>Latest update : Mon Jun 19 03:14:02 2023</small>
+<small>Latest update : Mon Jun 19 04:15:26 2023</small>
         
