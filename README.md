@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Busy Center of the Lagoon Nebula
-Date : 2023-06-19
+### Today image : The Ñandú in the Milky Way
+Date : 2023-06-20
 
-![](https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg)
+![](https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg)
 
-<small>Latest update : Tue Jun 20 03:13:25 2023</small>
+<small>Latest update : Tue Jun 20 04:15:15 2023</small>
         
