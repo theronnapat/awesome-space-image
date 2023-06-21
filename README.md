@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Ñandú in the Milky Way
-Date : 2023-06-20
+### Today image : Three Sun Paths
+Date : 2023-06-21
 
-![](https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg)
 
-<small>Latest update : Wed Jun 21 03:13:23 2023</small>
+<small>Latest update : Wed Jun 21 04:14:58 2023</small>
         
