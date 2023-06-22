@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Three Sun Paths
-Date : 2023-06-21
+### Today image : Stars and Dust across Corona Australis
+Date : 2023-06-22
 
-![](https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg)
+![](https://apod.nasa.gov/apod/image/2306/corona_aus1024.jpg)
 
-<small>Latest update : Thu Jun 22 02:39:45 2023</small>
+<small>Latest update : Thu Jun 22 04:14:51 2023</small>
         
