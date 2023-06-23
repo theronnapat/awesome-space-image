@@ -6,5 +6,5 @@ Date : 2023-06-23
 
 ![](https://apod.nasa.gov/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg)
 
-<small>Latest update : Fri Jun 23 04:17:17 2023</small>
+<small>Latest update : Fri Jun 23 05:13:39 2023</small>
         
