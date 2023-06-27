@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Belt of Venus over Mount Everest
-Date : 2023-06-26
+### Today image : MAVEN's Ultraviolet Mars
+Date : 2023-06-27
 
-![](https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_960.jpg)
+![](https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png)
 
-<small>Latest update : Tue Jun 27 03:29:43 2023</small>
+<small>Latest update : Tue Jun 27 04:17:33 2023</small>
         
