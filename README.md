@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Messier 24: Sagittarius Star Cloud
-Date : 2023-06-28
+### Today image : A Message from the Gravitational Universe
+Date : 2023-06-29
 
-![](https://apod.nasa.gov/apod/image/2306/M24_2023grapod1024.jpg)
+![](https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg)
 
-<small>Latest update : Wed Jun 28 22:13:21 2023</small>
+<small>Latest update : Thu Jun 29 17:12:19 2023</small>
         
