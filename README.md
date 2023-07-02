@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Three Galaxies in Draco
-Date : 2023-07-01
+### Today image : Milky Way and Aurora over Antarctica
+Date : 2023-07-02
 
-![](https://apod.nasa.gov/apod/image/2307/DracoTrio_TeamOmicron1024.jpg)
+![](https://apod.nasa.gov/apod/image/2307/MWAurora_hang_960.jpg)
 
-<small>Latest update : Sun Jul  2 03:00:43 2023</small>
+<small>Latest update : Sun Jul  2 04:16:12 2023</small>
         
