@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way and Aurora over Antarctica
-Date : 2023-07-02
+### Today image : Venus in Ultraviolet from Akatsuki
+Date : 2023-07-03
 
-![](https://apod.nasa.gov/apod/image/2307/MWAurora_hang_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/VenusUv_akatsuki_1024.jpg)
 
-<small>Latest update : Mon Jul  3 03:24:28 2023</small>
+<small>Latest update : Mon Jul  3 04:17:09 2023</small>
         
