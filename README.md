@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Venus in Ultraviolet from Akatsuki
-Date : 2023-07-03
+### Today image : Aurora over Icelandic Waterfall
+Date : 2023-07-04
 
-![](https://apod.nasa.gov/apod/image/2307/VenusUv_akatsuki_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2307/WaterfallAurora_Letelier_960.jpg)
 
-<small>Latest update : Tue Jul  4 03:29:30 2023</small>
+<small>Latest update : Tue Jul  4 04:17:45 2023</small>
         
