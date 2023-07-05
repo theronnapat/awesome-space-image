@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Aurora over Icelandic Waterfall
-Date : 2023-07-04
+### Today image : A Map of the Observable Universe
+Date : 2023-07-05
 
-![](https://apod.nasa.gov/apod/image/2307/WaterfallAurora_Letelier_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/MapObsUni_SDSS_960.jpg)
 
-<small>Latest update : Wed Jul  5 03:28:22 2023</small>
+<small>Latest update : Wed Jul  5 04:18:26 2023</small>
         
