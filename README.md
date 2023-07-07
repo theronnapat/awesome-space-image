@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Fireworks vs Supermoon
-Date : 2023-07-06
+### Today image : The Double Cluster in Perseus
+Date : 2023-07-07
 
-![](https://apod.nasa.gov/apod/image/2307/CocoaBeach_BuckMoon_Seeley-201_1100.jpg)
+![](https://apod.nasa.gov/apod/image/2307/Caldwell_14_2023_HaLRGB_LRGB_stars_wm-scaled.png)
 
-<small>Latest update : Fri Jul  7 03:25:58 2023</small>
+<small>Latest update : Fri Jul  7 04:17:22 2023</small>
         
