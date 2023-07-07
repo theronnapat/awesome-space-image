@@ -6,5 +6,5 @@ Date : 2023-07-07
 
 ![](https://apod.nasa.gov/apod/image/2307/Caldwell_14_2023_HaLRGB_LRGB_stars_wm-scaled.png)
 
-<small>Latest update : Fri Jul  7 14:13:06 2023</small>
+<small>Latest update : Fri Jul  7 15:14:33 2023</small>
         
