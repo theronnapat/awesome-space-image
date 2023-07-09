@@ -6,5 +6,5 @@ Date : 2023-07-09
 
 ![](https://apod.nasa.gov/apod/image/2307/EtaCarinae_HubbleSchmidt_960.jpg)
 
-<small>Latest update : Sun Jul  9 19:10:34 2023</small>
+<small>Latest update : Sun Jul  9 20:13:52 2023</small>
         
