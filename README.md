@@ -6,5 +6,5 @@ Date : 2023-07-10
 
 ![](https://apod.nasa.gov/apod/image/2307/NGC6559_Block_960.jpg)
 
-<small>Latest update : Mon Jul 10 14:13:07 2023</small>
+<small>Latest update : Mon Jul 10 15:15:11 2023</small>
         
