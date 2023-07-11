@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Stars, Dust and Nebula in NGC 6559
-Date : 2023-07-10
+### Today image : Sunspots on an Active Sun
+Date : 2023-07-11
 
-![](https://apod.nasa.gov/apod/image/2307/NGC6559_Block_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg)
 
-<small>Latest update : Tue Jul 11 03:18:59 2023</small>
+<small>Latest update : Tue Jul 11 04:17:06 2023</small>
         
