@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sunspots on an Active Sun
-Date : 2023-07-11
+### Today image : Rings and Bar of Spiral Galaxy NGC 1398
+Date : 2023-07-12
 
-![](https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/Ngc1398_Hanson_960.jpg)
 
-<small>Latest update : Wed Jul 12 03:23:11 2023</small>
+<small>Latest update : Wed Jul 12 04:17:01 2023</small>
         
