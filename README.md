@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Rings and Bar of Spiral Galaxy NGC 1398
-Date : 2023-07-12
+### Today image : Webb's Rho Ophiuchi
+Date : 2023-07-13
 
-![](https://apod.nasa.gov/apod/image/2307/Ngc1398_Hanson_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/STScI-01_RhoOph1024.png)
 
-<small>Latest update : Thu Jul 13 03:28:33 2023</small>
+<small>Latest update : Thu Jul 13 04:16:57 2023</small>
         
