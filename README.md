@@ -6,5 +6,5 @@ Date : 2023-07-13
 
 ![](https://apod.nasa.gov/apod/image/2307/STScI-01_RhoOph1024.png)
 
-<small>Latest update : Thu Jul 13 13:28:31 2023</small>
+<small>Latest update : Thu Jul 13 14:12:51 2023</small>
         
