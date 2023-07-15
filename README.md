@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet C/2023 E1 ATLAS near Perihelion
-Date : 2023-07-14
+### Today image : Webb's First Deep Field
+Date : 2023-07-15
 
-![](https://apod.nasa.gov/apod/image/2307/C_2023_E1_ATLAS_C14F2_DEBartlett1024.jpg)
+![](https://apod.nasa.gov/apod/image/2307/STScI-SMACS0723_webb.jpg)
 
-<small>Latest update : Sat Jul 15 03:31:19 2023</small>
+<small>Latest update : Sat Jul 15 04:16:31 2023</small>
         
