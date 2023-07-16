@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Webb's First Deep Field
-Date : 2023-07-15
+### Today image : Meteor and Milky Way over the Alps
+Date : 2023-07-16
 
-![](https://apod.nasa.gov/apod/image/2307/STScI-SMACS0723_webb.jpg)
+![](https://apod.nasa.gov/apod/image/2307/MeteorMountain_Roemmelt_960.jpg)
 
-<small>Latest update : Sun Jul 16 03:07:55 2023</small>
+<small>Latest update : Sun Jul 16 04:16:03 2023</small>
         
