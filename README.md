@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Meteor and Milky Way over the Alps
-Date : 2023-07-16
+### Today image : Shells and Arcs around Star CW Leonis
+Date : 2023-07-17
 
-![](https://apod.nasa.gov/apod/image/2307/MeteorMountain_Roemmelt_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg)
 
-<small>Latest update : Mon Jul 17 03:01:39 2023</small>
+<small>Latest update : Mon Jul 17 04:17:32 2023</small>
         
