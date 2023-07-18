@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Shells and Arcs around Star CW Leonis
-Date : 2023-07-17
+### Today image : Milky Way above La Palma Observatory
+Date : 2023-07-18
 
-![](https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/MwLaPalma_Rosadzinski_960.jpg)
 
-<small>Latest update : Tue Jul 18 03:25:01 2023</small>
+<small>Latest update : Tue Jul 18 04:15:41 2023</small>
         
