@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way above La Palma Observatory
-Date : 2023-07-18
+### Today image : Chandrayaan-3 Launches to the Moon
+Date : 2023-07-19
 
-![](https://apod.nasa.gov/apod/image/2307/MwLaPalma_Rosadzinski_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/Chandrayaan3_Suresh_960.jpg)
 
-<small>Latest update : Tue Jul 18 21:10:32 2023</small>
+<small>Latest update : Wed Jul 19 19:10:04 2023</small>
         
