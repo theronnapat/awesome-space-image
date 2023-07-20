@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Chandrayaan-3 Launches to the Moon
-Date : 2023-07-19
+### Today image : M64: The Black Eye Galaxy Close Up
+Date : 2023-07-20
 
-![](https://apod.nasa.gov/apod/image/2307/Chandrayaan3_Suresh_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg)
 
-<small>Latest update : Thu Jul 20 03:13:03 2023</small>
+<small>Latest update : Thu Jul 20 04:14:58 2023</small>
         
