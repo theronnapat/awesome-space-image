@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M64: The Black Eye Galaxy Close Up
-Date : 2023-07-20
+### Today image : Galactic Cirrus: Mandel Wilson 9
+Date : 2023-07-21
 
-![](https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg)
+![](https://apod.nasa.gov/apod/image/2307/MandelWilson9_GabrielRodriguesSantos_APOD1024.jpg)
 
-<small>Latest update : Fri Jul 21 03:12:45 2023</small>
+<small>Latest update : Fri Jul 21 04:14:56 2023</small>
         
