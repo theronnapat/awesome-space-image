@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Galactic Cirrus: Mandel Wilson 9
-Date : 2023-07-21
+### Today image : Apollo 11: Armstrong's Lunar Selfie
+Date : 2023-07-22
 
-![](https://apod.nasa.gov/apod/image/2307/MandelWilson9_GabrielRodriguesSantos_APOD1024.jpg)
+![](https://apod.nasa.gov/apod/image/2307/AldrinVisorCrop_Apollo11_1080.jpg)
 
-<small>Latest update : Sat Jul 22 03:12:43 2023</small>
+<small>Latest update : Sat Jul 22 04:14:21 2023</small>
         
