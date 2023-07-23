@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Apollo 11: Armstrong's Lunar Selfie
-Date : 2023-07-22
+### Today image : The Antikythera Mechanism
+Date : 2023-07-23
 
-![](https://apod.nasa.gov/apod/image/2307/AldrinVisorCrop_Apollo11_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2307/antikythera_wikipedia_960.jpg)
 
-<small>Latest update : Sun Jul 23 03:12:55 2023</small>
+<small>Latest update : Sun Jul 23 04:14:20 2023</small>
         
