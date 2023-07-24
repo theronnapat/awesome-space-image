@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Antikythera Mechanism
-Date : 2023-07-23
+### Today image : Chemicals Glow as a Meteor Disintegrates
+Date : 2023-07-24
 
-![](https://apod.nasa.gov/apod/image/2307/antikythera_wikipedia_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/ChemicalFireball_Kleinburger_960.jpg)
 
-<small>Latest update : Mon Jul 24 03:13:31 2023</small>
+<small>Latest update : Mon Jul 24 04:15:12 2023</small>
         
