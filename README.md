@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Chemicals Glow as a Meteor Disintegrates
-Date : 2023-07-24
+### Today image : The Eagle Nebula with X-ray Hot Stars
+Date : 2023-07-25
 
-![](https://apod.nasa.gov/apod/image/2307/ChemicalFireball_Kleinburger_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/EagleStars_NASA_960.jpg)
 
-<small>Latest update : Tue Jul 25 03:13:01 2023</small>
+<small>Latest update : Tue Jul 25 04:15:02 2023</small>
         
