@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : IC 4628: The Prawn Nebula
-Date : 2023-07-26
+### Today image : Galaxies in the River
+Date : 2023-07-27
 
-![](https://apod.nasa.gov/apod/image/2307/Prawn_Stern_960.jpg)
+![](https://apod.nasa.gov/apod/image/2307/noirlab2321a_ngc1532_1024.jpg)
 
-<small>Latest update : Thu Jul 27 03:12:21 2023</small>
+<small>Latest update : Thu Jul 27 04:14:10 2023</small>
         
