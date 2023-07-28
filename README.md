@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Galaxies in the River
-Date : 2023-07-27
+### Today image : Young Stars, Stellar Jets
+Date : 2023-07-28
 
-![](https://apod.nasa.gov/apod/image/2307/noirlab2321a_ngc1532_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2307/HH46-47_JWST1030.jpg)
 
-<small>Latest update : Fri Jul 28 03:12:35 2023</small>
+<small>Latest update : Fri Jul 28 04:14:32 2023</small>
         
