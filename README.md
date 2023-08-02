@@ -6,5 +6,5 @@ Date : 2023-08-02
 
 ![](https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg)
 
-<small>Latest update : Wed Aug  2 22:11:14 2023</small>
+<small>Latest update : Wed Aug  2 23:11:32 2023</small>
         
