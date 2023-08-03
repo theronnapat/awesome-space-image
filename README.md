@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M82: Galaxy with a Supergalactic Wind
-Date : 2023-08-02
+### Today image : The Falcon and the Redstone
+Date : 2023-08-03
 
-![](https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2308/FalconHeavyRedstoneHaskell1024.jpeg)
 
-<small>Latest update : Thu Aug  3 03:12:33 2023</small>
+<small>Latest update : Thu Aug  3 04:14:40 2023</small>
         
