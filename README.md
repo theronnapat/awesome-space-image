@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Falcon and the Redstone
-Date : 2023-08-03
+### Today image : Moonrays of August
+Date : 2023-08-04
 
-![](https://apod.nasa.gov/apod/image/2308/FalconHeavyRedstoneHaskell1024.jpeg)
+![](https://apod.nasa.gov/apod/image/2308/GianniTumino_Moon_Rays_JPG_LOGO_1024pix.jpg)
 
-<small>Latest update : Fri Aug  4 03:12:24 2023</small>
+<small>Latest update : Fri Aug  4 04:14:23 2023</small>
         
