@@ -6,5 +6,5 @@ Date : 2023-08-06
 
 ![](https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg)
 
-<small>Latest update : Sun Aug  6 11:10:02 2023</small>
+<small>Latest update : Sun Aug  6 12:21:17 2023</small>
         
