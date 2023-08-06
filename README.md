@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1360: The Robin's Egg Nebula
-Date : 2023-08-05
+### Today image : SN 1006: A Supernova Ribbon from Hubble
+Date : 2023-08-06
 
-![](https://apod.nasa.gov/apod/image/2308/ngc1360_v2_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg)
 
-<small>Latest update : Sun Aug  6 03:12:03 2023</small>
+<small>Latest update : Sun Aug  6 04:13:49 2023</small>
         
