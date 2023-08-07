@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : SN 1006: A Supernova Ribbon from Hubble
-Date : 2023-08-06
+### Today image : The Pelican Nebula in Gas, Dust, and Stars
+Date : 2023-08-07
 
-![](https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2308/LDN935_Jones_960.jpg)
 
-<small>Latest update : Mon Aug  7 03:12:34 2023</small>
+<small>Latest update : Mon Aug  7 04:14:33 2023</small>
         
