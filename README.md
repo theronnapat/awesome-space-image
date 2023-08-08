@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Pelican Nebula in Gas, Dust, and Stars
-Date : 2023-08-07
+### Today image : Moon Meets Jupiter
+Date : 2023-08-08
 
-![](https://apod.nasa.gov/apod/image/2308/LDN935_Jones_960.jpg)
+![](https://apod.nasa.gov/apod/image/2308/MoonsJupiter_Coy_960.jpg)
 
-<small>Latest update : Tue Aug  8 03:12:33 2023</small>
+<small>Latest update : Tue Aug  8 04:14:38 2023</small>
         
