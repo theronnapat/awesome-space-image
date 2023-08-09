@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Moon Meets Jupiter
-Date : 2023-08-08
+### Today image : Meteor Shower: Perseids from Perseus
+Date : 2023-08-09
 
-![](https://apod.nasa.gov/apod/image/2308/MoonsJupiter_Coy_960.jpg)
+![](https://apod.nasa.gov/apod/image/2308/Perseids18_Horalek_960.jpg)
 
-<small>Latest update : Wed Aug  9 03:12:46 2023</small>
+<small>Latest update : Wed Aug  9 04:14:55 2023</small>
         
