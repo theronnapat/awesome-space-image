@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Five Meters over Mars
-Date : 2023-08-10
+### Today image : Messier 51 in 255 Hours
+Date : 2023-08-11
 
-![](https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity1024.jpg)
+![](https://apod.nasa.gov/apod/image/2308/M51_255hours_1024.jpg)
 
-<small>Latest update : Fri Aug 11 03:12:01 2023</small>
+<small>Latest update : Fri Aug 11 04:14:21 2023</small>
         
