@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Messier 51 in 255 Hours
-Date : 2023-08-11
+### Today image : Ghirigori - Star Scribbles
+Date : 2023-08-12
 
-![](https://apod.nasa.gov/apod/image/2308/M51_255hours_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2308/Ghirigori_delBooteCoronaBorealeOfiucoeChiomadiBerenice1024.jpg)
 
-<small>Latest update : Sat Aug 12 03:11:59 2023</small>
+<small>Latest update : Sat Aug 12 04:13:37 2023</small>
         
