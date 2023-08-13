@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ghirigori - Star Scribbles
-Date : 2023-08-12
+### Today image : The Sombrero Galaxy in Infrared
+Date : 2023-08-13
 
-![](https://apod.nasa.gov/apod/image/2308/Ghirigori_delBooteCoronaBorealeOfiucoeChiomadiBerenice1024.jpg)
+![](https://apod.nasa.gov/apod/image/2308/sombrero_spitzer_1080.jpg)
 
-<small>Latest update : Sun Aug 13 03:11:51 2023</small>
+<small>Latest update : Sun Aug 13 04:13:34 2023</small>
         
