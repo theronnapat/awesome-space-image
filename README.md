@@ -6,5 +6,5 @@ Date : 2023-08-14
 
 ![](https://apod.nasa.gov/apod/image/2308/M57_JwstKong_960.jpg)
 
-<small>Latest update : Mon Aug 14 13:14:41 2023</small>
+<small>Latest update : Mon Aug 14 14:11:20 2023</small>
         
