@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Ring Nebula from Webb
-Date : 2023-08-14
+### Today image : A Triply Glowing Night Sky over Iceland
+Date : 2023-08-15
 
-![](https://apod.nasa.gov/apod/image/2308/M57_JwstKong_960.jpg)
+![](https://apod.nasa.gov/apod/image/2308/TripleIceland_Zarzycka_1080.jpg)
 
-<small>Latest update : Tue Aug 15 03:12:20 2023</small>
+<small>Latest update : Tue Aug 15 04:14:14 2023</small>
         
