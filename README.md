@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Triply Glowing Night Sky over Iceland
-Date : 2023-08-15
+### Today image : Arp 93: A Cosmic Embrace
+Date : 2023-08-16
 
-![](https://apod.nasa.gov/apod/image/2308/TripleIceland_Zarzycka_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2308/NGC-7284-7285-LRGB-crop-CDK-1000-7-August-2023x1024.jpg)
 
-<small>Latest update : Wed Aug 16 03:12:29 2023</small>
+<small>Latest update : Wed Aug 16 04:14:26 2023</small>
         
