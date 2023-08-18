@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Cosmic Zoo in Cepheus
-Date : 2023-08-17
+### Today image : Northern Pluto
+Date : 2023-08-18
 
-![](https://apod.nasa.gov/apod/image/2308/ElephantTrunkBatSquidSeahorse1024.jpg)
+![](https://apod.nasa.gov/apod/image/2308/nh-northpolerotatedcontrast1024.jpg)
 
-<small>Latest update : Fri Aug 18 03:12:23 2023</small>
+<small>Latest update : Fri Aug 18 04:14:27 2023</small>
         
