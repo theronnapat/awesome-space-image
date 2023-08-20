@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ringed Ice Giant Neptune
-Date : 2023-08-19
+### Today image : A Roll Cloud Over Wisconsin
+Date : 2023-08-20
 
-![](https://apod.nasa.gov/apod/image/2308/NeptuneTriton_webb1059.png)
+![](https://apod.nasa.gov/apod/image/2308/rollcloud_hanrahan_960.jpg)
 
-<small>Latest update : Sun Aug 20 03:11:53 2023</small>
+<small>Latest update : Sun Aug 20 04:13:37 2023</small>
         
