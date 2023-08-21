@@ -6,5 +6,5 @@ Date : 2023-08-21
 
 ![](https://apod.nasa.gov/apod/image/2308/CometNishimura_Bartlett_1080.jpg)
 
-<small>Latest update : Mon Aug 21 16:15:25 2023</small>
+<small>Latest update : Mon Aug 21 17:10:52 2023</small>
         
