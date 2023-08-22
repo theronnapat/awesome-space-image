@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Introducing Comet Nishimura
-Date : 2023-08-21
+### Today image : The Pistachio Nebula
+Date : 2023-08-22
 
-![](https://apod.nasa.gov/apod/image/2308/CometNishimura_Bartlett_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2308/Pistachio_Falls_960.jpg)
 
-<small>Latest update : Tue Aug 22 03:12:14 2023</small>
+<small>Latest update : Tue Aug 22 04:14:12 2023</small>
         
