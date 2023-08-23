@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Pistachio Nebula
-Date : 2023-08-22
+### Today image : The Meteor and the Galaxy
+Date : 2023-08-23
 
-![](https://apod.nasa.gov/apod/image/2308/Pistachio_Falls_960.jpg)
+![](https://apod.nasa.gov/apod/image/2308/M31Perseid_Pedrero_1080.jpg)
 
-<small>Latest update : Wed Aug 23 03:12:18 2023</small>
+<small>Latest update : Wed Aug 23 04:13:50 2023</small>
         
