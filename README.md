@@ -6,5 +6,5 @@ Date : 2023-08-27
 
 ![](https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_960.jpg)
 
-<small>Latest update : Sun Aug 27 15:11:01 2023</small>
+<small>Latest update : Sun Aug 27 16:13:58 2023</small>
         
