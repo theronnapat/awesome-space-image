@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Crescents of Venus
-Date : 2023-08-26
+### Today image : Three Galaxies and a Comet
+Date : 2023-08-27
 
-![](https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg)
+![](https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_960.jpg)
 
-<small>Latest update : Sun Aug 27 03:12:12 2023</small>
+<small>Latest update : Sun Aug 27 04:13:49 2023</small>
         
