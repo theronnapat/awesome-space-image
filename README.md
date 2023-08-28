@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Three Galaxies and a Comet
-Date : 2023-08-27
+### Today image : Star Formation in the Pacman Nebula
+Date : 2023-08-28
 
-![](https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_960.jpg)
+![](https://apod.nasa.gov/apod/image/2308/Pacman_Stocks_1080.jpg)
 
-<small>Latest update : Mon Aug 28 03:12:51 2023</small>
+<small>Latest update : Mon Aug 28 04:14:48 2023</small>
         
