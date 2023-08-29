@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Star Formation in the Pacman Nebula
-Date : 2023-08-28
+### Today image : Unusual Spiral Galaxy M66 from Webb
+Date : 2023-08-29
 
-![](https://apod.nasa.gov/apod/image/2308/Pacman_Stocks_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2308/M66_JwstTomlinson_1080.jpg)
 
-<small>Latest update : Tue Aug 29 03:13:08 2023</small>
+<small>Latest update : Tue Aug 29 04:14:25 2023</small>
         
