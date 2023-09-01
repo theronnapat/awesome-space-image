@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Crew-7 Nebula
-Date : 2023-08-31
+### Today image : The Great Globular Cluster in Hercules
+Date : 2023-09-01
 
-![](https://apod.nasa.gov/apod/image/2308/Crew_7_Nebula_Seeley-1_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8_1024.jpg)
 
-<small>Latest update : Fri Sep  1 03:12:53 2023</small>
+<small>Latest update : Fri Sep  1 04:14:45 2023</small>
         
