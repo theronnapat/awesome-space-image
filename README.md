@@ -6,5 +6,5 @@ Date : 2023-09-01
 
 ![](https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8_1024.jpg)
 
-<small>Latest update : Fri Sep  1 11:10:12 2023</small>
+<small>Latest update : Fri Sep  1 12:23:29 2023</small>
         
