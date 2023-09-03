@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7023: The Iris Nebula
-Date : 2023-09-02
+### Today image : Comet Schwassmann-Wachmann 3 Fragments
+Date : 2023-09-03
 
-![](https://apod.nasa.gov/apod/image/2309/268_lorand_fenyes_iris_ngc7023_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2309/fragb73p_hst_960.jpg)
 
-<small>Latest update : Sun Sep  3 03:12:21 2023</small>
+<small>Latest update : Sun Sep  3 04:13:44 2023</small>
         
