@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet Schwassmann-Wachmann 3 Fragments
-Date : 2023-09-03
+### Today image : Cygnus: Bubble and Crescent
+Date : 2023-09-04
 
-![](https://apod.nasa.gov/apod/image/2309/fragb73p_hst_960.jpg)
+![](https://apod.nasa.gov/apod/image/2309/CrescentBubble_AlHarbi_1080.jpg)
 
-<small>Latest update : Mon Sep  4 03:12:42 2023</small>
+<small>Latest update : Mon Sep  4 04:14:33 2023</small>
         
