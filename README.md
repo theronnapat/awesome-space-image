@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Cygnus: Bubble and Crescent
-Date : 2023-09-04
+### Today image : Blue Supermoon Beyond Syracuse
+Date : 2023-09-05
 
-![](https://apod.nasa.gov/apod/image/2309/CrescentBubble_AlHarbi_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg)
 
-<small>Latest update : Tue Sep  5 03:12:42 2023</small>
+<small>Latest update : Tue Sep  5 05:11:13 2023</small>
         
