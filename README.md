@@ -6,5 +6,5 @@ Date : 2023-09-05
 
 ![](https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg)
 
-<small>Latest update : Tue Sep  5 17:11:14 2023</small>
+<small>Latest update : Tue Sep  5 18:15:39 2023</small>
         
