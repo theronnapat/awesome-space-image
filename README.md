@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Blue Supermoon Beyond Syracuse
-Date : 2023-09-05
+### Today image : HESS Telescopes Explore the High-Energy Sky
+Date : 2023-09-06
 
-![](https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg)
+![](https://www.youtube.com/embed/QmCFdFGNwmo?si=Sp8Y5IS2-pWVLPn0?rel=0)
 
-<small>Latest update : Wed Sep  6 03:12:45 2023</small>
+<small>Latest update : Wed Sep  6 04:14:54 2023</small>
         
