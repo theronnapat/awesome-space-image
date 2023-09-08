@@ -6,5 +6,5 @@ Date : 2023-09-08
 
 ![](https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg)
 
-<small>Latest update : Fri Sep  8 18:15:11 2023</small>
+<small>Latest update : Fri Sep  8 19:09:42 2023</small>
         
