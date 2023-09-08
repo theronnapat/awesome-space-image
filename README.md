@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Large Cloud of Magellan
-Date : 2023-09-07
+### Today image : Star Factory Messier 17
+Date : 2023-09-08
 
-![](https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud1024.jpg)
+![](https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg)
 
-<small>Latest update : Fri Sep  8 03:12:29 2023</small>
+<small>Latest update : Fri Sep  8 04:14:46 2023</small>
         
