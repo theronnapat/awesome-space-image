@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Star Factory Messier 17
-Date : 2023-09-08
+### Today image : Comet Nishimura Grows
+Date : 2023-09-09
 
-![](https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2309/Nishimura_Kennett_1080.jpg)
 
-<small>Latest update : Sat Sep  9 03:12:13 2023</small>
+<small>Latest update : Sat Sep  9 04:14:00 2023</small>
         
