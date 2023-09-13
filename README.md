@@ -6,5 +6,5 @@ Date : 2023-09-12
 
 ![](https://apod.nasa.gov/apod/image/2309/STSCI-HST-abell370_1024.jpg)
 
-<small>Latest update : Tue Sep 12 23:12:10 2023</small>
+<small>Latest update : Wed Sep 13 00:56:46 2023</small>
         
