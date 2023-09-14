@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 4632: Galaxy with a Hidden Polar Ring
-Date : 2023-09-13
+### Today image : NGC 7331 and Beyond
+Date : 2023-09-14
 
-![](https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg)
+![](https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg)
 
-<small>Latest update : Thu Sep 14 03:12:42 2023</small>
+<small>Latest update : Thu Sep 14 04:14:34 2023</small>
         
