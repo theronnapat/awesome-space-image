@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7331 and Beyond
-Date : 2023-09-14
+### Today image : Venus, Moon, and the Smoking Mountain
+Date : 2023-09-15
 
-![](https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg)
+![](https://apod.nasa.gov/apod/image/2309/IMG_3603_1024.jpg)
 
-<small>Latest update : Fri Sep 15 03:12:49 2023</small>
+<small>Latest update : Fri Sep 15 04:14:37 2023</small>
         
