@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Fireball over Iceland
-Date : 2023-09-16
+### Today image : Moon Mountains Magnified during Ring of Fire Eclipse
+Date : 2023-09-17
 
-![](https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_960.jpg)
 
-<small>Latest update : Sun Sep 17 03:12:16 2023</small>
+<small>Latest update : Sun Sep 17 04:14:05 2023</small>
         
