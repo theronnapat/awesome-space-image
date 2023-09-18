@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Moon Mountains Magnified during Ring of Fire Eclipse
-Date : 2023-09-17
+### Today image : The Red Sprite and the Tree
+Date : 2023-09-18
 
-![](https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_960.jpg)
+![](https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_960.jpg)
 
-<small>Latest update : Mon Sep 18 03:12:43 2023</small>
+<small>Latest update : Mon Sep 18 04:14:46 2023</small>
         
