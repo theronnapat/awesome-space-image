@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Red Sprite and the Tree
-Date : 2023-09-18
+### Today image : HH 211: Jets from a Forming Star
+Date : 2023-09-19
 
-![](https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_960.jpg)
+![](https://apod.nasa.gov/apod/image/2309/HH211_webb_960.jpg)
 
-<small>Latest update : Tue Sep 19 03:13:01 2023</small>
+<small>Latest update : Tue Sep 19 04:15:14 2023</small>
         
