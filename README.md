@@ -6,5 +6,5 @@ Date : 2023-09-20
 
 ![](https://apod.nasa.gov/apod/image/2309/ExoplanetJ2_Jabakenji_960.jpg)
 
-<small>Latest update : Wed Sep 20 16:16:31 2023</small>
+<small>Latest update : Wed Sep 20 17:11:11 2023</small>
         
