@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : HH 211: Jets from a Forming Star
-Date : 2023-09-19
+### Today image : Methane Discovered on Distant Exoplanet
+Date : 2023-09-20
 
-![](https://apod.nasa.gov/apod/image/2309/HH211_webb_960.jpg)
+![](https://apod.nasa.gov/apod/image/2309/ExoplanetJ2_Jabakenji_960.jpg)
 
-<small>Latest update : Wed Sep 20 03:12:45 2023</small>
+<small>Latest update : Wed Sep 20 04:15:04 2023</small>
         
