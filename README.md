@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Methane Discovered on Distant Exoplanet
-Date : 2023-09-20
+### Today image : Tagging Bennu
+Date : 2023-09-21
 
-![](https://apod.nasa.gov/apod/image/2309/ExoplanetJ2_Jabakenji_960.jpg)
+![](https://apod.nasa.gov/apod/image/2309/d_tag-2-frames.jpg)
 
-<small>Latest update : Thu Sep 21 03:12:28 2023</small>
+<small>Latest update : Thu Sep 21 04:14:51 2023</small>
         
