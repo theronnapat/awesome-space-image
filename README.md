@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Cosmos in Reflection
-Date : 2023-09-22
+### Today image : Afternoon Analemma
+Date : 2023-09-23
 
-![](https://apod.nasa.gov/apod/image/2309/CosmosinReflectionTrails.jpg)
+![](https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg)
 
-<small>Latest update : Sat Sep 23 03:12:10 2023</small>
+<small>Latest update : Sat Sep 23 04:14:15 2023</small>
         
