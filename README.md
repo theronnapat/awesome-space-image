@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Afternoon Analemma
-Date : 2023-09-23
+### Today image : A Ring of Fire Sunrise Solar Eclipse
+Date : 2023-09-24
 
-![](https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg)
+![](https://www.youtube.com/embed/UJfpqSj7cCs?t=10?rel=0)
 
-<small>Latest update : Sun Sep 24 03:12:19 2023</small>
+<small>Latest update : Sun Sep 24 04:14:00 2023</small>
         
