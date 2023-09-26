@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Arp 142: The Hummingbird Galaxy
-Date : 2023-09-25
+### Today image : IC 4592: The Blue Horsehead Reflection Nebula
+Date : 2023-09-26
 
-![](https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_960.jpg)
+![](https://apod.nasa.gov/apod/image/2309/BlueHorse_Grelin_1080.jpg)
 
-<small>Latest update : Tue Sep 26 03:12:44 2023</small>
+<small>Latest update : Tue Sep 26 04:14:50 2023</small>
         
