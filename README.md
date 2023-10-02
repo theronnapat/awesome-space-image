@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Desert Eclipse
-Date : 2023-10-01
+### Today image : Sprite Lightning in High Definition
+Date : 2023-10-02
 
-![](https://apod.nasa.gov/apod/image/2310/DesertEclipse_Daviron_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/HiResSprites_Escurat_1080.jpg)
 
-<small>Latest update : Mon Oct  2 03:12:47 2023</small>
+<small>Latest update : Mon Oct  2 04:14:48 2023</small>
         
