@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sprite Lightning in High Definition
-Date : 2023-10-02
+### Today image : MyCn 18: The Engraved Hourglass Planetary Nebula
+Date : 2023-10-03
 
-![](https://apod.nasa.gov/apod/image/2310/HiResSprites_Escurat_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg)
 
-<small>Latest update : Tue Oct  3 03:12:45 2023</small>
+<small>Latest update : Tue Oct  3 04:14:40 2023</small>
         
