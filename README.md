@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : MyCn 18: The Engraved Hourglass Planetary Nebula
-Date : 2023-10-03
+### Today image : IC 2118: The Witch Head Nebula
+Date : 2023-10-04
 
-![](https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2310/WitchHead_Alharbi_1080.jpg)
 
-<small>Latest update : Wed Oct  4 03:12:59 2023</small>
+<small>Latest update : Wed Oct  4 04:14:58 2023</small>
         
