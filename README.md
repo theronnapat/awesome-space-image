@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ring of Fire over Monument Valley
-Date : 2023-10-05
+### Today image : Edwin Hubble Discovers the Universe
+Date : 2023-10-06
 
-![](https://apod.nasa.gov/apod/image/2310/MoValleyEclipse1024.jpg)
+![](https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg)
 
-<small>Latest update : Fri Oct  6 03:12:44 2023</small>
+<small>Latest update : Fri Oct  6 04:15:03 2023</small>
         
