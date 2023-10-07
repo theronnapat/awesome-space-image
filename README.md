@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Edwin Hubble Discovers the Universe
-Date : 2023-10-06
+### Today image : The Once and Future Stars of Andromeda
+Date : 2023-10-07
 
-![](https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg)
 
-<small>Latest update : Sat Oct  7 03:12:32 2023</small>
+<small>Latest update : Sat Oct  7 04:14:20 2023</small>
         
