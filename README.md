@@ -6,5 +6,5 @@ Date : 2023-10-07
 
 ![](https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg)
 
-<small>Latest update : Sat Oct  7 17:10:00 2023</small>
+<small>Latest update : Sat Oct  7 18:14:40 2023</small>
         
