@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Once and Future Stars of Andromeda
-Date : 2023-10-07
+### Today image : Plane, Clouds, Moon, Spots, Sun
+Date : 2023-10-08
 
-![](https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/PlaneEclipse_Slifer_960.jpg)
 
-<small>Latest update : Sun Oct  8 03:12:20 2023</small>
+<small>Latest update : Sun Oct  8 04:14:24 2023</small>
         
