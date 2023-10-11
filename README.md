@@ -6,5 +6,5 @@ Date : 2023-10-11
 
 ![](https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif)
 
-<small>Latest update : Wed Oct 11 16:16:48 2023</small>
+<small>Latest update : Wed Oct 11 17:11:30 2023</small>
         
