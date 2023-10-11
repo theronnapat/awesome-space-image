@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Hidden Orion from Webb
-Date : 2023-10-10
+### Today image : NGC 1097: Spiral Galaxy with Supernova
+Date : 2023-10-11
 
-![](https://apod.nasa.gov/apod/image/2310/OrionNircShort_Webb_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif)
 
-<small>Latest update : Wed Oct 11 03:13:02 2023</small>
+<small>Latest update : Wed Oct 11 04:14:40 2023</small>
         
