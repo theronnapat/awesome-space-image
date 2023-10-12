@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1097: Spiral Galaxy with Supernova
-Date : 2023-10-11
+### Today image : Mu Cephei
+Date : 2023-10-12
 
-![](https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif)
+![](https://apod.nasa.gov/apod/image/2310/MuCephei_apod1024.jpg)
 
-<small>Latest update : Thu Oct 12 03:12:51 2023</small>
+<small>Latest update : Thu Oct 12 04:14:59 2023</small>
         
