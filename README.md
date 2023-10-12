@@ -6,5 +6,5 @@ Date : 2023-10-12
 
 ![](https://apod.nasa.gov/apod/image/2310/MuCephei_apod1024.jpg)
 
-<small>Latest update : Thu Oct 12 16:16:31 2023</small>
+<small>Latest update : Thu Oct 12 17:11:25 2023</small>
         
