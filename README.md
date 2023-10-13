@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Mu Cephei
-Date : 2023-10-12
+### Today image : Hydrogen Clouds of M33
+Date : 2023-10-13
 
-![](https://apod.nasa.gov/apod/image/2310/MuCephei_apod1024.jpg)
+![](https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg)
 
-<small>Latest update : Fri Oct 13 03:13:11 2023</small>
+<small>Latest update : Fri Oct 13 04:15:04 2023</small>
         
