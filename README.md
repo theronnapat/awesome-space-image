@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Hydrogen Clouds of M33
-Date : 2023-10-13
+### Today image : Circular Sun Halo
+Date : 2023-10-14
 
-![](https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg)
+![](https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg)
 
-<small>Latest update : Sat Oct 14 03:12:23 2023</small>
+<small>Latest update : Sat Oct 14 04:14:31 2023</small>
         
