@@ -11,11 +11,7 @@ if sys.version_info < MIN_PYTHON:
 
 load_dotenv()
 
-API_KEY = os.getenv("API")
-
-if API_KEY is None:
-    sys.exit("API key is required.\n")
-
+API_KEY = os.getenv("API", "DEMO_KEY")
 
 if __name__ == '__main__':
     x = datetime.datetime.now()
