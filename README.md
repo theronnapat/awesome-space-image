@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Circular Sun Halo
-Date : 2023-10-14
+### Today image : An Eclipse Tree
+Date : 2023-10-15
 
-![](https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg)
+![](https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_960.jpg)
 
-<small>Latest update : Sun Oct 15 03:12:32 2023</small>
+<small>Latest update : Sun Oct 15 04:14:13 2023</small>
         
