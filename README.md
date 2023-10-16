@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : An Eclipse Tree
-Date : 2023-10-15
+### Today image : Eclipse Rings
+Date : 2023-10-16
 
-![](https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_960.jpg)
 
-<small>Latest update : Mon Oct 16 03:13:20 2023</small>
+<small>Latest update : Mon Oct 16 04:15:18 2023</small>
         
