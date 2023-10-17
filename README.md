@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Eclipse Rings
-Date : 2023-10-16
+### Today image : PDS 70: Disk, Planets, and Moons
+Date : 2023-10-17
 
-![](https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg)
 
-<small>Latest update : Tue Oct 17 03:13:00 2023</small>
+<small>Latest update : Tue Oct 17 04:14:55 2023</small>
         
