@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : PDS 70: Disk, Planets, and Moons
-Date : 2023-10-17
+### Today image : Dust and the Western Veil Nebula
+Date : 2023-10-18
 
-![](https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/WesternVeil_Wu_960.jpg)
 
-<small>Latest update : Wed Oct 18 03:12:53 2023</small>
+<small>Latest update : Wed Oct 18 04:15:01 2023</small>
         
