@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Galaxies and a Comet
-Date : 2023-10-20
+### Today image : Quarter Moons
+Date : 2023-10-21
 
-![](https://apod.nasa.gov/apod/image/2310/C2023H2LemmonGalaxies1024.jpg)
+![](https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg)
 
-<small>Latest update : Sat Oct 21 03:12:32 2023</small>
+<small>Latest update : Sat Oct 21 04:14:16 2023</small>
         
