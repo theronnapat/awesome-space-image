@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Quarter Moons
-Date : 2023-10-21
+### Today image : Ghost Aurora over Canada
+Date : 2023-10-22
 
-![](https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg)
+![](https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg)
 
-<small>Latest update : Sun Oct 22 03:12:51 2023</small>
+<small>Latest update : Sun Oct 22 04:14:26 2023</small>
         
