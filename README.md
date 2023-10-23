@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ghost Aurora over Canada
-Date : 2023-10-22
+### Today image : Moon Io from Spacecraft Juno
+Date : 2023-10-23
 
-![](https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg)
 
-<small>Latest update : Mon Oct 23 03:13:17 2023</small>
+<small>Latest update : Mon Oct 23 04:15:12 2023</small>
         
