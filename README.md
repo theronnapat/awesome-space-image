@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Arp 87: Merging Galaxies from Hubble
-Date : 2023-10-24
+### Today image : Gone in 60 Seconds: A Green Flash Sunset
+Date : 2023-10-25
 
-![](https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg)
+![](https://www.youtube.com/embed/J3_88eyN44w?rel=0)
 
-<small>Latest update : Wed Oct 25 03:12:51 2023</small>
+<small>Latest update : Wed Oct 25 04:15:08 2023</small>
         
