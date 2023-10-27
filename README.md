@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Orionids in Taurus
-Date : 2023-10-26
+### Today image : Encke and the Tadpoles
+Date : 2023-10-27
 
-![](https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2310/2P_Encke_2023_08_24JuneLake_California_USA_DEBartlett1024.jpg)
 
-<small>Latest update : Fri Oct 27 03:12:42 2023</small>
+<small>Latest update : Fri Oct 27 04:14:52 2023</small>
         
