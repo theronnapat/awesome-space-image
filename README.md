@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Ghosts of Gamma Cas
-Date : 2023-10-28
+### Today image : A Partial Lunar Eclipse
+Date : 2023-10-29
 
-![](https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg)
+![](https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_1080.jpg)
 
-<small>Latest update : Sun Oct 29 03:12:45 2023</small>
+<small>Latest update : Sun Oct 29 04:14:14 2023</small>
         
