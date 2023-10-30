@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Partial Lunar Eclipse
-Date : 2023-10-29
+### Today image : Reflections of the Ghost Nebula
+Date : 2023-10-30
 
-![](https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg)
 
-<small>Latest update : Mon Oct 30 03:13:00 2023</small>
+<small>Latest update : Mon Oct 30 04:15:04 2023</small>
         
