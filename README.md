@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Reflections of the Ghost Nebula
-Date : 2023-10-30
+### Today image : Halloween and the Wizard Nebula
+Date : 2023-10-31
 
-![](https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg)
+![](https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg)
 
-<small>Latest update : Tue Oct 31 03:13:00 2023</small>
+<small>Latest update : Tue Oct 31 04:14:57 2023</small>
         
