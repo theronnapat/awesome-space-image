@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Halloween and the Wizard Nebula
-Date : 2023-10-31
+### Today image : Annular Solar Eclipse over Utah
+Date : 2023-11-01
 
-![](https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_960.jpg)
 
-<small>Latest update : Wed Nov  1 03:13:11 2023</small>
+<small>Latest update : Wed Nov  1 04:15:06 2023</small>
         
