@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Fornax Cluster of Galaxies
-Date : 2023-11-02
+### Today image : Jupiter by Moonlight
+Date : 2023-11-03
 
-![](https://apod.nasa.gov/apod/image/2311/ClusterFornax1024.jpg)
+![](https://apod.nasa.gov/apod/image/2311/_GHR7338_3_firma_picc1024.jpg)
 
-<small>Latest update : Fri Nov  3 03:13:09 2023</small>
+<small>Latest update : Fri Nov  3 04:14:56 2023</small>
         
