@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter by Moonlight
-Date : 2023-11-03
+### Today image : Dinkinesh Moonrise
+Date : 2023-11-04
 
-![](https://apod.nasa.gov/apod/image/2311/_GHR7338_3_firma_picc1024.jpg)
+![](https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png)
 
-<small>Latest update : Sat Nov  4 03:12:33 2023</small>
+<small>Latest update : Sat Nov  4 04:14:43 2023</small>
         
