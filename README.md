@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Dinkinesh Moonrise
-Date : 2023-11-04
+### Today image : Creature Aurora Over Norway
+Date : 2023-11-05
 
-![](https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png)
+![](https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg)
 
-<small>Latest update : Sun Nov  5 03:13:44 2023</small>
+<small>Latest update : Sun Nov  5 04:14:30 2023</small>
         
