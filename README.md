@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Red Aurora over Italy
-Date : 2023-11-06
+### Today image : A Martian Dust Devil Spins By
+Date : 2023-11-07
 
-![](https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1080.jpg)
+![](https://www.youtube.com/embed/xB3QIEkNJgs?rel=0)
 
-<small>Latest update : Tue Nov  7 04:15:09 2023</small>
+<small>Latest update : Tue Nov  7 05:11:49 2023</small>
         
