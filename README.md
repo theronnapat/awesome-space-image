@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Perseus Galaxy Cluster from Euclid
-Date : 2023-11-08
+### Today image : M1: The Crab Nebula
+Date : 2023-11-09
 
-![](https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/M1_webb1024.png)
 
-<small>Latest update : Thu Nov  9 04:14:54 2023</small>
+<small>Latest update : Thu Nov  9 05:11:47 2023</small>
         
