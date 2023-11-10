@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M1: The Crab Nebula
-Date : 2023-11-09
+### Today image : UHZ1: Distant Galaxy and Black Hole
+Date : 2023-11-10
 
-![](https://apod.nasa.gov/apod/image/2311/M1_webb1024.png)
+![](https://apod.nasa.gov/apod/image/2311/uhz1_1024.jpg)
 
-<small>Latest update : Fri Nov 10 04:15:06 2023</small>
+<small>Latest update : Fri Nov 10 05:11:50 2023</small>
         
