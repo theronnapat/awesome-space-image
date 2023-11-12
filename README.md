@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The SAR and the Milky Way
-Date : 2023-11-11
+### Today image : Gibbous Moon beyond Swedish Mountain
+Date : 2023-11-12
 
-![](https://apod.nasa.gov/apod/image/2311/SARarcLooten1024.jpg)
+![](https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_960.jpg)
 
-<small>Latest update : Sun Nov 12 04:14:37 2023</small>
+<small>Latest update : Sun Nov 12 05:11:23 2023</small>
         
