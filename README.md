@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Gibbous Moon beyond Swedish Mountain
-Date : 2023-11-12
+### Today image : Andromeda over the Alps
+Date : 2023-11-13
 
-![](https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_960.jpg)
 
-<small>Latest update : Mon Nov 13 04:15:27 2023</small>
+<small>Latest update : Mon Nov 13 05:12:10 2023</small>
         
