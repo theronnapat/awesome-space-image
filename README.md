@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Andromeda over the Alps
-Date : 2023-11-13
+### Today image : Three Planets Rock
+Date : 2023-11-14
 
-![](https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg)
 
-<small>Latest update : Tue Nov 14 04:15:02 2023</small>
+<small>Latest update : Tue Nov 14 05:11:49 2023</small>
         
