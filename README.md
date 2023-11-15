@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Three Planets Rock
-Date : 2023-11-14
+### Today image : M1: The Incredible Expanding Crab
+Date : 2023-11-15
 
-![](https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/Crab_Webb_998.jpg)
 
-<small>Latest update : Wed Nov 15 04:15:25 2023</small>
+<small>Latest update : Wed Nov 15 05:12:05 2023</small>
         
