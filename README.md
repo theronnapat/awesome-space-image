@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M1: The Incredible Expanding Crab
-Date : 2023-11-15
+### Today image : Daytime Moon Meets Morning Star
+Date : 2023-11-16
 
-![](https://apod.nasa.gov/apod/image/2311/Crab_Webb_998.jpg)
+![](https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg)
 
-<small>Latest update : Thu Nov 16 04:15:59 2023</small>
+<small>Latest update : Thu Nov 16 05:12:19 2023</small>
         
