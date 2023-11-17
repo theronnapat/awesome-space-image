@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Daytime Moon Meets Morning Star
-Date : 2023-11-16
+### Today image : Nightlights in Qeqertaq
+Date : 2023-11-17
 
-![](https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2_1200.jpg)
 
-<small>Latest update : Fri Nov 17 04:15:54 2023</small>
+<small>Latest update : Fri Nov 17 05:12:17 2023</small>
         
