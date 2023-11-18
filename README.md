@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Nightlights in Qeqertaq
-Date : 2023-11-17
+### Today image : Planet Earth from Orion
+Date : 2023-11-18
 
-![](https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2_1200.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg)
 
-<small>Latest update : Sat Nov 18 04:15:13 2023</small>
+<small>Latest update : Sat Nov 18 05:11:48 2023</small>
         
