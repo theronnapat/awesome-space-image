@@ -6,5 +6,5 @@ Date : 2023-11-20
 
 ![](https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg)
 
-<small>Latest update : Mon Nov 20 17:09:47 2023</small>
+<small>Latest update : Mon Nov 20 18:16:29 2023</small>
         
