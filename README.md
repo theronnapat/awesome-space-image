@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Horsehead Nebula
-Date : 2023-11-20
+### Today image : Fleming's Triangular Wisp
+Date : 2023-11-21
 
-![](https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg)
 
-<small>Latest update : Tue Nov 21 04:15:59 2023</small>
+<small>Latest update : Tue Nov 21 05:12:34 2023</small>
         
