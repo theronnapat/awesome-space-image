@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Fleming's Triangular Wisp
-Date : 2023-11-21
+### Today image : IC 342: Hidden Galaxy in Camelopardalis
+Date : 2023-11-22
 
-![](https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg)
 
-<small>Latest update : Wed Nov 22 04:15:44 2023</small>
+<small>Latest update : Wed Nov 22 05:12:34 2023</small>
         
