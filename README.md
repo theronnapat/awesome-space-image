@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Along the Taurus Molecular Cloud
-Date : 2023-11-23
+### Today image : Stereo Jupiter near Opposition
+Date : 2023-11-24
 
-![](https://apod.nasa.gov/apod/image/2311/ngc1555wide1024.jpg)
+![](https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo1200.png)
 
-<small>Latest update : Fri Nov 24 04:15:20 2023</small>
+<small>Latest update : Fri Nov 24 05:12:17 2023</small>
         
