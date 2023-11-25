@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Stereo Jupiter near Opposition
-Date : 2023-11-24
+### Today image : Little Planet Aurora
+Date : 2023-11-25
 
-![](https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo1200.png)
+![](https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg)
 
-<small>Latest update : Sat Nov 25 04:15:09 2023</small>
+<small>Latest update : Sat Nov 25 05:11:55 2023</small>
         
