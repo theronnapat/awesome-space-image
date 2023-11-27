@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Dust Jet from the Surface of Comet 67P
-Date : 2023-11-26
+### Today image : LBN 86: The Eagle Ray Nebula
+Date : 2023-11-27
 
-![](https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_960.jpg)
 
-<small>Latest update : Mon Nov 27 04:16:05 2023</small>
+<small>Latest update : Mon Nov 27 05:12:51 2023</small>
         
