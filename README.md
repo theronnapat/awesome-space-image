@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ganymede from Juno
-Date : 2023-11-28
+### Today image : A Landspout Tornado over Kansas
+Date : 2023-11-29
 
-![](https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_960.jpg)
+![](https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg)
 
-<small>Latest update : Wed Nov 29 04:15:35 2023</small>
+<small>Latest update : Wed Nov 29 05:12:27 2023</small>
         
