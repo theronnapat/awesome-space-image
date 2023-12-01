@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Artemis 1: Flight Day 13
-Date : 2023-11-30
+### Today image : Milky Way Rising
+Date : 2023-12-01
 
-![](https://apod.nasa.gov/apod/image/2311/art001e000672-orig1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD1024.jpg)
 
-<small>Latest update : Fri Dec  1 04:15:56 2023</small>
+<small>Latest update : Fri Dec  1 05:12:52 2023</small>
         
