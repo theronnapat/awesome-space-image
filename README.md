@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way Rising
-Date : 2023-12-01
+### Today image : Startrails over Beijing Ancient Observatory
+Date : 2023-12-02
 
-![](https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD1024.jpg)
+![](https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg)
 
-<small>Latest update : Sat Dec  2 04:14:55 2023</small>
+<small>Latest update : Sat Dec  2 05:11:39 2023</small>
         
