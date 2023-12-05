@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Plane Crossing Crescent Moon
-Date : 2023-12-04
+### Today image : Energetic Particle Strikes the Earth
+Date : 2023-12-05
 
-![](https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg)
+![](https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg)
 
-<small>Latest update : Tue Dec  5 04:15:57 2023</small>
+<small>Latest update : Tue Dec  5 05:12:39 2023</small>
         
