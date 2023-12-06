@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Energetic Particle Strikes the Earth
-Date : 2023-12-05
+### Today image : Stars Versus Dust in the Carina Nebula
+Date : 2023-12-06
 
-![](https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2312/TorchedDust_HubbleMecone_960.jpg)
 
-<small>Latest update : Wed Dec  6 04:16:20 2023</small>
+<small>Latest update : Wed Dec  6 05:12:27 2023</small>
         
