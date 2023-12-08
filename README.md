@@ -6,5 +6,5 @@ Date : 2023-12-08
 
 ![](https://apod.nasa.gov/apod/image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett1024.jpg)
 
-<small>Latest update : Fri Dec  8 20:13:39 2023</small>
+<small>Latest update : Fri Dec  8 21:11:30 2023</small>
         
