@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Big Dipper over Pyramid Mountain
-Date : 2023-12-10
+### Today image : Solar Minimum versus Solar Maximum
+Date : 2023-12-11
 
-![](https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_960.jpg)
+![](https://www.youtube.com/embed/JqH0diwqcUM?rel=0)
 
-<small>Latest update : Mon Dec 11 04:16:22 2023</small>
+<small>Latest update : Mon Dec 11 05:12:46 2023</small>
         
