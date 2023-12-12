@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Solar Minimum versus Solar Maximum
-Date : 2023-12-11
+### Today image : Aurora and Milky Way over Norway
+Date : 2023-12-12
 
-![](https://www.youtube.com/embed/JqH0diwqcUM?rel=0)
+![](https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg)
 
-<small>Latest update : Tue Dec 12 04:15:59 2023</small>
+<small>Latest update : Tue Dec 12 05:12:46 2023</small>
         
