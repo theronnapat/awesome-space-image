@@ -6,5 +6,5 @@ Date : 2023-12-14
 
 ![](https://apod.nasa.gov/apod/image/2312/CasA_nircam_1024.jpg)
 
-<small>Latest update : Thu Dec 14 19:10:29 2023</small>
+<small>Latest update : Thu Dec 14 20:14:06 2023</small>
         
