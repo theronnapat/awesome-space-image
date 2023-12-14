@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Deep Field: The Heart Nebula
-Date : 2023-12-13
+### Today image : Supernova Remnant Cassiopeia A
+Date : 2023-12-14
 
-![](https://apod.nasa.gov/apod/image/2312/Heart_TelLiveOstling_960.jpg)
+![](https://apod.nasa.gov/apod/image/2312/CasA_nircam_1024.jpg)
 
-<small>Latest update : Thu Dec 14 04:15:54 2023</small>
+<small>Latest update : Thu Dec 14 05:12:28 2023</small>
         
