@@ -6,5 +6,5 @@ Date : 2023-12-15
 
 ![](https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation1024.jpg)
 
-<small>Latest update : Fri Dec 15 14:12:10 2023</small>
+<small>Latest update : Fri Dec 15 15:13:12 2023</small>
         
