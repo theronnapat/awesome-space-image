@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Betelgeuse Eclipsed
-Date : 2023-12-15
+### Today image : Crescent Enceladus
+Date : 2023-12-16
 
-![](https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation1024.jpg)
+![](https://apod.nasa.gov/apod/image/2312/PIA20522enceladusC.jpg)
 
-<small>Latest update : Sat Dec 16 04:15:17 2023</small>
+<small>Latest update : Sat Dec 16 05:11:47 2023</small>
         
