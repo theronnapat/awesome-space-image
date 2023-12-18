@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Geminids over China's Nianhu Lake
-Date : 2023-12-17
+### Today image : The Same Color Illusion
+Date : 2023-12-18
 
-![](https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2312/greyillusion_wikipedia_960.jpg)
 
-<small>Latest update : Mon Dec 18 04:16:31 2023</small>
+<small>Latest update : Mon Dec 18 05:13:21 2023</small>
         
