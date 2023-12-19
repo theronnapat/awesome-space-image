@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Same Color Illusion
-Date : 2023-12-18
+### Today image : NGC 1499: The California Nebula
+Date : 2023-12-19
 
-![](https://apod.nasa.gov/apod/image/2312/greyillusion_wikipedia_960.jpg)
+![](https://apod.nasa.gov/apod/image/2312/CalNeb_Powell_960.jpg)
 
-<small>Latest update : Tue Dec 19 04:15:57 2023</small>
+<small>Latest update : Tue Dec 19 05:12:32 2023</small>
         
