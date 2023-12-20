@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1499: The California Nebula
-Date : 2023-12-19
+### Today image : Ice Halos over Bavaria
+Date : 2023-12-20
 
-![](https://apod.nasa.gov/apod/image/2312/CalNeb_Powell_960.jpg)
+![](https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_960.jpg)
 
-<small>Latest update : Wed Dec 20 04:13:20 2023</small>
+<small>Latest update : Wed Dec 20 05:10:22 2023</small>
         
