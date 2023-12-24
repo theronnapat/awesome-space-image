@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A December Summer Night
-Date : 2023-12-23
+### Today image : NGC 2440: Cocoon of a New White Dwarf
+Date : 2023-12-24
 
-![](https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg)
+![](https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg)
 
-<small>Latest update : Sun Dec 24 04:15:08 2023</small>
+<small>Latest update : Sun Dec 24 05:11:44 2023</small>
         
