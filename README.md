@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 2440: Cocoon of a New White Dwarf
-Date : 2023-12-24
+### Today image : Cathedral, Mountain, Moon
+Date : 2023-12-25
 
-![](https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg)
+![](https://apod.nasa.gov/apod/image/2312/MoonAligned_Minato_960.jpg)
 
-<small>Latest update : Mon Dec 25 04:15:51 2023</small>
+<small>Latest update : Mon Dec 25 05:12:54 2023</small>
         
