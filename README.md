@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : IC 443: The Jellyfish Nebula
-Date : 2023-12-26
+### Today image : Rainbow Aurora over Icelandic Waterfall
+Date : 2023-12-27
 
-![](https://apod.nasa.gov/apod/image/2312/Jellyfish_Payne_960.jpg)
+![](https://apod.nasa.gov/apod/image/2312/ArchFalls_Pellegrini_960.jpg)
 
-<small>Latest update : Wed Dec 27 04:15:19 2023</small>
+<small>Latest update : Wed Dec 27 05:12:18 2023</small>
         
