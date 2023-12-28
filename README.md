@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Rainbow Aurora over Icelandic Waterfall
-Date : 2023-12-27
+### Today image : Jupiter and the Geminid
+Date : 2023-12-28
 
-![](https://apod.nasa.gov/apod/image/2312/ArchFalls_Pellegrini_960.jpg)
+![](https://apod.nasa.gov/apod/image/2312/G0030446_1100.jpg)
 
-<small>Latest update : Thu Dec 28 04:15:49 2023</small>
+<small>Latest update : Thu Dec 28 05:12:21 2023</small>
         
