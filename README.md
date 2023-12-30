@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Shakespeare in Space
-Date : 2023-12-29
+### Today image : The Last Full Moon
+Date : 2023-12-30
 
-![](https://apod.nasa.gov/apod/image/2312/STScI-UranusJWSTcrop.png)
+![](https://apod.nasa.gov/apod/image/2312/2023_12_27-fullmoon1024.jpg)
 
-<small>Latest update : Sat Dec 30 04:15:58 2023</small>
+<small>Latest update : Sat Dec 30 06:15:32 2023</small>
         
