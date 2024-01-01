@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Illustris: A Simulation of the Universe
-Date : 2023-12-31
+### Today image : NGC 1232: A Grand Design Spiral Galaxy
+Date : 2024-01-01
 
-![](https://www.youtube.com/embed/QSivvdIyeG4?si=CNXSnbIN_HXYZG0e?rel=0)
+![](https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_960.jpg)
 
-<small>Latest update : Mon Jan  1 04:16:08 2024</small>
+<small>Latest update : Mon Jan  1 05:13:26 2024</small>
         
