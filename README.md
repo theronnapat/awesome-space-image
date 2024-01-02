@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1232: A Grand Design Spiral Galaxy
-Date : 2024-01-01
+### Today image : Rocket Transits Rippling Moon
+Date : 2024-01-02
 
-![](https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/FalconMoon_Madow_960.jpg)
 
-<small>Latest update : Tue Jan  2 04:15:46 2024</small>
+<small>Latest update : Tue Jan  2 05:12:45 2024</small>
         
