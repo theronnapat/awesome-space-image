@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A SAR Arc from New Zealand
-Date : 2024-01-03
+### Today image : Zeta Oph: Runaway Star
+Date : 2024-01-04
 
-![](https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_960.jpg)
 
-<small>Latest update : Thu Jan  4 04:15:58 2024</small>
+<small>Latest update : Thu Jan  4 05:12:32 2024</small>
         
