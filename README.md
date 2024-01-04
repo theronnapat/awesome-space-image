@@ -6,5 +6,5 @@ Date : 2024-01-04
 
 ![](https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_960.jpg)
 
-<small>Latest update : Thu Jan  4 13:15:22 2024</small>
+<small>Latest update : Thu Jan  4 14:11:54 2024</small>
         
