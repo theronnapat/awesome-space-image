@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Zeta Oph: Runaway Star
-Date : 2024-01-04
+### Today image : Trapezium: At the Heart of Orion
+Date : 2024-01-05
 
-![](https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/Image964_1024.jpg)
 
-<small>Latest update : Fri Jan  5 04:15:58 2024</small>
+<small>Latest update : Fri Jan  5 05:12:36 2024</small>
         
