@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Trapezium: At the Heart of Orion
-Date : 2024-01-05
+### Today image : The Snows of Churyumov-Gerasimenko
+Date : 2024-01-06
 
-![](https://apod.nasa.gov/apod/image/2401/Image964_1024.jpg)
+![](https://www.youtube.com/embed/PpyPgJHKxSw?rel=0)
 
-<small>Latest update : Sat Jan  6 04:15:41 2024</small>
+<small>Latest update : Sat Jan  6 05:11:47 2024</small>
         
