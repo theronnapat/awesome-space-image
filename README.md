@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Cat's Eye Nebula in Optical and X-ray
-Date : 2024-01-07
+### Today image : The Phases of Venus
+Date : 2024-01-08
 
-![](https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_960.jpg)
 
-<small>Latest update : Mon Jan  8 04:16:30 2024</small>
+<small>Latest update : Mon Jan  8 05:13:08 2024</small>
         
