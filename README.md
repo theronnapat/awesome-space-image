@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Phases of Venus
-Date : 2024-01-08
+### Today image : Thor's Helmet
+Date : 2024-01-09
 
-![](https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_960.jpg)
 
-<small>Latest update : Tue Jan  9 04:16:03 2024</small>
+<small>Latest update : Tue Jan  9 05:12:34 2024</small>
         
