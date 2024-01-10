@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Thor's Helmet
-Date : 2024-01-09
+### Today image : The Light, the Dark, and the Dusty
+Date : 2024-01-10
 
-![](https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/Sh2_155_4K_5Mb1024.jpg)
 
-<small>Latest update : Wed Jan 10 04:16:09 2024</small>
+<small>Latest update : Wed Jan 10 05:12:38 2024</small>
         
