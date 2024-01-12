@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Quadrantids of the North
-Date : 2024-01-11
+### Today image : Good Morning Moon
+Date : 2024-01-12
 
-![](https://apod.nasa.gov/apod/image/2401/2024_quadrantids_240104_med_bsyeom1024.jpg)
+![](https://apod.nasa.gov/apod/image/2401/HimmlichesDreieckSaarburg_TWAN_mercurybildweb1024.jpg)
 
-<small>Latest update : Fri Jan 12 04:16:39 2024</small>
+<small>Latest update : Fri Jan 12 05:13:07 2024</small>
         
