@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Good Morning Moon
-Date : 2024-01-12
+### Today image : Circling the Sun
+Date : 2024-01-13
 
-![](https://apod.nasa.gov/apod/image/2401/HimmlichesDreieckSaarburg_TWAN_mercurybildweb1024.jpg)
+![](https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg)
 
-<small>Latest update : Sat Jan 13 04:16:05 2024</small>
+<small>Latest update : Sat Jan 13 05:12:40 2024</small>
         
