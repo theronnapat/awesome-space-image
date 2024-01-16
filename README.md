@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Star Cluster IC 348 from Webb
-Date : 2024-01-15
+### Today image : The Orion You Can Almost See
+Date : 2024-01-16
 
-![](https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/OrionMcc_Guzzini_960.jpg)
 
-<small>Latest update : Tue Jan 16 04:16:09 2024</small>
+<small>Latest update : Tue Jan 16 05:12:31 2024</small>
         
