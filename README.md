@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Orion You Can Almost See
-Date : 2024-01-16
+### Today image : America and the Sea of Serenity
+Date : 2024-01-17
 
-![](https://apod.nasa.gov/apod/image/2401/OrionMcc_Guzzini_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg)
 
-<small>Latest update : Wed Jan 17 04:16:35 2024</small>
+<small>Latest update : Wed Jan 17 05:12:36 2024</small>
         
