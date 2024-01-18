@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : America and the Sea of Serenity
-Date : 2024-01-17
+### Today image : Northern Lights from the Stratosphere
+Date : 2024-01-18
 
-![](https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg)
+![](https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg)
 
-<small>Latest update : Thu Jan 18 04:16:04 2024</small>
+<small>Latest update : Thu Jan 18 05:12:52 2024</small>
         
