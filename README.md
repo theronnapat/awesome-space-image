@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Northern Lights from the Stratosphere
-Date : 2024-01-18
+### Today image : Jupiter over 2 Hours and 30 Minutes
+Date : 2024-01-19
 
-![](https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg)
+![](https://apod.nasa.gov/apod/image/2401/2024_01_15-Jup-2h30-Chronograph600.png)
 
-<small>Latest update : Fri Jan 19 04:16:37 2024</small>
+<small>Latest update : Fri Jan 19 05:12:37 2024</small>
         
