@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Upper Michigan Blizzard of 1938
-Date : 2024-01-21
+### Today image : Shadows of Mountain and Moon
+Date : 2024-01-22
 
-![](https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg)
+![](https://apod.nasa.gov/apod/image/2401/GrivolaMoon_Micon_1080.jpg)
 
-<small>Latest update : Mon Jan 22 04:17:01 2024</small>
+<small>Latest update : Mon Jan 22 05:13:18 2024</small>
         
