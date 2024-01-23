@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Shadows of Mountain and Moon
-Date : 2024-01-22
+### Today image : Deep Nebulas: From Seagull to California
+Date : 2024-01-23
 
-![](https://apod.nasa.gov/apod/image/2401/GrivolaMoon_Micon_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2401/SeagullToCalifornia_Symon_960.jpg)
 
-<small>Latest update : Tue Jan 23 04:16:23 2024</small>
+<small>Latest update : Tue Jan 23 05:12:53 2024</small>
         
