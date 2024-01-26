@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jyväskylä in the Sky
-Date : 2024-01-25
+### Today image : Epsilon Tauri: Star with Planet
+Date : 2024-01-26
 
-![](https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg)
+![](https://apod.nasa.gov/apod/image/2401/Ain_1024.jpg)
 
-<small>Latest update : Fri Jan 26 04:15:58 2024</small>
+<small>Latest update : Fri Jan 26 05:11:45 2024</small>
         
