@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Full Observatory Moon
-Date : 2024-01-27
+### Today image : Pluto in True Color
+Date : 2024-01-28
 
-![](https://apod.nasa.gov/apod/image/2401/Full_Moon_Jan_24_Beletsky1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_960.jpg)
 
-<small>Latest update : Sun Jan 28 04:15:07 2024</small>
+<small>Latest update : Sun Jan 28 05:12:12 2024</small>
         
