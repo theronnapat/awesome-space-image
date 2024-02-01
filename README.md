@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Camera Orion Rising
-Date : 2024-01-31
+### Today image : NGC 1365: Majestic Island Universe
+Date : 2024-02-01
 
-![](https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_960.jpg)
+![](https://apod.nasa.gov/apod/image/2402/NGC1365_v4_1024.jpg)
 
-<small>Latest update : Thu Feb  1 04:16:22 2024</small>
+<small>Latest update : Thu Feb  1 05:12:25 2024</small>
         
