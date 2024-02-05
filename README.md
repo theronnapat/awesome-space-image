@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Cone Nebula from Hubble
-Date : 2024-02-04
+### Today image : In the Core of the Carina Nebula
+Date : 2024-02-05
 
-![](https://apod.nasa.gov/apod/image/2402/cone_hubbleschmidt_960.jpg)
+![](https://apod.nasa.gov/apod/image/2402/Carina_Taylor_960.jpg)
 
-<small>Latest update : Mon Feb  5 04:16:31 2024</small>
+<small>Latest update : Mon Feb  5 05:13:24 2024</small>
         
