@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 1566: A Spiral Galaxy from Webb and Hubble
-Date : 2024-02-06
+### Today image : The Heart Shaped Antennae Galaxies
+Date : 2024-02-07
 
-![](https://apod.nasa.gov/apod/image/2402/Ngc1566_HubbleWebb_960.jpg)
+![](https://apod.nasa.gov/apod/image/2402/Antennae_Biggs_960.jpg)
 
-<small>Latest update : Wed Feb  7 13:13:24 2024</small>
+<small>Latest update : Wed Feb  7 14:11:18 2024</small>
         
