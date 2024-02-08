@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Heart Shaped Antennae Galaxies
-Date : 2024-02-07
+### Today image : Globular Star Cluster 47 Tuc
+Date : 2024-02-08
 
-![](https://apod.nasa.gov/apod/image/2402/Antennae_Biggs_960.jpg)
+![](https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA1024.png)
 
-<small>Latest update : Thu Feb  8 04:15:39 2024</small>
+<small>Latest update : Thu Feb  8 05:13:43 2024</small>
         
