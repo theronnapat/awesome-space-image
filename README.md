@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Globular Star Cluster 47 Tuc
-Date : 2024-02-08
+### Today image : When Roses Aren't Red
+Date : 2024-02-09
 
-![](https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA1024.png)
+![](https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy1024.png)
 
-<small>Latest update : Fri Feb  9 04:14:57 2024</small>
+<small>Latest update : Fri Feb  9 05:11:51 2024</small>
         
