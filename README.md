@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Shadow of Ingenuity's Damaged Rotor Blade
-Date : 2024-02-10
+### Today image : Rocket Plume Shadow Points to the Moon
+Date : 2024-02-11
 
-![](https://apod.nasa.gov/apod/image/2402/PIA26243-1024.jpg)
+![](https://apod.nasa.gov/apod/image/2402/sts98plume_nasa_960.jpg)
 
-<small>Latest update : Sun Feb 11 04:15:19 2024</small>
+<small>Latest update : Sun Feb 11 05:11:15 2024</small>
         
