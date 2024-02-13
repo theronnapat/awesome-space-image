@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : HFG1 & Abell 6: Planetary Nebulae
-Date : 2024-02-12
+### Today image : A January Wolf Moon
+Date : 2024-02-13
 
-![](https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2402/WolfMoon_Zegarski_960.jpg)
 
-<small>Latest update : Tue Feb 13 04:14:39 2024</small>
+<small>Latest update : Tue Feb 13 05:12:09 2024</small>
         
