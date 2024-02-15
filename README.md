@@ -6,5 +6,5 @@ Date : 2024-02-15
 
 ![](https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023_1024.jpg)
 
-<small>Latest update : Thu Feb 15 13:13:42 2024</small>
+<small>Latest update : Thu Feb 15 14:11:21 2024</small>
         
