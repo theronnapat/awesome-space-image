@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Rosette Deep Field
-Date : 2024-02-14
+### Today image : NGC 253: Dusty Island Universe
+Date : 2024-02-15
 
-![](https://apod.nasa.gov/apod/image/2402/RosetteCone_Bernard_960.jpg)
+![](https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023_1024.jpg)
 
-<small>Latest update : Thu Feb 15 04:15:44 2024</small>
+<small>Latest update : Thu Feb 15 05:12:58 2024</small>
         
