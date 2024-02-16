@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 253: Dusty Island Universe
-Date : 2024-02-15
+### Today image : Structure in the Tail of Comet 12P/Pons-Brooks
+Date : 2024-02-16
 
-![](https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2402/12P_Pons_Brooks_2024_02_11_185335PST_JuneLake_DEBartlett800.jpg)
 
-<small>Latest update : Fri Feb 16 04:14:28 2024</small>
+<small>Latest update : Fri Feb 16 05:12:37 2024</small>
         
