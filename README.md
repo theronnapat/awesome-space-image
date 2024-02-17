@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Structure in the Tail of Comet 12P/Pons-Brooks
-Date : 2024-02-16
+### Today image : Meteor over the Bay of Naples
+Date : 2024-02-17
 
-![](https://apod.nasa.gov/apod/image/2402/12P_Pons_Brooks_2024_02_11_185335PST_JuneLake_DEBartlett800.jpg)
+![](https://apod.nasa.gov/apod/image/2402/MeteorBayofNaples_V2_1024.jpg)
 
-<small>Latest update : Sat Feb 17 04:16:14 2024</small>
+<small>Latest update : Sat Feb 17 05:11:22 2024</small>
         
