@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Meteor over the Bay of Naples
-Date : 2024-02-17
+### Today image : Hoag's Object: A Nearly Perfect Ring Galaxy
+Date : 2024-02-18
 
-![](https://apod.nasa.gov/apod/image/2402/MeteorBayofNaples_V2_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_1080.jpg)
 
-<small>Latest update : Sun Feb 18 04:14:15 2024</small>
+<small>Latest update : Sun Feb 18 05:11:08 2024</small>
         
