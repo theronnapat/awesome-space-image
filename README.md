@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Hoag's Object: A Nearly Perfect Ring Galaxy
-Date : 2024-02-18
+### Today image : Looking Sideways from the Parker Solar Probe
+Date : 2024-02-19
 
-![](https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_1080.jpg)
+![](https://www.youtube.com/embed/x-wX-wClfig?rel=0)
 
-<small>Latest update : Mon Feb 19 04:15:07 2024</small>
+<small>Latest update : Mon Feb 19 05:12:32 2024</small>
         
