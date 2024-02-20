@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Looking Sideways from the Parker Solar Probe
-Date : 2024-02-19
+### Today image : AM1054: Stars Form as Galaxies Collide
+Date : 2024-02-20
 
-![](https://www.youtube.com/embed/x-wX-wClfig?rel=0)
+![](https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg)
 
-<small>Latest update : Tue Feb 20 04:16:36 2024</small>
+<small>Latest update : Tue Feb 20 05:13:12 2024</small>
         
