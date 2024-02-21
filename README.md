@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : AM1054: Stars Form as Galaxies Collide
-Date : 2024-02-20
+### Today image : Seagull Nebula over Pinnacles' Peak
+Date : 2024-02-21
 
-![](https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_960.jpg)
 
-<small>Latest update : Wed Feb 21 04:15:04 2024</small>
+<small>Latest update : Wed Feb 21 05:12:43 2024</small>
         
