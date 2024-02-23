@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A View Toward M106
-Date : 2024-02-22
+### Today image : The Pencil Nebula Supernova Shock Wave
+Date : 2024-02-23
 
-![](https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg)
+![](https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing1024.jpg)
 
-<small>Latest update : Fri Feb 23 04:14:12 2024</small>
+<small>Latest update : Fri Feb 23 05:12:54 2024</small>
         
