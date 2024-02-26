@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Phoenix Aurora over Iceland
-Date : 2024-02-25
+### Today image : Martian Moon Eclipses Martian Moon
+Date : 2024-02-26
 
-![](https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg)
+![](https://youtube.com/embed/hwQTH0IGrwE?rel=0)
 
-<small>Latest update : Mon Feb 26 04:15:27 2024</small>
+<small>Latest update : Mon Feb 26 05:12:55 2024</small>
         
