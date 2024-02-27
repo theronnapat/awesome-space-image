@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Martian Moon Eclipses Martian Moon
-Date : 2024-02-26
+### Today image : Supernova Remnant Simeis 147
+Date : 2024-02-27
 
-![](https://youtube.com/embed/hwQTH0IGrwE?rel=0)
+![](https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg)
 
-<small>Latest update : Tue Feb 27 04:15:14 2024</small>
+<small>Latest update : Tue Feb 27 05:13:01 2024</small>
         
