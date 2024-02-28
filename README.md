@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Supernova Remnant Simeis 147
-Date : 2024-02-27
+### Today image : Shades of Night
+Date : 2024-02-28
 
-![](https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg)
+![](https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1080.jpg)
 
-<small>Latest update : Wed Feb 28 04:15:30 2024</small>
+<small>Latest update : Wed Feb 28 05:13:19 2024</small>
         
