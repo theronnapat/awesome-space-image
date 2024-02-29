@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Shades of Night
-Date : 2024-02-28
+### Today image : Julius Caesar and Leap Days
+Date : 2024-02-29
 
-![](https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg)
 
-<small>Latest update : Thu Feb 29 04:15:00 2024</small>
+<small>Latest update : Thu Feb 29 05:13:54 2024</small>
         
