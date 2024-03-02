@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Odysseus and The Dish
-Date : 2024-03-01
+### Today image : Odysseus on the Moon
+Date : 2024-03-02
 
-![](https://apod.nasa.gov/apod/image/2403/The_Dish_Tracking_IM-1_22February2024_04s.jpg)
+![](https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png)
 
-<small>Latest update : Sat Mar  2 04:14:22 2024</small>
+<small>Latest update : Sat Mar  2 05:12:36 2024</small>
         
