@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Odysseus on the Moon
-Date : 2024-03-02
+### Today image : A Total Solar Eclipse Close-Up in Real Time
+Date : 2024-03-03
 
-![](https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png)
+![](https://www.youtube.com/embed/5D9j-8Vhyto?rel=0&showinfo=0)
 
-<small>Latest update : Sun Mar  3 04:15:57 2024</small>
+<small>Latest update : Sun Mar  3 05:12:49 2024</small>
         
