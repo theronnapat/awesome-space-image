@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Total Solar Eclipse Close-Up in Real Time
-Date : 2024-03-03
+### Today image : Light Pillars Over Inner Mongolia
+Date : 2024-03-04
 
-![](https://www.youtube.com/embed/5D9j-8Vhyto?rel=0&showinfo=0)
+![](https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_960.jpg)
 
-<small>Latest update : Mon Mar  4 04:42:49 2024</small>
+<small>Latest update : Mon Mar  4 05:49:17 2024</small>
         
