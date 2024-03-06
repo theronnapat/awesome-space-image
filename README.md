@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 2170: Angel Nebula Abstract Art
-Date : 2024-03-05
+### Today image : M102: Edge-on Disk Galaxy
+Date : 2024-03-06
 
-![](https://apod.nasa.gov/apod/image/2403/AngelNebula_Moulton_960.jpg)
+![](https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_960.jpg)
 
-<small>Latest update : Wed Mar  6 04:14:58 2024</small>
+<small>Latest update : Wed Mar  6 05:12:08 2024</small>
         
