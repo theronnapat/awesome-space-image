@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M102: Edge-on Disk Galaxy
-Date : 2024-03-06
+### Today image : The Crew-8 Nebula
+Date : 2024-03-07
 
-![](https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_960.jpg)
+![](https://apod.nasa.gov/apod/image/2403/Crew-8image0_1024.jpeg)
 
-<small>Latest update : Thu Mar  7 04:14:37 2024</small>
+<small>Latest update : Thu Mar  7 05:10:39 2024</small>
         
