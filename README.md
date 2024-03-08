@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Crew-8 Nebula
-Date : 2024-03-07
+### Today image : The Tarantula Zone
+Date : 2024-03-08
 
-![](https://apod.nasa.gov/apod/image/2403/Crew-8image0_1024.jpeg)
+![](https://apod.nasa.gov/apod/image/2403/Tarantula-HST-ESO-Webb-SS1024.jpg)
 
-<small>Latest update : Fri Mar  8 04:15:29 2024</small>
+<small>Latest update : Fri Mar  8 05:13:08 2024</small>
         
