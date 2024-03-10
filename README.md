@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet Pons-Brooks in Northern Spring
-Date : 2024-03-09
+### Today image : A Total Eclipse at the End of the World
+Date : 2024-03-10
 
-![](https://apod.nasa.gov/apod/image/2403/2024_03_05_Pons-Brooks_Revuca_1200px.png)
+![](https://apod.nasa.gov/apod/image/2403/AntarcticEclipse_bruenjes_960.jpg)
 
-<small>Latest update : Sun Mar 10 04:15:13 2024</small>
+<small>Latest update : Sun Mar 10 05:12:08 2024</small>
         
