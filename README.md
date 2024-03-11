@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Total Eclipse at the End of the World
-Date : 2024-03-10
+### Today image : A Full Plankton Moon
+Date : 2024-03-11
 
-![](https://apod.nasa.gov/apod/image/2403/AntarcticEclipse_bruenjes_960.jpg)
+![](https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg)
 
-<small>Latest update : Mon Mar 11 03:15:25 2024</small>
+<small>Latest update : Mon Mar 11 04:16:06 2024</small>
         
