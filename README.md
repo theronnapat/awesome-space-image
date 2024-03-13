@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Galaxy-Shaped Rocket Exhaust Spiral
-Date : 2024-03-12
+### Today image : The Seagull Nebula
+Date : 2024-03-13
 
-![](https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_960.jpg)
+![](https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg)
 
-<small>Latest update : Wed Mar 13 03:14:39 2024</small>
+<small>Latest update : Wed Mar 13 04:14:45 2024</small>
         
