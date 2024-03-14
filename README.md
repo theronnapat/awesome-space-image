@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Seagull Nebula
-Date : 2024-03-13
+### Today image : Moon Pi and Mountain Shadow
+Date : 2024-03-14
 
-![](https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2403/MoonriseShadowDLopez_1024.jpg)
 
-<small>Latest update : Thu Mar 14 03:13:49 2024</small>
+<small>Latest update : Thu Mar 14 04:14:58 2024</small>
         
