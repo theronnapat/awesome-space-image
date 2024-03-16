@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Portrait of NGC 1055
-Date : 2024-03-15
+### Today image : ELT and the Milky Way
+Date : 2024-03-16
 
-![](https://apod.nasa.gov/apod/image/2403/Image133k_n1055_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2403/ELT_2024-03-13_1024.jpg)
 
-<small>Latest update : Sat Mar 16 03:13:39 2024</small>
+<small>Latest update : Sat Mar 16 04:14:14 2024</small>
         
