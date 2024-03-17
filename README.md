@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : ELT and the Milky Way
-Date : 2024-03-16
+### Today image : NGC 7714: Starburst after Galaxy Collision
+Date : 2024-03-17
 
-![](https://apod.nasa.gov/apod/image/2403/ELT_2024-03-13_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_1080.jpg)
 
-<small>Latest update : Sun Mar 17 03:12:53 2024</small>
+<small>Latest update : Sun Mar 17 04:14:57 2024</small>
         
