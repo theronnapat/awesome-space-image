@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7714: Starburst after Galaxy Collision
-Date : 2024-03-17
+### Today image : Comet Pons-Brooks' Swirling Coma
+Date : 2024-03-18
 
-![](https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2403/CometPonsBrook_Vallestad_960.jpg)
 
-<small>Latest update : Mon Mar 18 03:14:08 2024</small>
+<small>Latest update : Mon Mar 18 04:14:49 2024</small>
         
