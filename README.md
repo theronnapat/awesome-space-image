@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Picturesque Equinox Sunset
-Date : 2024-03-19
+### Today image : The Eyes in Markarian's Galaxy Chain
+Date : 2024-03-20
 
-![](https://apod.nasa.gov/apod/image/2403/EquinoxSunset_Dyer_960.jpg)
+![](https://apod.nasa.gov/apod/image/2403/Ngc4438_Selby_960.jpg)
 
-<small>Latest update : Wed Mar 20 03:14:17 2024</small>
+<small>Latest update : Wed Mar 20 04:16:38 2024</small>
         
