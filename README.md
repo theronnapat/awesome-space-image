@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ares 3 Landing Site: The Martian Revisited
-Date : 2024-03-23
+### Today image : Looking Back at an Eclipsed Earth
+Date : 2024-03-24
 
-![](https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg)
 
-<small>Latest update : Sun Mar 24 03:12:43 2024</small>
+<small>Latest update : Sun Mar 24 04:15:50 2024</small>
         
