@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Looking Back at an Eclipsed Earth
-Date : 2024-03-24
+### Today image : Sonified: The Jellyfish Nebula Supernova Remnant
+Date : 2024-03-25
 
-![](https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg)
+![](https://youtube.com/embed/NqBfQeJqkfU?rel=0)
 
-<small>Latest update : Mon Mar 25 03:15:47 2024</small>
+<small>Latest update : Mon Mar 25 04:16:05 2024</small>
         
