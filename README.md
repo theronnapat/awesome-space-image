@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Coma Cluster of Galaxies
-Date : 2024-03-27
+### Today image : Millions of Stars in Omega Centauri
+Date : 2024-03-28
 
-![](https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg)
+![](https://apod.nasa.gov/apod/image/2403/NGC5139_mdf1024.png)
 
-<small>Latest update : Thu Mar 28 03:13:22 2024</small>
+<small>Latest update : Thu Mar 28 04:14:40 2024</small>
         
