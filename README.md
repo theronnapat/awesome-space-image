@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Millions of Stars in Omega Centauri
-Date : 2024-03-28
+### Today image : Galileo's Europa
+Date : 2024-03-29
 
-![](https://apod.nasa.gov/apod/image/2403/NGC5139_mdf1024.png)
+![](https://apod.nasa.gov/apod/image/2403/PIA19048europa1024.jpg)
 
-<small>Latest update : Fri Mar 29 03:13:13 2024</small>
+<small>Latest update : Fri Mar 29 04:15:57 2024</small>
         
