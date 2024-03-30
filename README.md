@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Galileo's Europa
-Date : 2024-03-29
+### Today image : Medieval Astronomy from Melk Abbey
+Date : 2024-03-30
 
-![](https://apod.nasa.gov/apod/image/2403/PIA19048europa1024.jpg)
+![](https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg)
 
-<small>Latest update : Sat Mar 30 03:16:21 2024</small>
+<small>Latest update : Sat Mar 30 04:14:19 2024</small>
         
