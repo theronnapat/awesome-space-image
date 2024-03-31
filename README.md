@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Medieval Astronomy from Melk Abbey
-Date : 2024-03-30
+### Today image : Total Solar Eclipse Below the Bottom of the World
+Date : 2024-03-31
 
-![](https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg)
+![](https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1080.jpg)
 
-<small>Latest update : Sun Mar 31 03:14:51 2024</small>
+<small>Latest update : Sun Mar 31 04:16:24 2024</small>
         
