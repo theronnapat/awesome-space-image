@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Total Solar Eclipse Below the Bottom of the World
-Date : 2024-03-31
+### Today image : Swirling Magnetic Field around Our Galaxy's Central Black Hole
+Date : 2024-04-01
 
-![](https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg)
 
-<small>Latest update : Mon Apr  1 03:13:51 2024</small>
+<small>Latest update : Mon Apr  1 04:15:47 2024</small>
         
