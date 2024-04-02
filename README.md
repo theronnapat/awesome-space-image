@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Swirling Magnetic Field around Our Galaxy's Central Black Hole
-Date : 2024-04-01
+### Today image : Detailed View of a Solar Eclipse Corona
+Date : 2024-04-02
 
-![](https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg)
+![](https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1080.jpg)
 
-<small>Latest update : Tue Apr  2 03:15:36 2024</small>
+<small>Latest update : Tue Apr  2 04:15:03 2024</small>
         
