@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Detailed View of a Solar Eclipse Corona
-Date : 2024-04-02
+### Today image : Unusual Nebula Pa 30
+Date : 2024-04-03
 
-![](https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2404/Pa30V_NASA_960.jpg)
 
-<small>Latest update : Wed Apr  3 03:14:23 2024</small>
+<small>Latest update : Wed Apr  3 04:15:53 2024</small>
         
