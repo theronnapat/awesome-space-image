@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet Pons-Brooks at Night
-Date : 2024-04-04
+### Today image : The Solar Corona Unwrapped
+Date : 2024-04-05
 
-![](https://apod.nasa.gov/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg)
+![](https://apod.nasa.gov/apod/image/2404/CoronaGraph_1024.jpg)
 
-<small>Latest update : Fri Apr  5 03:15:02 2024</small>
+<small>Latest update : Fri Apr  5 04:17:52 2024</small>
         
