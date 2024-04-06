@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Solar Corona Unwrapped
-Date : 2024-04-05
+### Today image : Unwinding M51
+Date : 2024-04-06
 
-![](https://apod.nasa.gov/apod/image/2404/CoronaGraph_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2404/M51Unwound_crop600.jpg)
 
-<small>Latest update : Sat Apr  6 03:14:02 2024</small>
+<small>Latest update : Sat Apr  6 04:16:07 2024</small>
         
