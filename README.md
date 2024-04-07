@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Unwinding M51
-Date : 2024-04-06
+### Today image : A Total Solar Eclipse over Wyoming
+Date : 2024-04-07
 
-![](https://apod.nasa.gov/apod/image/2404/M51Unwound_crop600.jpg)
+![](https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg)
 
-<small>Latest update : Sun Apr  7 03:13:43 2024</small>
+<small>Latest update : Sun Apr  7 04:16:51 2024</small>
         
