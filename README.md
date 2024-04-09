@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Changing Ion Tail of Comet Pons-Brooks
-Date : 2024-04-08
+### Today image : Moon's Shadow over Lake Magog
+Date : 2024-04-09
 
-![](https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg)
+![](https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg)
 
-<small>Latest update : Tue Apr  9 03:15:41 2024</small>
+<small>Latest update : Tue Apr  9 04:16:42 2024</small>
         
