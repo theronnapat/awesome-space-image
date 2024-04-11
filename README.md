@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Planets Around a Total Eclipse
-Date : 2024-04-10
+### Today image : Eclipse in Seven
+Date : 2024-04-11
 
-![](https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg)
+![](https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg)
 
-<small>Latest update : Thu Apr 11 03:13:34 2024</small>
+<small>Latest update : Thu Apr 11 04:14:56 2024</small>
         
