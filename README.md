@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Eclipse in Seven
-Date : 2024-04-11
+### Today image : Total Totality
+Date : 2024-04-12
 
-![](https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg)
+![](https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg)
 
-<small>Latest update : Fri Apr 12 03:14:30 2024</small>
+<small>Latest update : Fri Apr 12 04:14:51 2024</small>
         
