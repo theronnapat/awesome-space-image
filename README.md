@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Palm Tree Partial Eclipse
-Date : 2024-04-13
+### Today image : How a Total Solar Eclipse Ended
+Date : 2024-04-14
 
-![](https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png)
+![](https://www.youtube.com/embed/w5uUcq__vMo?rel=0)
 
-<small>Latest update : Sun Apr 14 03:14:38 2024</small>
+<small>Latest update : Sun Apr 14 04:37:04 2024</small>
         
