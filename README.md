@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : How a Total Solar Eclipse Ended
-Date : 2024-04-14
+### Today image : The Cigar Galaxy from Hubble and Webb
+Date : 2024-04-15
 
-![](https://www.youtube.com/embed/w5uUcq__vMo?rel=0)
+![](https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_1080.jpg)
 
-<small>Latest update : Mon Apr 15 03:48:01 2024</small>
+<small>Latest update : Mon Apr 15 04:28:18 2024</small>
         
