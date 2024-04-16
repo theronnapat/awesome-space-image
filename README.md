@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Cigar Galaxy from Hubble and Webb
-Date : 2024-04-15
+### Today image : Filaments of the Vela Supernova Remnant
+Date : 2024-04-16
 
-![](https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_960.jpg)
 
-<small>Latest update : Tue Apr 16 03:15:18 2024</small>
+<small>Latest update : Tue Apr 16 04:15:34 2024</small>
         
