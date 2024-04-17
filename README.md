@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Filaments of the Vela Supernova Remnant
-Date : 2024-04-16
+### Today image : Total Eclipse and Comets
+Date : 2024-04-17
 
-![](https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_960.jpg)
+![](https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_1080.jpg)
 
-<small>Latest update : Wed Apr 17 03:14:00 2024</small>
+<small>Latest update : Wed Apr 17 04:16:38 2024</small>
         
