@@ -6,5 +6,5 @@ Date : 2024-04-16
 
 ![](https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_960.jpg)
 
-<small>Latest update : Tue Apr 16 23:13:23 2024</small>
+<small>Latest update : Wed Apr 17 00:58:37 2024</small>
         
