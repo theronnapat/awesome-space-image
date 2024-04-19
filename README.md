@@ -6,5 +6,5 @@ Date : 2024-04-19
 
 ![](https://apod.nasa.gov/apod/image/2404/NGC3372_ETA CARINA_LOPES1024.jpg)
 
-<small>Latest update : Fri Apr 19 16:17:59 2024</small>
+<small>Latest update : Fri Apr 19 17:12:07 2024</small>
         
