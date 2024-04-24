@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Contrail Shadow X
-Date : 2024-04-23
+### Today image : Dragon's Egg Bipolar Emission Nebula
+Date : 2024-04-24
 
-![](https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_960.jpg)
+![](https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_960.jpg)
 
-<small>Latest update : Wed Apr 24 03:14:56 2024</small>
+<small>Latest update : Wed Apr 24 04:15:19 2024</small>
         
