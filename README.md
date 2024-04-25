@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Dragon's Egg Bipolar Emission Nebula
-Date : 2024-04-24
+### Today image : NGC 604: Giant Stellar Nursery
+Date : 2024-04-25
 
-![](https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_960.jpg)
+![](https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam1024.png)
 
-<small>Latest update : Thu Apr 25 03:14:10 2024</small>
+<small>Latest update : Thu Apr 25 04:15:40 2024</small>
         
