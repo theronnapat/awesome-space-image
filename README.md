@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 604: Giant Stellar Nursery
-Date : 2024-04-25
+### Today image : Regulus and the Dwarf Galaxy
+Date : 2024-04-26
 
-![](https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam1024.png)
+![](https://apod.nasa.gov/apod/image/2404/Regulus_Dwarf_by_Markus_Horn1024.png)
 
-<small>Latest update : Fri Apr 26 03:15:07 2024</small>
+<small>Latest update : Fri Apr 26 04:15:17 2024</small>
         
