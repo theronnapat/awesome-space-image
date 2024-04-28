@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : All Sky Moon Shadow
-Date : 2024-04-27
+### Today image : Rings Around the Ring Nebula
+Date : 2024-04-28
 
-![](https://apod.nasa.gov/apod/image/2404/tse20240408h14_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_960.jpg)
 
-<small>Latest update : Sun Apr 28 03:14:32 2024</small>
+<small>Latest update : Sun Apr 28 04:14:55 2024</small>
         
