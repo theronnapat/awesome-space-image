@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : GK Per: Nova and Planetary Nebula
-Date : 2024-04-30
+### Today image : IC 1795: The Fishhead Nebula
+Date : 2024-05-01
 
-![](https://apod.nasa.gov/apod/image/2404/GKPerWide_DSC_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_960.jpg)
 
-<small>Latest update : Wed May  1 03:16:36 2024</small>
+<small>Latest update : Wed May  1 04:15:31 2024</small>
         
