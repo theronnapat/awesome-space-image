@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : IC 1795: The Fishhead Nebula
-Date : 2024-05-01
+### Today image : M100: A Grand Design Spiral Galaxy
+Date : 2024-05-02
 
-![](https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/M100_DrewEvans1024.png)
 
-<small>Latest update : Thu May  2 03:14:14 2024</small>
+<small>Latest update : Thu May  2 04:15:54 2024</small>
         
