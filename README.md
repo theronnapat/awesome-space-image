@@ -6,5 +6,5 @@ Date : 2024-05-03
 
 ![](https://apod.nasa.gov/apod/image/2405/STScI-WASP43b_temperature.png)
 
-<small>Latest update : Fri May  3 09:14:12 2024</small>
+<small>Latest update : Fri May  3 10:14:11 2024</small>
         
