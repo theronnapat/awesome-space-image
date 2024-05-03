@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M100: A Grand Design Spiral Galaxy
-Date : 2024-05-02
+### Today image : Temperatures on Exoplanet WASP-43b
+Date : 2024-05-03
 
-![](https://apod.nasa.gov/apod/image/2405/M100_DrewEvans1024.png)
+![](https://apod.nasa.gov/apod/image/2405/STScI-WASP43b_temperature.png)
 
-<small>Latest update : Fri May  3 03:15:03 2024</small>
+<small>Latest update : Fri May  3 04:17:07 2024</small>
         
