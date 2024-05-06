@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Black Hole Disrupts a Passing Star
-Date : 2024-05-05
+### Today image : A Total Solar Eclipse from Sliver to Ring
+Date : 2024-05-06
 
-![](https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_1080.jpg)
+![](https://www.youtube.com/embed/28gtfSziCgU?rel=0)
 
-<small>Latest update : Mon May  6 03:15:55 2024</small>
+<small>Latest update : Mon May  6 04:16:48 2024</small>
         
