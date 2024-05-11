@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Simulation: Two Black Holes Merge
-Date : 2024-05-10
+### Today image : AR 3664: Giant Sunspot Group
+Date : 2024-05-11
 
-![](https://www.youtube.com/embed/I_88S8DWbcU?rel=0)
+![](https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_960.jpg)
 
-<small>Latest update : Sat May 11 03:14:56 2024</small>
+<small>Latest update : Sat May 11 04:16:18 2024</small>
         
