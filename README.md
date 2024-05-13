@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Red Aurora over Poland
-Date : 2024-05-12
+### Today image : AR 3664 on a Setting Sun
+Date : 2024-05-13
 
-![](https://apod.nasa.gov/apod/image/2405/AuroraPoland_Durlej_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg)
 
-<small>Latest update : Mon May 13 03:14:35 2024</small>
+<small>Latest update : Mon May 13 04:17:11 2024</small>
         
