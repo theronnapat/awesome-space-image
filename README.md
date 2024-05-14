@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : AR 3664 on a Setting Sun
-Date : 2024-05-13
+### Today image : The 37 Cluster
+Date : 2024-05-14
 
-![](https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR_c1024.jpg)
 
-<small>Latest update : Tue May 14 03:16:02 2024</small>
+<small>Latest update : Tue May 14 04:15:37 2024</small>
         
