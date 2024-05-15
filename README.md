@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The 37 Cluster
-Date : 2024-05-14
+### Today image : AR 3664 at the Sun's Edge
+Date : 2024-05-15
 
-![](https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR_c1024.jpg)
+![](https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_960.jpg)
 
-<small>Latest update : Wed May 15 03:17:40 2024</small>
+<small>Latest update : Wed May 15 04:16:55 2024</small>
         
