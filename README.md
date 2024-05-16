@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : AR 3664 at the Sun's Edge
-Date : 2024-05-15
+### Today image : Aurora Georgia
+Date : 2024-05-16
 
-![](https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2_1024.jpg)
 
-<small>Latest update : Thu May 16 03:16:49 2024</small>
+<small>Latest update : Thu May 16 04:13:45 2024</small>
         
