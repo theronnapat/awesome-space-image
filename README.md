@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Aurora Georgia
-Date : 2024-05-16
+### Today image : Aurora Banks Peninsula
+Date : 2024-05-17
 
-![](https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2_600.jpg)
 
-<small>Latest update : Thu May 16 13:15:43 2024</small>
+<small>Latest update : Fri May 17 14:12:59 2024</small>
         
