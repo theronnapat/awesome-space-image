@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Aurora Banks Peninsula
-Date : 2024-05-17
+### Today image : North Celestial Aurora
+Date : 2024-05-18
 
-![](https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2_600.jpg)
+![](https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti1024.jpg)
 
-<small>Latest update : Sat May 18 03:14:33 2024</small>
+<small>Latest update : Sat May 18 04:15:30 2024</small>
         
