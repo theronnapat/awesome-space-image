@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jupiter Diving
-Date : 2024-05-19
+### Today image : Aurora Dome Sky
+Date : 2024-05-20
 
-![](https://www.youtube.com/embed/uj3Lq7Gu94Y?rel=0)
+![](https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg)
 
-<small>Latest update : Mon May 20 03:15:48 2024</small>
+<small>Latest update : Mon May 20 04:17:08 2024</small>
         
