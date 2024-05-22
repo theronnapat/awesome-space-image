@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : CG4: The Globule and the Galaxy
-Date : 2024-05-21
+### Today image : Green Aurora over Sweden
+Date : 2024-05-22
 
-![](https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/AuroraSweden_Strand_960.jpg)
 
-<small>Latest update : Wed May 22 03:16:35 2024</small>
+<small>Latest update : Wed May 22 04:16:08 2024</small>
         
