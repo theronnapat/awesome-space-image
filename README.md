@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M78 from the Euclid Space Telescope
-Date : 2024-05-24
+### Today image : Manicouagan Impact Crater from Space
+Date : 2024-05-25
 
-![](https://apod.nasa.gov/apod/image/2405/M78_Euclid_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/iss059e019043_1024.jpg)
 
-<small>Latest update : Sat May 25 03:17:17 2024</small>
+<small>Latest update : Sat May 25 04:15:37 2024</small>
         
