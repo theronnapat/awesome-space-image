@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Solar X Flare as Famous Active Region Returns
-Date : 2024-05-28
+### Today image : Stairway to the Milky Way
+Date : 2024-05-29
 
-![](https://www.youtube.com/embed/yt7uwWzSTw0?rel=0)
+![](https://apod.nasa.gov/apod/image/2405/StairwayToMilkyway_Marcin_1080.jpg)
 
-<small>Latest update : Wed May 29 03:15:45 2024</small>
+<small>Latest update : Wed May 29 04:18:15 2024</small>
         
