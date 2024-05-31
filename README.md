@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Lunar Corona over Paris
-Date : 2024-05-30
+### Today image : The Nebulous Realm of WR 134
+Date : 2024-05-31
 
-![](https://apod.nasa.gov/apod/image/2405/EiffelCorona_Binotto_960.jpg)
+![](https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_1024.png)
 
-<small>Latest update : Fri May 31 03:15:28 2024</small>
+<small>Latest update : Fri May 31 04:18:01 2024</small>
         
