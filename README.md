@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Nebulous Realm of WR 134
-Date : 2024-05-31
+### Today image : Stereo Helene
+Date : 2024-06-01
 
-![](https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_1024.png)
+![](https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg)
 
-<small>Latest update : Sat Jun  1 03:17:15 2024</small>
+<small>Latest update : Sat Jun  1 04:16:39 2024</small>
         
