@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Stereo Helene
-Date : 2024-06-01
+### Today image : Rotating Moon from LRO
+Date : 2024-06-02
 
-![](https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg)
+![](https://www.youtube.com/embed/sNUNB6CMnE8?rel=0)
 
-<small>Latest update : Sun Jun  2 03:15:51 2024</small>
+<small>Latest update : Sun Jun  2 04:15:24 2024</small>
         
