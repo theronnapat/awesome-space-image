@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Rotating Moon from LRO
-Date : 2024-06-02
+### Today image : NGC 2403 in Camelopardalis
+Date : 2024-06-03
 
-![](https://www.youtube.com/embed/sNUNB6CMnE8?rel=0)
+![](https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg)
 
-<small>Latest update : Mon Jun  3 03:16:19 2024</small>
+<small>Latest update : Mon Jun  3 04:18:37 2024</small>
         
