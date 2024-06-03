@@ -6,5 +6,5 @@ Date : 2024-06-03
 
 ![](https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg)
 
-<small>Latest update : Mon Jun  3 18:19:25 2024</small>
+<small>Latest update : Mon Jun  3 19:12:06 2024</small>
         
