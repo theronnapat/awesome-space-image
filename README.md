@@ -6,5 +6,5 @@ Date : 2024-06-04
 
 ![](https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg)
 
-<small>Latest update : Tue Jun  4 12:26:43 2024</small>
+<small>Latest update : Tue Jun  4 13:16:18 2024</small>
         
