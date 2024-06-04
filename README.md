@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 2403 in Camelopardalis
-Date : 2024-06-03
+### Today image : Comet Pons-Brooks Develops Opposing Tails
+Date : 2024-06-04
 
-![](https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg)
+![](https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg)
 
-<small>Latest update : Tue Jun  4 03:16:30 2024</small>
+<small>Latest update : Tue Jun  4 04:16:22 2024</small>
         
