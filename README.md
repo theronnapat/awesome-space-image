@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Shadow of a Martian Robot
-Date : 2024-06-05
+### Today image : NGC 4565: Galaxy on Edge
+Date : 2024-06-06
 
-![](https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg)
+![](https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg)
 
-<small>Latest update : Thu Jun  6 03:16:32 2024</small>
+<small>Latest update : Thu Jun  6 04:16:36 2024</small>
         
