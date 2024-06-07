@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 4565: Galaxy on Edge
-Date : 2024-06-06
+### Today image : SH2-308: The Dolphin Head Nebula
+Date : 2024-06-07
 
-![](https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg)
 
-<small>Latest update : Fri Jun  7 03:16:29 2024</small>
+<small>Latest update : Fri Jun  7 04:17:34 2024</small>
         
