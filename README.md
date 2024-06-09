@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Pandora's Cluster of Galaxies
-Date : 2024-06-08
+### Today image : How to Identify that Light in the Sky
+Date : 2024-06-09
 
-![](https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png)
+![](https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg)
 
-<small>Latest update : Sun Jun  9 03:15:54 2024</small>
+<small>Latest update : Sun Jun  9 04:16:50 2024</small>
         
