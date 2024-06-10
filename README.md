@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : How to Identify that Light in the Sky
-Date : 2024-06-09
+### Today image : Sh2-132: The Lion Nebula
+Date : 2024-06-10
 
-![](https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg)
+![](https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg)
 
-<small>Latest update : Mon Jun 10 03:16:00 2024</small>
+<small>Latest update : Mon Jun 10 04:18:59 2024</small>
         
