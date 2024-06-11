@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sh2-132: The Lion Nebula
-Date : 2024-06-10
+### Today image : Colorful Stars and Clouds near Rho Ophiuchi
+Date : 2024-06-11
 
-![](https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg)
+![](https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg)
 
-<small>Latest update : Tue Jun 11 03:15:43 2024</small>
+<small>Latest update : Tue Jun 11 04:17:52 2024</small>
         
