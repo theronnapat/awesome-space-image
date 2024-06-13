@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Aurora over Karkonosze Mountains
-Date : 2024-06-12
+### Today image : Messier 66 Close Up
+Date : 2024-06-13
 
-![](https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg)
 
-<small>Latest update : Thu Jun 13 03:15:41 2024</small>
+<small>Latest update : Thu Jun 13 04:17:13 2024</small>
         
