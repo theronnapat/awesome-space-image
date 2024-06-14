@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Messier 66 Close Up
-Date : 2024-06-13
+### Today image : RCW 85
+Date : 2024-06-14
 
-![](https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg)
 
-<small>Latest update : Fri Jun 14 03:15:37 2024</small>
+<small>Latest update : Fri Jun 14 04:17:03 2024</small>
         
