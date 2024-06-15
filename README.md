@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : RCW 85
-Date : 2024-06-14
+### Today image : Prominences and Filaments on the Active Sun
+Date : 2024-06-15
 
-![](https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg)
+![](https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg)
 
-<small>Latest update : Sat Jun 15 03:15:14 2024</small>
+<small>Latest update : Sat Jun 15 04:17:49 2024</small>
         
