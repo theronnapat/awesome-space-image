@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Prominences and Filaments on the Active Sun
-Date : 2024-06-15
+### Today image : Animation: Black Hole Destroys Star
+Date : 2024-06-16
 
-![](https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg)
+![](https://www.youtube.com/embed/ubBzcSD8G8k?rel=0)
 
-<small>Latest update : Sun Jun 16 03:15:37 2024</small>
+<small>Latest update : Sun Jun 16 04:16:21 2024</small>
         
