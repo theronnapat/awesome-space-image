@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Gigantic Jets over Himalayan Mountains
-Date : 2024-06-18
+### Today image : NGC 6188: Dragons of Ara
+Date : 2024-06-19
 
-![](https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg)
+![](https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg)
 
-<small>Latest update : Wed Jun 19 03:15:46 2024</small>
+<small>Latest update : Wed Jun 19 04:17:14 2024</small>
         
