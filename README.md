@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 6188: Dragons of Ara
-Date : 2024-06-19
+### Today image : Sandy and the Moon Halo
+Date : 2024-06-20
 
-![](https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg)
+![](https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg)
 
-<small>Latest update : Thu Jun 20 03:15:35 2024</small>
+<small>Latest update : Thu Jun 20 04:16:16 2024</small>
         
