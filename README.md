@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Hubble's NGC 1546
-Date : 2024-06-21
+### Today image : Lynds Dark Nebula 1251
+Date : 2024-06-22
 
-![](https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg)
+![](https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png)
 
-<small>Latest update : Sat Jun 22 03:17:03 2024</small>
+<small>Latest update : Sat Jun 22 04:16:07 2024</small>
         
