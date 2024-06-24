@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Colors of Saturn from Cassini
-Date : 2024-06-23
+### Today image : JADES-GS-z14-0: A New Farthest Object
+Date : 2024-06-24
 
-![](https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg)
+![](https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg)
 
-<small>Latest update : Mon Jun 24 03:16:07 2024</small>
+<small>Latest update : Mon Jun 24 04:17:01 2024</small>
         
