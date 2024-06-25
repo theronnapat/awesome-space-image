@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : JADES-GS-z14-0: A New Farthest Object
-Date : 2024-06-24
+### Today image : The Dark Doodad Nebula
+Date : 2024-06-25
 
-![](https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg)
+![](https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg)
 
-<small>Latest update : Tue Jun 25 03:15:57 2024</small>
+<small>Latest update : Tue Jun 25 04:16:31 2024</small>
         
