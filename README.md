@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Dark Doodad Nebula
-Date : 2024-06-25
+### Today image : Timelapse: Aurora, SAR, and the Milky Way
+Date : 2024-06-26
 
-![](https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg)
+![](https://www.youtube.com/embed/fisAZYNwDgk?rel=0)
 
-<small>Latest update : Wed Jun 26 03:16:27 2024</small>
+<small>Latest update : Wed Jun 26 04:18:13 2024</small>
         
