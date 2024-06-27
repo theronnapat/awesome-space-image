@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Timelapse: Aurora, SAR, and the Milky Way
-Date : 2024-06-26
+### Today image : Protostellar Outflows in Serpens
+Date : 2024-06-27
 
-![](https://www.youtube.com/embed/fisAZYNwDgk?rel=0)
+![](https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png)
 
-<small>Latest update : Thu Jun 27 03:16:15 2024</small>
+<small>Latest update : Thu Jun 27 04:19:01 2024</small>
         
