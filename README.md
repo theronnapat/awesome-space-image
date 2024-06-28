@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Protostellar Outflows in Serpens
-Date : 2024-06-27
+### Today image : Comet 13P/Olbers
+Date : 2024-06-28
 
-![](https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png)
+![](https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg)
 
-<small>Latest update : Fri Jun 28 03:16:37 2024</small>
+<small>Latest update : Fri Jun 28 04:16:41 2024</small>
         
