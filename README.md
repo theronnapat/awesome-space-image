@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet 13P/Olbers
-Date : 2024-06-28
+### Today image : A Solstice Moon
+Date : 2024-06-29
 
-![](https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg)
+![](https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg)
 
-<small>Latest update : Sat Jun 29 03:16:41 2024</small>
+<small>Latest update : Sat Jun 29 04:18:01 2024</small>
         
