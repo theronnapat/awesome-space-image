@@ -6,5 +6,5 @@ Date : 2024-07-02
 
 ![](https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg)
 
-<small>Latest update : Tue Jul  2 13:16:32 2024</small>
+<small>Latest update : Tue Jul  2 14:13:19 2024</small>
         
