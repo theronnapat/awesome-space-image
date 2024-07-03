@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 602: Oyster Star Cluster
-Date : 2024-07-02
+### Today image : M83: Star Streams and a Thousand Rubies
+Date : 2024-07-03
 
-![](https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg)
 
-<small>Latest update : Wed Jul  3 03:15:47 2024</small>
+<small>Latest update : Wed Jul  3 04:16:44 2024</small>
         
