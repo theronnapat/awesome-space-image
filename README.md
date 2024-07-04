@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M83: Star Streams and a Thousand Rubies
-Date : 2024-07-03
+### Today image : A Beautiful Trifid
+Date : 2024-07-04
 
-![](https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg)
+![](https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg)
 
-<small>Latest update : Thu Jul  4 03:17:18 2024</small>
+<small>Latest update : Thu Jul  4 04:16:29 2024</small>
         
