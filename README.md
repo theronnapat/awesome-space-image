@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Mount Etna Milky Way
-Date : 2024-07-05
+### Today image : NGC 7789: Caroline's Rose
+Date : 2024-07-06
 
-![](https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg)
+![](https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg)
 
-<small>Latest update : Sat Jul  6 03:17:12 2024</small>
+<small>Latest update : Sat Jul  6 04:17:17 2024</small>
         
