@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Exoplanet Zoo: Other Stars
-Date : 2024-07-08
+### Today image : Noctilucent Clouds over Florida
+Date : 2024-07-09
 
-![](https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg)
 
-<small>Latest update : Tue Jul  9 03:17:01 2024</small>
+<small>Latest update : Tue Jul  9 04:16:59 2024</small>
         
