@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Noctilucent Clouds over Florida
-Date : 2024-07-09
+### Today image : A Sagittarius Triplet
+Date : 2024-07-10
 
-![](https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg)
 
-<small>Latest update : Wed Jul 10 03:16:52 2024</small>
+<small>Latest update : Wed Jul 10 04:18:29 2024</small>
         
