@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Sagittarius Triplet
-Date : 2024-07-10
+### Today image : Globular Cluster Omega Centauri
+Date : 2024-07-11
 
-![](https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg)
+![](https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg)
 
-<small>Latest update : Thu Jul 11 03:18:02 2024</small>
+<small>Latest update : Thu Jul 11 04:19:06 2024</small>
         
