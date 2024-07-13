@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Jones-Emberson 1
-Date : 2024-07-12
+### Today image : Solar System Family Portrait
+Date : 2024-07-13
 
-![](https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg)
 
-<small>Latest update : Sat Jul 13 03:15:25 2024</small>
+<small>Latest update : Sat Jul 13 04:16:24 2024</small>
         
