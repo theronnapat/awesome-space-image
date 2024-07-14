@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Solar System Family Portrait
-Date : 2024-07-13
+### Today image : Meteor Misses Galaxy
+Date : 2024-07-14
 
-![](https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg)
+![](https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg)
 
-<small>Latest update : Sun Jul 14 03:17:17 2024</small>
+<small>Latest update : Sun Jul 14 04:19:28 2024</small>
         
