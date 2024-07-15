@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Meteor Misses Galaxy
-Date : 2024-07-14
+### Today image : The Tadpole Galaxy from Hubble
+Date : 2024-07-15
 
-![](https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg)
 
-<small>Latest update : Mon Jul 15 03:18:39 2024</small>
+<small>Latest update : Mon Jul 15 04:19:26 2024</small>
         
