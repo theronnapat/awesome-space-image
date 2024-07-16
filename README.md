@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Tadpole Galaxy from Hubble
-Date : 2024-07-15
+### Today image : Cometary Globules
+Date : 2024-07-16
 
-![](https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg)
 
-<small>Latest update : Tue Jul 16 03:19:07 2024</small>
+<small>Latest update : Tue Jul 16 04:17:17 2024</small>
         
