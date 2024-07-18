@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Villarrica Volcano Against the Sky
-Date : 2024-07-17
+### Today image : Messier 24: Sagittarius Star Cloud
+Date : 2024-07-18
 
-![](https://www.youtube.com/embed/aX4ozspTPQY?rel=0)
+![](https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg)
 
-<small>Latest update : Thu Jul 18 03:18:39 2024</small>
+<small>Latest update : Thu Jul 18 04:18:03 2024</small>
         
