@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Anticrepuscular Rays at the Planet Festival
-Date : 2024-07-19
+### Today image : Apollo 11 Landing Panorama
+Date : 2024-07-20
 
-![](https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg)
+![](https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg)
 
-<small>Latest update : Sat Jul 20 03:16:12 2024</small>
+<small>Latest update : Sat Jul 20 04:18:44 2024</small>
         
