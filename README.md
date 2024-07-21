@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Apollo 11 Landing Panorama
-Date : 2024-07-20
+### Today image : King of Wings Hoodoo under the Milky Way
+Date : 2024-07-21
 
-![](https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg)
+![](https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg)
 
-<small>Latest update : Sun Jul 21 03:16:46 2024</small>
+<small>Latest update : Sun Jul 21 04:16:36 2024</small>
         
