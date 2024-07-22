@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : King of Wings Hoodoo under the Milky Way
-Date : 2024-07-21
+### Today image : Chamaeleon Dark Nebulas
+Date : 2024-07-22
 
-![](https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg)
 
-<small>Latest update : Mon Jul 22 03:17:17 2024</small>
+<small>Latest update : Mon Jul 22 04:17:51 2024</small>
         
