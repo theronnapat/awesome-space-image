@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Chamaeleon Dark Nebulas
-Date : 2024-07-22
+### Today image : The Crab Nebula from Visible to X-Ray
+Date : 2024-07-23
 
-![](https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg)
 
-<small>Latest update : Tue Jul 23 03:18:07 2024</small>
+<small>Latest update : Tue Jul 23 04:17:12 2024</small>
         
