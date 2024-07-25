@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Exaggerated Moon
-Date : 2024-07-24
+### Today image : NGC 7023: The Iris Nebula
+Date : 2024-07-25
 
-![](https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg)
 
-<small>Latest update : Thu Jul 25 03:16:16 2024</small>
+<small>Latest update : Thu Jul 25 04:17:58 2024</small>
         
