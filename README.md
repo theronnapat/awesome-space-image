@@ -6,5 +6,5 @@ Date : 2024-07-25
 
 ![](https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg)
 
-<small>Latest update : Thu Jul 25 18:19:04 2024</small>
+<small>Latest update : Thu Jul 25 19:12:10 2024</small>
         
