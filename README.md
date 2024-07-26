@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7023: The Iris Nebula
-Date : 2024-07-25
+### Today image : Facing NGC 6946
+Date : 2024-07-26
 
-![](https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg)
+![](https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg)
 
-<small>Latest update : Fri Jul 26 03:16:56 2024</small>
+<small>Latest update : Fri Jul 26 04:17:54 2024</small>
         
