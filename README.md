@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Facing NGC 6946
-Date : 2024-07-26
+### Today image : Saturn at the Moon's Edge
+Date : 2024-07-27
 
-![](https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg)
 
-<small>Latest update : Sat Jul 27 03:17:07 2024</small>
+<small>Latest update : Sat Jul 27 04:17:25 2024</small>
         
