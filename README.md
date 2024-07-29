@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sun Dance
-Date : 2024-07-28
+### Today image : Milky Way over Uluru
+Date : 2024-07-29
 
-![](https://www.youtube.com/embed/hQFEHH5E69s?rel=0)
+![](https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg)
 
-<small>Latest update : Mon Jul 29 03:16:51 2024</small>
+<small>Latest update : Mon Jul 29 04:17:26 2024</small>
         
