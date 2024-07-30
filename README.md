@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way over Uluru
-Date : 2024-07-29
+### Today image : Arp 142: Interacting Galaxies from Webb
+Date : 2024-07-30
 
-![](https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg)
+![](https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg)
 
-<small>Latest update : Tue Jul 30 03:18:36 2024</small>
+<small>Latest update : Tue Jul 30 04:17:13 2024</small>
         
