@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Leopard Spots on Martian Rocks
-Date : 2024-07-31
+### Today image : Comet Olbers over Kunetice Castle
+Date : 2024-08-01
 
-![](https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg)
+![](https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg)
 
-<small>Latest update : Thu Aug  1 03:16:46 2024</small>
+<small>Latest update : Thu Aug  1 04:17:39 2024</small>
         
