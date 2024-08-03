@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Mars Passing By
-Date : 2024-08-02
+### Today image : Glory and Fog Bow
+Date : 2024-08-03
 
-![](https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2408/GloryFog_label.png)
 
-<small>Latest update : Sat Aug  3 03:15:29 2024</small>
+<small>Latest update : Sat Aug  3 04:17:10 2024</small>
         
