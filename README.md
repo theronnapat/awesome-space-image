@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Gaia: Here Comes the Sun
-Date : 2024-08-04
+### Today image : Milky Way Over Tunisia
+Date : 2024-08-05
 
-![](https://www.youtube.com/embed/XORui0wFKnE?rel=0)
+![](https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg)
 
-<small>Latest update : Mon Aug  5 03:16:27 2024</small>
+<small>Latest update : Mon Aug  5 04:17:50 2024</small>
         
