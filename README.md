@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way Over Tunisia
-Date : 2024-08-05
+### Today image : Storm Cloud Over Texas
+Date : 2024-08-06
 
-![](https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg)
+![](https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg)
 
-<small>Latest update : Tue Aug  6 03:16:34 2024</small>
+<small>Latest update : Tue Aug  6 04:18:28 2024</small>
         
