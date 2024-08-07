@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Storm Cloud Over Texas
-Date : 2024-08-06
+### Today image : Milky Way Behind Three Merlons
+Date : 2024-08-07
 
-![](https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg)
+![](https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg)
 
-<small>Latest update : Wed Aug  7 03:16:42 2024</small>
+<small>Latest update : Wed Aug  7 04:18:44 2024</small>
         
