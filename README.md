@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way Behind Three Merlons
-Date : 2024-08-07
+### Today image : Periodic Comet Swift-Tuttle
+Date : 2024-08-08
 
-![](https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg)
+![](https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg)
 
-<small>Latest update : Thu Aug  8 03:16:30 2024</small>
+<small>Latest update : Thu Aug  8 04:19:39 2024</small>
         
