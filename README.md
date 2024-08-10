@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Perseid Below
-Date : 2024-08-09
+### Today image : The Light, Dark, and Dusty Trifid
+Date : 2024-08-10
 
-![](https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg)
 
-<small>Latest update : Sat Aug 10 03:19:00 2024</small>
+<small>Latest update : Sat Aug 10 04:19:04 2024</small>
         
