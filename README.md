@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Light, Dark, and Dusty Trifid
-Date : 2024-08-10
+### Today image : Animation: Perseid Meteor Shower
+Date : 2024-08-11
 
-![](https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg)
+![](https://www.meteorshowers.org/view/perseids)
 
-<small>Latest update : Sun Aug 11 03:16:05 2024</small>
+<small>Latest update : Sun Aug 11 04:17:42 2024</small>
         
