@@ -6,5 +6,5 @@ Date : 2024-08-11
 
 ![](https://www.meteorshowers.org/view/perseids)
 
-<small>Latest update : Sun Aug 11 04:17:42 2024</small>
+<small>Latest update : Sun Aug 11 05:13:26 2024</small>
         
