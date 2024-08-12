@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Animation: Perseid Meteor Shower
-Date : 2024-08-11
+### Today image : Perseid Meteors over Stonehenge
+Date : 2024-08-12
 
-![](https://www.meteorshowers.org/view/perseids)
+![](https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg)
 
-<small>Latest update : Mon Aug 12 03:16:57 2024</small>
+<small>Latest update : Mon Aug 12 04:17:50 2024</small>
         
