@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Giant Jet from the International Space Station
-Date : 2024-08-13
+### Today image : Meteors and Aurora over Germany
+Date : 2024-08-14
 
-![](https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg)
+![](https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg)
 
-<small>Latest update : Wed Aug 14 03:18:12 2024</small>
+<small>Latest update : Wed Aug 14 04:17:44 2024</small>
         
