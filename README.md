@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sky Full of Arcs
-Date : 2024-08-17
+### Today image : A Solar Prominence Eruption from SDO
+Date : 2024-08-18
 
-![](https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg)
+![](https://www.youtube.com/embed/PBL1RBj-P1g?rel=0)
 
-<small>Latest update : Sun Aug 18 03:15:46 2024</small>
+<small>Latest update : Sun Aug 18 04:18:52 2024</small>
         
