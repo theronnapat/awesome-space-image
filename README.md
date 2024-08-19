@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Solar Prominence Eruption from SDO
-Date : 2024-08-18
+### Today image : IC 5146: The Cocoon Nebula
+Date : 2024-08-19
 
-![](https://www.youtube.com/embed/PBL1RBj-P1g?rel=0)
+![](https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg)
 
-<small>Latest update : Mon Aug 19 03:16:34 2024</small>
+<small>Latest update : Mon Aug 19 04:17:17 2024</small>
         
