@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Supermoon Beyond the Temple of Poseidon
-Date : 2024-08-20
+### Today image : Fermi's 12-year All-Sky Gamma-ray Map
+Date : 2024-08-21
 
-![](https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg)
+![](https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg)
 
-<small>Latest update : Wed Aug 21 03:16:26 2024</small>
+<small>Latest update : Wed Aug 21 04:18:35 2024</small>
         
