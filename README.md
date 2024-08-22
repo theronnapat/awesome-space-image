@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Fermi's 12-year All-Sky Gamma-ray Map
-Date : 2024-08-21
+### Today image : The Dark Tower in Scorpius
+Date : 2024-08-22
 
-![](https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg)
 
-<small>Latest update : Thu Aug 22 03:17:16 2024</small>
+<small>Latest update : Thu Aug 22 04:17:34 2024</small>
         
