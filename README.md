@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Dark Tower in Scorpius
-Date : 2024-08-22
+### Today image : Supernova Remnant CTA 1
+Date : 2024-08-23
 
-![](https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg)
+![](https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg)
 
-<small>Latest update : Fri Aug 23 03:16:20 2024</small>
+<small>Latest update : Fri Aug 23 04:18:06 2024</small>
         
