@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Supernova Remnant CTA 1
-Date : 2024-08-23
+### Today image : South Pacific Shadowset
+Date : 2024-08-24
 
-![](https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg)
+![](https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg)
 
-<small>Latest update : Sat Aug 24 03:15:52 2024</small>
+<small>Latest update : Sat Aug 24 04:17:10 2024</small>
         
