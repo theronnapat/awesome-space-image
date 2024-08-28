@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Moon Eclipses Saturn
-Date : 2024-08-27
+### Today image : Tulip Nebula and Black Hole Cygnus X-1
+Date : 2024-08-28
 
-![](https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg)
+![](https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg)
 
-<small>Latest update : Wed Aug 28 03:16:58 2024</small>
+<small>Latest update : Wed Aug 28 04:18:34 2024</small>
         
