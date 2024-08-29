@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Tulip Nebula and Black Hole Cygnus X-1
-Date : 2024-08-28
+### Today image : Star Factory Messier 17
+Date : 2024-08-29
 
-![](https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg)
 
-<small>Latest update : Thu Aug 29 03:16:54 2024</small>
+<small>Latest update : Thu Aug 29 04:18:21 2024</small>
         
