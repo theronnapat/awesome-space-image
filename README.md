@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Quarter Moon and Sister Stars
-Date : 2024-09-03
+### Today image : NGC 6995: The Bat Nebula
+Date : 2024-09-04
 
-![](https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_960.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Bat_Taivalnaa_960.jpg)
 
-<small>Latest update : Wed Sep  4 03:16:30 2024</small>
+<small>Latest update : Wed Sep  4 04:18:51 2024</small>
         
