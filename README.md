@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 6995: The Bat Nebula
-Date : 2024-09-04
+### Today image : NGC 247 and Friends
+Date : 2024-09-05
 
-![](https://apod.nasa.gov/apod/image/2409/Bat_Taivalnaa_960.jpg)
+![](https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG)
 
-<small>Latest update : Wed Sep  4 23:15:40 2024</small>
+<small>Latest update : Thu Sep  5 01:10:50 2024</small>
         
