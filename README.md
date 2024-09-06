@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 247 and Friends
-Date : 2024-09-05
+### Today image : Ringed Ice Giant Neptune
+Date : 2024-09-06
 
-![](https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG)
+![](https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png)
 
-<small>Latest update : Fri Sep  6 03:17:02 2024</small>
+<small>Latest update : Fri Sep  6 04:18:11 2024</small>
         
