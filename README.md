@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ringed Ice Giant Neptune
-Date : 2024-09-06
+### Today image : Small Moon Deimos
+Date : 2024-09-07
 
-![](https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png)
+![](https://apod.nasa.gov/apod/image/2409/PIA11826_c.jpg)
 
-<small>Latest update : Sat Sep  7 03:16:40 2024</small>
+<small>Latest update : Sat Sep  7 04:18:22 2024</small>
         
