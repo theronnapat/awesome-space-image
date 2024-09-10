@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Mars: Moon, Craters, and Volcanos
-Date : 2024-09-09
+### Today image : Horsehead and Orion Nebulas
+Date : 2024-09-10
 
-![](https://apod.nasa.gov/apod/image/2409/MarsPan_ExpressLuck_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2409/OrionOrange_Grelin_1080.jpg)
 
-<small>Latest update : Tue Sep 10 03:17:26 2024</small>
+<small>Latest update : Tue Sep 10 04:18:29 2024</small>
         
