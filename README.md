@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Horsehead and Orion Nebulas
-Date : 2024-09-10
+### Today image : A Night Sky over the Tatra Mountains
+Date : 2024-09-11
 
-![](https://apod.nasa.gov/apod/image/2409/OrionOrange_Grelin_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2409/NightTatra_Rosadzinski_960.jpg)
 
-<small>Latest update : Wed Sep 11 03:16:32 2024</small>
+<small>Latest update : Wed Sep 11 04:20:38 2024</small>
         
