@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Night Sky over the Tatra Mountains
-Date : 2024-09-11
+### Today image : Young Star Cluster NGC 1333
+Date : 2024-09-12
 
-![](https://apod.nasa.gov/apod/image/2409/NightTatra_Rosadzinski_960.jpg)
+![](https://apod.nasa.gov/apod/image/2409/NGC1333Webb1024.jpg)
 
-<small>Latest update : Thu Sep 12 03:16:44 2024</small>
+<small>Latest update : Thu Sep 12 04:19:40 2024</small>
         
