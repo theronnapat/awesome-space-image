@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Young Star Cluster NGC 1333
-Date : 2024-09-12
+### Today image : Aurora Australis and the International Space Station
+Date : 2024-09-13
 
-![](https://apod.nasa.gov/apod/image/2409/NGC1333Webb1024.jpg)
+![](https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg)
 
-<small>Latest update : Fri Sep 13 03:17:32 2024</small>
+<small>Latest update : Fri Sep 13 04:18:09 2024</small>
         
