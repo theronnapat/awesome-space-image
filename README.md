@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Aurora Australis and the International Space Station
-Date : 2024-09-13
+### Today image : The Moona Lisa
+Date : 2024-09-14
 
-![](https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg)
 
-<small>Latest update : Sat Sep 14 03:16:54 2024</small>
+<small>Latest update : Sat Sep 14 04:18:29 2024</small>
         
