@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Moona Lisa
-Date : 2024-09-14
+### Today image : Find the Man in the Moon
+Date : 2024-09-15
 
-![](https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg)
+![](https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg)
 
-<small>Latest update : Sun Sep 15 03:21:12 2024</small>
+<small>Latest update : Sun Sep 15 04:18:31 2024</small>
         
