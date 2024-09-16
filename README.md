@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Find the Man in the Moon
-Date : 2024-09-15
+### Today image : Mercury's Vivaldi Crater from BepiColombo
+Date : 2024-09-16
 
-![](https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg)
 
-<small>Latest update : Mon Sep 16 03:23:35 2024</small>
+<small>Latest update : Mon Sep 16 04:19:18 2024</small>
         
