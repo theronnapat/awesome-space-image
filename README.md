@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Mercury's Vivaldi Crater from BepiColombo
-Date : 2024-09-16
+### Today image : Melotte 15 in the Heart Nebula
+Date : 2024-09-17
 
-![](https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg)
+![](https://apod.nasa.gov/apod/image/2409/HeartMelotte_McInnis_960.jpg)
 
-<small>Latest update : Tue Sep 17 03:19:12 2024</small>
+<small>Latest update : Tue Sep 17 04:17:32 2024</small>
         
