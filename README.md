@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Mermaid Nebula Supernova Remnant
-Date : 2024-09-18
+### Today image : The Dark Seahorse of Cepheus
+Date : 2024-09-19
 
-![](https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg)
 
-<small>Latest update : Thu Sep 19 03:18:36 2024</small>
+<small>Latest update : Thu Sep 19 04:19:04 2024</small>
         
