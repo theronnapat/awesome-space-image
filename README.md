@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Dark Seahorse of Cepheus
-Date : 2024-09-19
+### Today image : A Hazy Harvest Moon
+Date : 2024-09-20
 
-![](https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg)
+![](https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1024c.png)
 
-<small>Latest update : Fri Sep 20 03:18:34 2024</small>
+<small>Latest update : Fri Sep 20 04:18:41 2024</small>
         
