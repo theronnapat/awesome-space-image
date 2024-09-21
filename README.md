@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : A Hazy Harvest Moon
-Date : 2024-09-20
+### Today image : Sunrise Shadows in the Sky
+Date : 2024-09-21
 
-![](https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1024c.png)
+![](https://apod.nasa.gov/apod/image/2409/RayosCrepusculares_1024.jpg)
 
-<small>Latest update : Sat Sep 21 03:16:42 2024</small>
+<small>Latest update : Sat Sep 21 04:18:37 2024</small>
         
