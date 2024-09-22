@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Sunrise Shadows in the Sky
-Date : 2024-09-21
+### Today image : Chicagohenge: Equinox in an Aligned City
+Date : 2024-09-22
 
-![](https://apod.nasa.gov/apod/image/2409/RayosCrepusculares_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg)
 
-<small>Latest update : Sun Sep 22 03:22:03 2024</small>
+<small>Latest update : Sun Sep 22 04:20:42 2024</small>
         
