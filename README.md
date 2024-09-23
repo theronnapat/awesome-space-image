@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Chicagohenge: Equinox in an Aligned City
-Date : 2024-09-22
+### Today image : Comet Tsuchinshan-ATLAS Approaches
+Date : 2024-09-23
 
-![](https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg)
 
-<small>Latest update : Mon Sep 23 03:20:54 2024</small>
+<small>Latest update : Mon Sep 23 04:19:05 2024</small>
         
