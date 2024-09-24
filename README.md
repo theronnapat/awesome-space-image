@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet Tsuchinshan-ATLAS Approaches
-Date : 2024-09-23
+### Today image : NGC 6727: The Rampaging Baboon Nebula
+Date : 2024-09-24
 
-![](https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_960.jpg)
 
-<small>Latest update : Tue Sep 24 03:21:07 2024</small>
+<small>Latest update : Tue Sep 24 04:19:30 2024</small>
         
