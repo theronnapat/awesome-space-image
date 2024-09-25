@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 6727: The Rampaging Baboon Nebula
-Date : 2024-09-24
+### Today image : Comet A3 Through an Australian Sunrise
+Date : 2024-09-25
 
-![](https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_960.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Comet23A3_LucyHu_960.jpg)
 
-<small>Latest update : Wed Sep 25 03:23:34 2024</small>
+<small>Latest update : Wed Sep 25 04:19:40 2024</small>
         
