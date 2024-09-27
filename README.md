@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Great Globular Cluster in Hercules
-Date : 2024-09-26
+### Today image : Stellar Streams in the Local Universe
+Date : 2024-09-27
 
-![](https://apod.nasa.gov/apod/image/2409/M13IFN_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2409/SSSGreatestHits1024.png)
 
-<small>Latest update : Fri Sep 27 03:21:16 2024</small>
+<small>Latest update : Fri Sep 27 04:19:20 2024</small>
         
