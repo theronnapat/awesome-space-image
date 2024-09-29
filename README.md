@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Rocket Eclipse at Sunset
-Date : 2024-09-28
+### Today image : Seven Dusty Sisters
+Date : 2024-09-29
 
-![](https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg)
 
-<small>Latest update : Sun Sep 29 03:24:41 2024</small>
+<small>Latest update : Sun Sep 29 04:18:52 2024</small>
         
