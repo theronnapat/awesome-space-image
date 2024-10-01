@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet Tsuchinshan-ATLAS over Mexico
-Date : 2024-09-30
+### Today image : Porphyrion: The Longest Known Black Hole Jets
+Date : 2024-10-01
 
-![](https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg)
+![](https://www.youtube.com/embed/ExGvwNuKyMc?ref=0)
 
-<small>Latest update : Tue Oct  1 03:31:39 2024</small>
+<small>Latest update : Tue Oct  1 04:20:19 2024</small>
         
