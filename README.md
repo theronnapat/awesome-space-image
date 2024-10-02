@@ -4,7 +4,7 @@
 ### Today image : Porphyrion: The Longest Known Black Hole Jets
 Date : 2024-10-01
 
-![](https://www.youtube.com/embed/ExGvwNuKyMc?ref=0)
+![](https://www.youtube.com/embed/ExGvwNuKyMc?rel=0)
 
-<small>Latest update : Tue Oct  1 23:15:24 2024</small>
+<small>Latest update : Wed Oct  2 01:14:57 2024</small>
         
