@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Large Magellanic Cloud Galaxy
-Date : 2024-10-02
+### Today image : Eclipse at Sunrise
+Date : 2024-10-03
 
-![](https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2410/earliestsolareclipse1024.jpg)
 
-<small>Latest update : Thu Oct  3 03:21:17 2024</small>
+<small>Latest update : Thu Oct  3 04:19:49 2024</small>
         
