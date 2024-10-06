@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M27: Not a Comet
-Date : 2024-10-05
+### Today image : The Magnificent Tail of Comet McNaught
+Date : 2024-10-06
 
-![](https://apod.nasa.gov/apod/image/2410/m27_RGB_CC_FLAT_MEW1024.jpg)
+![](https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg)
 
-<small>Latest update : Sun Oct  6 03:23:45 2024</small>
+<small>Latest update : Sun Oct  6 04:19:21 2024</small>
         
