@@ -4,22 +4,29 @@ import datetime
 from dotenv import load_dotenv
 from APIManager import NasaAPI
 
-
-MIN_PYTHON = (3, 0)
-if sys.version_info < MIN_PYTHON:
-    sys.exit("Python %s.%s or later is required.\n" % MIN_PYTHON)
-
 load_dotenv()
+MIN_PYTHON = (3, 0)
 
-API_KEY = os.getenv("API")
+def check_python_version():
+    if sys.version_info < MIN_PYTHON:
+        sys.exit("Python %s.%s or later is required.\n" % MIN_PYTHON)
 
-if API_KEY is None:
-    sys.exit("API key is required.\n")
-
+def load_api_key():
+    api_key = os.getenv("API")
+    if api_key is None:
+        sys.exit("API key is required.\n")
+    return api_key
 
 if __name__ == '__main__':
-    x = datetime.datetime.now()
-    update = x.strftime("%c")
+    check_python_version()
 
-    nasaAPI = NasaAPI(api_key=API_KEY)
-    nasaAPI.get_today_image(update=update)
+    api_key=load_api_key()
+
+    current_time = datetime.datetime.now()
+    update = current_time.strftime("%c")
+    
+    try:
+        nasaAPI = NasaAPI(api_key=api_key)
+        nasaAPI.get_today_image(update=update)
+    except Exception as e:
+        sys.exit("Error trying to fetch and write NASA image of the day. \n")

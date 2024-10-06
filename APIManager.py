@@ -3,38 +3,53 @@ import sys
 import requests
 
 class NasaAPI:
+    API_ENDPOINT = 'https://api.nasa.gov/planetary/apod?api_key={}'
+    FILE_PATH = "./README.md"
+
     def __init__(self, api_key):
         self._api_key = api_key
 
     def get_api_key(self):
         return self._api_key
 
-    def get_today_image(self, update):
-        f = open("./README.md", "w")
+    def fetch_image_data(self):
+        try:
+            endpoint = self.API_ENDPOINT.format(self._api_key)
+            response = requests.get(endpoint, timeout=10)
 
-        endpoint = 'https://api.nasa.gov/planetary/apod?api_key={}'.format(self._api_key)
+            response.raise_for_status()
 
-        res = requests.get(endpoint)
-        data = json.loads(res.text)
+            return response.json()
 
-        if 'date' not in data:
-            sys.exit("Error: date not found in data.\n")
+        except requests.exceptions.Timeout:
+            sys.exit("Error: Request timed out.")
 
-        if 'title' not in data:
-            sys.exit("Error: title not found in data.\n")
+        except requests.exceptions.RequestException as e:
+            sys.exit(f"Error: Unable to fetch data: {e}")
 
-        if 'url' not in data:
-            sys.exit("Error: url not found in data.\n")
+    def validate_data(self, data):
+        required_keys = ['date', 'title', 'url']
+        for key in required_keys:
+            if key not in data:
+                sys.exit(f"Error: {key} not found in data.")
 
-        f.write(f"""
+    def write_to_file(self, data, update):
+        try:
+            with open(self.FILE_PATH, 'w') as file:
+                file.write(f"""
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : {data["title"]}
-Date : {data["date"]}
+### Today's image: {data["title"]}
+Date: {data["date"]}
 
 ![]({data["url"]})
 
-<small>Latest update : {update}</small>
-        """)
-
-        f.close()
+<small>Latest update: {update}</small>
+                """)
+        except IOError as e:
+            sys.exit("Error: Failed to write to file.")
+     
+    def get_today_image(self, update):
+        data = self.fetch_image_data()
+        self.validate_data(data)
+        self.write_to_file(data, update)
