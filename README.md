@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Magnificent Tail of Comet McNaught
-Date : 2024-10-06
+### Today image : The Long Tails Comet Tsuchinshan-ATLAS
+Date : 2024-10-07
 
-![](https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg)
+![](https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1080.jpg)
 
-<small>Latest update : Mon Oct  7 03:23:48 2024</small>
+<small>Latest update : Mon Oct  7 04:20:03 2024</small>
         
