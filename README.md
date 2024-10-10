@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M106: A Spiral Galaxy with a Strange Center
-Date : 2024-10-09
+### Today image : Five Bright Comets from SOHO
+Date : 2024-10-10
 
-![](https://apod.nasa.gov/apod/image/2410/M106_Obaidly_960.jpg)
+![](https://apod.nasa.gov/apod/image/2410/SohoKy3_1024.jpg)
 
-<small>Latest update : Thu Oct 10 03:21:06 2024</small>
+<small>Latest update : Thu Oct 10 04:19:00 2024</small>
         
