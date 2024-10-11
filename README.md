@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Five Bright Comets from SOHO
-Date : 2024-10-10
+### Today image : Ring of Fire over Easter Island
+Date : 2024-10-11
 
-![](https://apod.nasa.gov/apod/image/2410/SohoKy3_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2410/eclipse_02_1024.jpg)
 
-<small>Latest update : Fri Oct 11 03:20:22 2024</small>
+<small>Latest update : Fri Oct 11 04:19:11 2024</small>
         
