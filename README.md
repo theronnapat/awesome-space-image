@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ring of Fire over Easter Island
-Date : 2024-10-11
+### Today image : Northern Lights, West Virginia
+Date : 2024-10-12
 
-![](https://apod.nasa.gov/apod/image/2410/eclipse_02_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg)
 
-<small>Latest update : Sat Oct 12 03:18:58 2024</small>
+<small>Latest update : Sat Oct 12 04:18:37 2024</small>
         
