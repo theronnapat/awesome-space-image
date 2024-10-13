@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Northern Lights, West Virginia
-Date : 2024-10-12
+### Today image : Aurora Timelapse Over Italian Alps
+Date : 2024-10-13
 
-![](https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg)
+![](https://www.youtube.com/embed/uCbpHh_rTgc?rel=0)
 
-<small>Latest update : Sun Oct 13 03:23:30 2024</small>
+<small>Latest update : Sun Oct 13 04:18:36 2024</small>
         
