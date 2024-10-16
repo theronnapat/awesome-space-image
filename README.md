@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Aurora Timelapse Over Italian Alps
-Date : 2024-10-13
+### Today image : Colorful Aurora over New Zealand
+Date : 2024-10-16
 
-![](https://www.youtube.com/embed/uCbpHh_rTgc?rel=0)
+![](https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_1080.jpg)
 
-<small>Latest update : Sun Oct 13 14:13:00 2024</small>
+<small>Latest update : Wed Oct 16 16:18:58 2024</small>
         
