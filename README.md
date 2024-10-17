@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Colorful Aurora over New Zealand
-Date : 2024-10-16
+### Today image : The Clipper and the Comet
+Date : 2024-10-17
 
-![](https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg)
 
-<small>Latest update : Thu Oct 17 03:21:42 2024</small>
+<small>Latest update : Thu Oct 17 04:19:27 2024</small>
         
