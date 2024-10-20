@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Comet Tsuchinshan-ATLAS Flys Away
-Date : 2024-10-19
+### Today image : Dark Matter in a Simulated Universe
+Date : 2024-10-20
 
-![](https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days_1100.jpg)
+![](https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_960.jpg)
 
-<small>Latest update : Sun Oct 20 03:26:04 2024</small>
+<small>Latest update : Sun Oct 20 04:19:24 2024</small>
         
