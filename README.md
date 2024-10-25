@@ -6,5 +6,5 @@ Date : 2024-10-25
 
 ![](https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg)
 
-<small>Latest update : Fri Oct 25 20:18:21 2024</small>
+<small>Latest update : Fri Oct 25 21:15:51 2024</small>
         
