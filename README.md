@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Globular Star Cluster NGC 6752
-Date : 2024-10-25
+### Today image : Phantoms in Cassiopeia
+Date : 2024-10-26
 
-![](https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg)
+![](https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg)
 
-<small>Latest update : Sat Oct 26 03:19:22 2024</small>
+<small>Latest update : Sat Oct 26 04:19:32 2024</small>
         
