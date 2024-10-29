@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : STEVE: A Glowing River over France
-Date : 2024-10-28
+### Today image : NGC 602: Stars Versus Pillars from Webb
+Date : 2024-10-29
 
-![](https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2410/NGC602_Webb_960.jpg)
 
-<small>Latest update : Tue Oct 29 03:23:35 2024</small>
+<small>Latest update : Tue Oct 29 04:20:06 2024</small>
         
