@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 7635: The Bubble Nebula
-Date : 2024-10-30
+### Today image : Rigel and the Witch Head Nebula
+Date : 2024-10-31
 
-![](https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg)
+![](https://apod.nasa.gov/apod/image/2410/Strega_apod_1024r.jpg)
 
-<small>Latest update : Thu Oct 31 03:24:41 2024</small>
+<small>Latest update : Thu Oct 31 04:20:33 2024</small>
         
