@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Rigel and the Witch Head Nebula
-Date : 2024-10-31
+### Today image : Spiral Galaxy NGC 6744
+Date : 2024-11-01
 
-![](https://apod.nasa.gov/apod/image/2410/Strega_apod_1024r.jpg)
+![](https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm1024.jpg)
 
-<small>Latest update : Fri Nov  1 03:33:43 2024</small>
+<small>Latest update : Fri Nov  1 04:19:35 2024</small>
         
