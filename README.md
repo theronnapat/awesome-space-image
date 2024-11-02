@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Spiral Galaxy NGC 6744
-Date : 2024-11-01
+### Today image : Saturn at Night
+Date : 2024-11-02
 
-![](https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm1024.jpg)
+![](https://apod.nasa.gov/apod/image/2411/LastRingPortrait_Cassini_1080.jpg)
 
-<small>Latest update : Sat Nov  2 03:20:24 2024</small>
+<small>Latest update : Sat Nov  2 04:19:48 2024</small>
         
