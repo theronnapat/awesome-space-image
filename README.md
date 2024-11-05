@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : M42: The Great Nebula in Orion
-Date : 2024-11-04
+### Today image : Milky Way over Easter Island
+Date : 2024-11-05
 
-![](https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg)
+![](https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg)
 
-<small>Latest update : Tue Nov  5 04:19:21 2024</small>
+<small>Latest update : Tue Nov  5 05:15:47 2024</small>
         
