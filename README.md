@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Milky Way over Easter Island
-Date : 2024-11-05
+### Today image : Comet Tsuchinshan-Atlas over the Dolomites
+Date : 2024-11-06
 
-![](https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg)
+![](https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg)
 
-<small>Latest update : Wed Nov  6 04:20:13 2024</small>
+<small>Latest update : Wed Nov  6 05:15:46 2024</small>
         
