@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Shell Galaxies in Pisces
-Date : 2024-11-07
+### Today image : Helping Hand in Cassiopeia
+Date : 2024-11-08
 
-![](https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg)
+![](https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR1024.png)
 
-<small>Latest update : Fri Nov  8 04:19:09 2024</small>
+<small>Latest update : Fri Nov  8 05:15:52 2024</small>
         
