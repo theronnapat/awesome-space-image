@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Helping Hand in Cassiopeia
-Date : 2024-11-08
+### Today image : Neptune at Night
+Date : 2024-11-09
 
-![](https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR1024.png)
+![](https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg)
 
-<small>Latest update : Sat Nov  9 04:18:22 2024</small>
+<small>Latest update : Sat Nov  9 05:14:18 2024</small>
         
