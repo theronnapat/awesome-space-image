@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Neptune at Night
-Date : 2024-11-09
+### Today image : Valles Marineris: The Grand Canyon of Mars
+Date : 2024-11-10
 
-![](https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg)
+![](https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg)
 
-<small>Latest update : Sun Nov 10 04:18:09 2024</small>
+<small>Latest update : Sun Nov 10 05:14:32 2024</small>
         
