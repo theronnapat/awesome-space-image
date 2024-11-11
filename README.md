@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Valles Marineris: The Grand Canyon of Mars
-Date : 2024-11-10
+### Today image : The Unusual Tails of Comet Tsuchinshan-Atlas
+Date : 2024-11-11
 
-![](https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg)
+![](https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_960.jpg)
 
-<small>Latest update : Mon Nov 11 04:19:27 2024</small>
+<small>Latest update : Mon Nov 11 05:16:41 2024</small>
         
