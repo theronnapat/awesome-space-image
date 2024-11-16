@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Apollo 12 and Surveyor 3
-Date : 2024-11-15
+### Today image : Pluto at Night
+Date : 2024-11-16
 
-![](https://apod.nasa.gov/apod/image/2411/KF-ApAn48-7133-4_1024.jpg)
+![](https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight1024c.jpg)
 
-<small>Latest update : Sat Nov 16 04:20:01 2024</small>
+<small>Latest update : Sat Nov 16 05:15:58 2024</small>
         
