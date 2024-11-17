@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Pluto at Night
-Date : 2024-11-16
+### Today image : LDN 1471: A Windblown Star Cavity
+Date : 2024-11-17
 
-![](https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight1024c.jpg)
+![](https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_960.jpg)
 
-<small>Latest update : Sun Nov 17 04:19:19 2024</small>
+<small>Latest update : Sun Nov 17 05:16:06 2024</small>
         
