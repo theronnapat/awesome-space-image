@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : LDN 1471: A Windblown Star Cavity
-Date : 2024-11-17
+### Today image : Stars and Dust in the Pacman Nebula
+Date : 2024-11-18
 
-![](https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_960.jpg)
+![](https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg)
 
-<small>Latest update : Mon Nov 18 04:20:41 2024</small>
+<small>Latest update : Mon Nov 18 05:17:07 2024</small>
         
