@@ -9,13 +9,21 @@ class NasaAPI:
     def get_api_key(self):
         return self._api_key
 
+    def request(self, endpoint):
+        res = requests.get(endpoint)
+        if res.status_code == 200:
+            data = json.loads(res.text)
+            return data
+        elif res.status_code == 403:
+            raise ValueError("Invalid API Key.\n")
+        elif res.status_code == 429:
+            raise ValueError("Too many requests, API key exhausted please provide a new API key.\n")
+
     def get_today_image(self, update):
-        f = open("./README.md", "w")
 
         endpoint = 'https://api.nasa.gov/planetary/apod?api_key={}'.format(self._api_key)
 
-        res = requests.get(endpoint)
-        data = json.loads(res.text)
+        data = self.request(endpoint)
 
         if 'date' not in data:
             sys.exit("Error: date not found in data.\n")
@@ -25,6 +33,8 @@ class NasaAPI:
 
         if 'url' not in data:
             sys.exit("Error: url not found in data.\n")
+
+        f = open("./README.md", "w")
 
         f.write(f"""
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
