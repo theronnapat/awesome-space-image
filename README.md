@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Stars and Dust in the Pacman Nebula
-Date : 2024-11-18
+### Today image : Undulatus Clouds over Las Campanas Observatory
+Date : 2024-11-19
 
-![](https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg)
+![](https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg)
 
-<small>Latest update : Tue Nov 19 04:20:01 2024</small>
+<small>Latest update : Tue Nov 19 05:16:08 2024</small>
         
