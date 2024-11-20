@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Undulatus Clouds over Las Campanas Observatory
-Date : 2024-11-19
+### Today image : Earthset from Orion
+Date : 2024-11-20
 
-![](https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg)
+![](https://apod.nasa.gov/apod/image/2411/earthset-snap01.png)
 
-<small>Latest update : Wed Nov 20 04:20:30 2024</small>
+<small>Latest update : Wed Nov 20 05:16:16 2024</small>
         
