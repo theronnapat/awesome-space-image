@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Earthset from Orion
-Date : 2024-11-20
+### Today image : The Elephant's Trunk in Cepheus
+Date : 2024-11-21
 
-![](https://apod.nasa.gov/apod/image/2411/earthset-snap01.png)
+![](https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg)
 
-<small>Latest update : Thu Nov 21 04:20:33 2024</small>
+<small>Latest update : Thu Nov 21 05:16:34 2024</small>
         
