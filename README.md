@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Elephant's Trunk in Cepheus
-Date : 2024-11-21
+### Today image : The Medusa Nebula
+Date : 2024-11-22
 
-![](https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg)
+![](https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg)
 
-<small>Latest update : Fri Nov 22 04:20:32 2024</small>
+<small>Latest update : Fri Nov 22 05:16:27 2024</small>
         
