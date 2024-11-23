@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Medusa Nebula
-Date : 2024-11-22
+### Today image : Interplanetary Earth
+Date : 2024-11-23
 
-![](https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg)
+![](https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1024c.jpg)
 
-<small>Latest update : Sat Nov 23 04:20:20 2024</small>
+<small>Latest update : Sat Nov 23 05:16:06 2024</small>
         
