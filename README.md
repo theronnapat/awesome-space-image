@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Interplanetary Earth
-Date : 2024-11-23
+### Today image : Journey to the Center of the Galaxy
+Date : 2024-11-24
 
-![](https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1024c.jpg)
+![](https://www.youtube.com/embed/FNHexFdacK0?rel=0)
 
-<small>Latest update : Sun Nov 24 04:20:19 2024</small>
+<small>Latest update : Sun Nov 24 05:15:22 2024</small>
         
