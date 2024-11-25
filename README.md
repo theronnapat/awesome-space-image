@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Journey to the Center of the Galaxy
-Date : 2024-11-24
+### Today image : The Horsehead Nebula
+Date : 2024-11-25
 
-![](https://www.youtube.com/embed/FNHexFdacK0?rel=0)
+![](https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_960.jpg)
 
-<small>Latest update : Mon Nov 25 04:20:39 2024</small>
+<small>Latest update : Mon Nov 25 05:17:01 2024</small>
         
