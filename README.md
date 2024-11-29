@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 206 and the Star Clouds of Andromeda
-Date : 2024-11-28
+### Today image : Messier 4
+Date : 2024-11-29
 
-![](https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg)
+![](https://apod.nasa.gov/apod/image/2411/m4_STXL16200_RC14_LRGB1024.jpg)
 
-<small>Latest update : Fri Nov 29 04:20:53 2024</small>
+<small>Latest update : Fri Nov 29 05:16:59 2024</small>
         
