@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Winter and Summer on a Little Planet
-Date : 2024-11-30
+### Today image : Cosmic Latte: The Average Color of the Universe
+Date : 2024-12-01
 
-![](https://apod.nasa.gov/apod/image/2411/LittleplanetGalibier-CamilleNIEL1024.jpg)
+![](https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg)
 
-<small>Latest update : Sun Dec  1 04:22:09 2024</small>
+<small>Latest update : Sun Dec  1 05:16:19 2024</small>
         
