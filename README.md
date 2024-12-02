@@ -6,5 +6,5 @@ Date : 2024-12-02
 
 ![](https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg)
 
-<small>Latest update : Mon Dec  2 17:15:02 2024</small>
+<small>Latest update : Mon Dec  2 18:24:00 2024</small>
         
