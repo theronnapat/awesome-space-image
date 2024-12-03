@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : NGC 300: A Galaxy of Stars
-Date : 2024-12-02
+### Today image : Ice Clouds over a Red Planet
+Date : 2024-12-03
 
-![](https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg)
+![](https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg)
 
-<small>Latest update : Tue Dec  3 04:21:28 2024</small>
+<small>Latest update : Tue Dec  3 05:17:09 2024</small>
         
