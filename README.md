@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Ice Clouds over a Red Planet
-Date : 2024-12-03
+### Today image : Driveway Analemma
+Date : 2024-12-04
 
-![](https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg)
+![](https://www.youtube.com/embed/7QB_MOemCqs?rel=0)
 
-<small>Latest update : Wed Dec  4 04:20:41 2024</small>
+<small>Latest update : Wed Dec  4 05:16:55 2024</small>
         
