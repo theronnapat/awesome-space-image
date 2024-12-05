@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Driveway Analemma
-Date : 2024-12-04
+### Today image : Stereo Jupiter near Opposition
+Date : 2024-12-05
 
-![](https://www.youtube.com/embed/7QB_MOemCqs?rel=0)
+![](https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png)
 
-<small>Latest update : Thu Dec  5 04:20:57 2024</small>
+<small>Latest update : Thu Dec  5 05:17:16 2024</small>
         
