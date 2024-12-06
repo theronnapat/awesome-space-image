@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Stereo Jupiter near Opposition
-Date : 2024-12-05
+### Today image : Xuyi Station and the Fireball
+Date : 2024-12-06
 
-![](https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png)
+![](https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg)
 
-<small>Latest update : Fri Dec  6 04:20:49 2024</small>
+<small>Latest update : Fri Dec  6 05:17:03 2024</small>
         
