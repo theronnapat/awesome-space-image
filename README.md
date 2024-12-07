@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Xuyi Station and the Fireball
-Date : 2024-12-06
+### Today image : Rocket Engine Fireplace
+Date : 2024-12-07
 
-![](https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg)
+![](https://apod.nasa.gov/apod/image/2412/NASARocketEngineFireplaceSnap600.png)
 
-<small>Latest update : Sat Dec  7 04:20:30 2024</small>
+<small>Latest update : Sat Dec  7 05:16:09 2024</small>
         
