@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : Aurora around Saturn's North Pole
-Date : 2024-12-08
+### Today image : Pleiades: The Seven Sisters Star Cluster
+Date : 2024-12-09
 
-![](https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg)
+![](https://apod.nasa.gov/apod/image/2412/Pleiades_Pelizzo_960.jpg)
 
-<small>Latest update : Mon Dec  9 04:21:11 2024</small>
+<small>Latest update : Mon Dec  9 05:17:50 2024</small>
         
