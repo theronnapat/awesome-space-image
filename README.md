@@ -1,10 +1,10 @@
 
 # Awesome space image of the day from [NASA](https://api.nasa.gov/)
 
-### Today image : The Shells and Jets of Galaxy Centaurus A
-Date : 2024-12-11
+### Today image : Phaethon's Brood
+Date : 2024-12-12
 
-![](https://apod.nasa.gov/apod/image/2412/CenAShellsJets_Olsen_1080.jpg)
+![](https://apod.nasa.gov/apod/image/2412/MSato_Phaethon-and-Geminids-v2.jpg)
 
-<small>Latest update : Thu Dec 12 04:20:44 2024</small>
+<small>Latest update : Thu Dec 12 05:17:13 2024</small>
         
